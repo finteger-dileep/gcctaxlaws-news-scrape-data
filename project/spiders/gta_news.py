@@ -1,46 +1,68 @@
-import scrapy
+"""
+GTA Qatar news spider - scrapes https://gta.gov.qa/en/media-center/news
+
+Extends BaseNewsSpider.  Can be run:
+  - Via the orchestrator (run_scrapers.py) - source_config is injected.
+  - Standalone: scrapy crawl gta_news -o output.json
+    (uses built-in defaults; global_config defaults to 1-week window)
+"""
 import re
+import scrapy
 from urllib.parse import urljoin
-from datetime import datetime
 
-from project.items import NewsItem
-
-BASE_URL = "https://gta.gov.qa"
-AJAX_URL = "https://gta.gov.qa/en/ajax/media-center.page"
-NEWS_SOURCE = "https://gta.gov.qa/en/media-center/news"
+from project.spiders.base_news_spider import BaseNewsSpider
+from project.utils.date_utils import parse_date
 
 
-class GtaNewsSpider(scrapy.Spider):
+class GtaNewsSpider(BaseNewsSpider):
     name = "gta_news"
-    custom_settings = {
-        "FEEDS": {
-            "gta_news.json": {
-                "format": "json",
-                "overwrite": True,
-                "indent": 2,
-            }
+
+    # --- Default config used when running the spider standalone ---
+    _DEFAULT_SOURCE_CONFIG = {
+        "id": "gta_qatar",
+        "name": "General Tax Authority Qatar",
+        "sourceType": "official",
+        "sourceCountry": "QA",
+        "config": {
+            "baseUrl": "https://gta.gov.qa",
+            "ajaxUrl": "https://gta.gov.qa/en/ajax/media-center.page",
+            "source": "https://gta.gov.qa/en/media-center/news",
+            "country": "Qatar",
+            "countries": ["Qatar"],
+            "primaryCountry": "Qatar",
+            "jurisdictions": ["QA"],
         },
-        # Disable scrapy-poet / zyte-api addons so plain HTTP requests are used
-        "ADDONS": {},
     }
+    _DEFAULT_GLOBAL_CONFIG = {"maxAgeHours": 168}
+
+    def __init__(self, source_config=None, global_config=None, *args, **kwargs):
+        sc = source_config if source_config is not None else self._DEFAULT_SOURCE_CONFIG
+        gc = global_config if global_config is not None else self._DEFAULT_GLOBAL_CONFIG
+        super().__init__(source_config=sc, global_config=gc, *args, **kwargs)
+
+        meta = self.source_config.get("config", {})
+        self._base_url = meta.get("baseUrl", "https://gta.gov.qa")
+        self._ajax_url = meta.get("ajaxUrl", "https://gta.gov.qa/en/ajax/media-center.page")
+        self._referrer = meta.get("source", "https://gta.gov.qa/en/media-center/news")
 
     def start_requests(self):
         yield scrapy.Request(
-            url=f"{AJAX_URL}?dct=Content%2FNews&start=0&rows=10",
+            url=f"{self._ajax_url}?dct=Content%2FNews&start=0&rows=10",
             callback=self.parse,
-            headers={"Referer": NEWS_SOURCE},
+            headers={"Referer": self._referrer},
             cb_kwargs={"start": 0},
             dont_filter=True,
         )
 
     def parse(self, response, start=0):
         items = response.css("li.bottom-details-item")
+        stop_pagination = False
 
         for item in items:
             title_el = item.css(".desc-title a")
             title = title_el.css("::text").get("").strip()
             relative_link = title_el.attrib.get("href", "")
-            link = urljoin(BASE_URL, relative_link) if relative_link else ""
+            link = urljoin(self._base_url, relative_link) if relative_link else ""
 
             description = re.sub(
                 r"\s+",
@@ -49,24 +71,35 @@ class GtaNewsSpider(scrapy.Spider):
             ).strip()
 
             thumb_src = (item.css(".img-wrapper img::attr(src)").get("") or "").strip()
-            thumbnail = urljoin(BASE_URL, thumb_src) if thumb_src else ""
+            thumbnail = urljoin(self._base_url, thumb_src) if thumb_src else ""
 
-            date_text = "".join(
+            raw_date = "".join(
                 t for t in item.css(".date ::text").getall() if t.strip()
             ).strip()
-            pub_date = self._parse_date(date_text)
+            pub_date = parse_date(raw_date)
 
-            yield NewsItem(
+            if pub_date and not self.is_within_timeframe(pub_date):
+                stop_pagination = True
+                continue
+
+            if not title:
+                continue
+
+            yield self.build_item(
                 title=title,
                 link=link,
                 description=description,
                 thumbnail=thumbnail,
+                pub_date=pub_date,
                 category="News",
-                pubDate=pub_date,
-                source=NEWS_SOURCE,
             )
 
-        # Follow pagination using data attributes on the #pagination-here div
+        if stop_pagination:
+            self.logger.info(
+                f"{self.name}: reached articles older than cutoff at start={start}; stopping."
+            )
+            return
+
         total_str = response.css("#pagination-here::attr(data-total)").get()
         rows_str = response.css("#pagination-here::attr(data-rows)").get()
 
@@ -76,19 +109,9 @@ class GtaNewsSpider(scrapy.Spider):
             next_start = start + rows
             if next_start < total:
                 yield scrapy.Request(
-                    url=f"{AJAX_URL}?dct=Content%2FNews&start={next_start}&rows={rows}",
+                    url=f"{self._ajax_url}?dct=Content%2FNews&start={next_start}&rows={rows}",
                     callback=self.parse,
-                    headers={"Referer": NEWS_SOURCE},
+                    headers={"Referer": self._referrer},
                     cb_kwargs={"start": next_start},
                     dont_filter=True,
                 )
-
-    def _parse_date(self, date_text):
-        date_text = date_text.strip()
-        for fmt in ("%d-%b-%Y", "%d/%m/%Y", "%Y-%m-%d"):
-            try:
-                dt = datetime.strptime(date_text, fmt)
-                return dt.strftime("%Y-%m-%dT00:00:00")
-            except ValueError:
-                continue
-        return date_text

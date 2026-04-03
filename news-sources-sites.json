@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "outputFile": "news_output.json",
+    "logsDir": "logs",
+    "timeframe": {
+      "value": 1,
+      "unit": "weeks",
+      "description": "Options: 1/2/3 weeks, 1 month (adjust maxAgeHours accordingly)"
+    },
+    "maxAgeHours": 168,
+    "minArticlesToKeep": 5,
+    "cleanupEnabled": true,
+    "lastScrapedAt": "2026-04-03T10:38:03.437653+00:00"
+  },
+  "sources": [
+    {
+      "id": "gta_qatar",
+      "name": "General Tax Authority Qatar",
+      "sourceType": "official",
+      "sourceCountry": "QA",
+      "enabled": true,
+      "spider": "gta_news",
+      "config": {
+        "baseUrl": "https://gta.gov.qa",
+        "ajaxUrl": "https://gta.gov.qa/en/ajax/media-center.page",
+        "source": "https://gta.gov.qa/en/media-center/news",
+        "country": "Qatar",
+        "countries": [
+          "Qatar"
+        ],
+        "primaryCountry": "Qatar",
+        "jurisdictions": [
+          "QA"
+        ]
+      }
+    }
+  ],
+  "_howToAddSource": {
+    "description": "Copy one of the objects in 'sources' and fill in the fields below.",
+    "requiredFields": [
+      "id",
+      "name",
+      "sourceType",
+      "sourceCountry",
+      "enabled",
+      "spider",
+      "config"
+    ],
+    "sourceType": "'official' for government/regulatory bodies, 'news' for media outlets",
+    "spider": "Name of the spider class (must exist in project/spiders/). Add a new .py file there for each new site.",
+    "enabled": "Set to false to disable a source without removing it"
+  }
+}

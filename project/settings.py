@@ -3,6 +3,16 @@ BOT_NAME = "project"
 SPIDER_MODULES = ["project.spiders"]
 NEWSPIDER_MODULE = "project.spiders"
 
+# Respect robots.txt by default; set False if a site allows scraping
+ROBOTSTXT_OBEY = False
+
+# Be polite: 0.5-second delay between requests (orchestrator overrides if needed)
+DOWNLOAD_DELAY = 0.5
+
+# No item pipelines by default — the orchestrator enables CollectorPipeline at runtime.
+# To use when running spiders standalone, pass -o output.json on the CLI.
+ITEM_PIPELINES = {}
+
 ADDONS = {}
 
 try:
@@ -17,3 +27,4 @@ try:
     ZYTE_API_TRANSPARENT_MODE = False
 except ImportError:
     pass
+
