@@ -1,16 +1,11 @@
 {
   "settings": {
-    "outputFile": "news_output.json",
+    "outputFile": "news-data.json",
     "logsDir": "logs",
-    "timeframe": {
-      "value": 1,
-      "unit": "weeks",
-      "description": "Options: 1/2/3 weeks, 1 month (adjust maxAgeHours accordingly)"
-    },
     "maxAgeHours": 168,
     "minArticlesToKeep": 5,
     "cleanupEnabled": true,
-    "lastScrapedAt": "2026-04-03T10:38:03.437653+00:00"
+    "lastScrapedAt": "2026-04-03T12:22:01.523119+00:00"
   },
   "sources": [
     {
@@ -33,21 +28,47 @@
           "QA"
         ]
       }
+    },
+    {
+      "id": "oman_tax_authority",
+      "name": "Oman Tax Authority",
+      "sourceType": "official",
+      "sourceCountry": "OM",
+      "enabled": true,
+      "spider": "oman_tax_news",
+      "config": {
+        "baseUrl": "https://tms.taxoman.gov.om",
+        "source": "https://tms.taxoman.gov.om/portal/news",
+        "country": "Oman",
+        "countries": [
+          "Oman"
+        ],
+        "primaryCountry": "Oman",
+        "jurisdictions": [
+          "OM"
+        ]
+      }
+    },
+    {
+      "id": "bahrain_nbr",
+      "name": "National Bureau for Revenue - Bahrain",
+      "sourceType": "official",
+      "sourceCountry": "BH",
+      "enabled": true,
+      "spider": "bahrain_nbr",
+      "config": {
+        "baseUrl": "https://www.nbr.gov.bh",
+        "source": "https://www.nbr.gov.bh/releases",
+        "langUrl": "https://www.nbr.gov.bh/language/en",
+        "country": "Bahrain",
+        "countries": [
+          "Bahrain"
+        ],
+        "primaryCountry": "Bahrain",
+        "jurisdictions": [
+          "BH"
+        ]
+      }
     }
-  ],
-  "_howToAddSource": {
-    "description": "Copy one of the objects in 'sources' and fill in the fields below.",
-    "requiredFields": [
-      "id",
-      "name",
-      "sourceType",
-      "sourceCountry",
-      "enabled",
-      "spider",
-      "config"
-    ],
-    "sourceType": "'official' for government/regulatory bodies, 'news' for media outlets",
-    "spider": "Name of the spider class (must exist in project/spiders/). Add a new .py file there for each new site.",
-    "enabled": "Set to false to disable a source without removing it"
-  }
+  ]
 }
