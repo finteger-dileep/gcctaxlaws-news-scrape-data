@@ -13,18 +13,24 @@ DOWNLOAD_DELAY = 0.5
 # To use when running spiders standalone, pass -o output.json on the CLI.
 ITEM_PIPELINES = {}
 
+import os as _os
+
 ADDONS = {}
 
 try:
     import scrapy_poet
-    import scrapy_zyte_api
-    ADDONS = {
-        scrapy_poet.Addon: 300,
-        scrapy_zyte_api.Addon: 500,
-    }
+    ADDONS[scrapy_poet.Addon] = 300
     SCRAPY_POET_DISCOVER = ["project.pages"]
-    # ZYTE_API_KEY = "YOUR_API_KEY"
-    ZYTE_API_TRANSPARENT_MODE = False
+
+    # Only enable the Zyte API download-handler addon when a key is supplied.
+    # Without a key, ScrapyZyteAPIHTTPSDownloadHandler replaces the default
+    # HTTPS handler and makes all HTTPS requests fail.
+    _zyte_key = _os.environ.get("ZYTE_API_KEY", "")
+    if _zyte_key:
+        import scrapy_zyte_api
+        ADDONS[scrapy_zyte_api.Addon] = 500
+        ZYTE_API_TRANSPARENT_MODE = False
+        ZYTE_API_KEY = _zyte_key
 except ImportError:
     pass
 
