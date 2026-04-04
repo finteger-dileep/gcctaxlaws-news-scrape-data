@@ -2,10 +2,10 @@
   "settings": {
     "outputFile": "news-data.json",
     "logsDir": "logs",
-    "maxAgeHours": 168,
+    "maxAgeHours": 2160,
     "minArticlesToKeep": 5,
     "cleanupEnabled": true,
-    "lastScrapedAt": "2026-04-03T12:22:01.523119+00:00"
+    "lastScrapedAt": "2026-04-04T06:11:16.879233+00:00"
   },
   "sources": [
     {
@@ -67,6 +67,92 @@
         "primaryCountry": "Bahrain",
         "jurisdictions": [
           "BH"
+        ]
+      }
+    },
+    {
+      "id": "zatca_saudi",
+      "name": "Zakat, Tax and Customs Authority - Saudi Arabia",
+      "sourceType": "official",
+      "sourceCountry": "SA",
+      "enabled": true,
+      "spider": "zatca_news",
+      "config": {
+        "baseUrl": "https://zatca.gov.sa",
+        "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/default.aspx",
+        "apiUrl": "https://zatca.gov.sa/en/_LAYOUTS/15/GAZTInternet/PortalHandler.ashx?op=LoadItems&listUrl=/en/MediaCenter/News/pages&viewName=Home",
+        "country": "Saudi Arabia",
+        "countries": [
+          "Saudi Arabia"
+        ],
+        "primaryCountry": "Saudi Arabia",
+        "jurisdictions": [
+          "SA"
+        ]
+      }
+    },
+    {
+      "id": "peninsula_qatar",
+      "name": "The Peninsula Qatar",
+      "sourceType": "media",
+      "sourceCountry": "QA",
+      "enabled": true,
+      "spider": "peninsula_qatar",
+      "config": {
+        "baseUrl": "https://thepeninsulaqatar.com",
+        "source": "https://thepeninsulaqatar.com/news/search",
+        "country": "Qatar",
+        "countries": [
+          "Qatar"
+        ],
+        "primaryCountry": "Qatar",
+        "jurisdictions": [
+          "QA"
+        ]
+      }
+    },
+    {
+      "id": "mecouncil",
+      "name": "Middle East Council on Global Affairs",
+      "sourceType": "media",
+      "sourceCountry": "QA",
+      "enabled": true,
+      "spider": "mecouncil_news",
+      "config": {
+        "baseUrl": "https://mecouncil.org",
+        "source": "https://mecouncil.org/in-the-news/",
+        "pressReleasesUrl": "https://mecouncil.org/press-releases/",
+        "apiBase": "https://mecouncil.org/wp-json/wp/v2",
+        "country": "Qatar",
+        "countries": [
+          "Qatar",
+          "Middle East"
+        ],
+        "primaryCountry": "Qatar",
+        "jurisdictions": [
+          "QA"
+        ]
+      }
+    },
+    {
+      "id": "economy_me",
+      "name": "Economy Middle East",
+      "sourceType": "media",
+      "sourceCountry": "AE",
+      "enabled": true,
+      "spider": "economy_me_news",
+      "config": {
+        "baseUrl": "https://economymiddleeast.com",
+        "source": "https://economymiddleeast.com/latest-news/",
+        "feedUrl": "https://economymiddleeast.com/latest-news/feed/",
+        "country": "United Arab Emirates",
+        "countries": [
+          "United Arab Emirates",
+          "Middle East"
+        ],
+        "primaryCountry": "United Arab Emirates",
+        "jurisdictions": [
+          "AE"
         ]
       }
     }
