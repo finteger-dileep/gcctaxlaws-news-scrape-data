@@ -212,6 +212,7 @@ def main() -> None:
     from project.utils.keywords import get_matched_keywords
     from project.utils.dedup import deduplicate, make_id
     from project.utils.output_manager import OutputManager
+    from project.utils.country_detector import enrich_countries
 
     output_file = os.path.join(ROOT, settings_cfg.get('outputFile', 'news_output.json'))
     max_age_hours: int = int(settings_cfg.get('maxAgeHours', 168))
@@ -234,6 +235,19 @@ def main() -> None:
         else:
             skipped += 1
     logger.info(f'Keyword filter: {len(relevant)} relevant / {len(collected)} total ({skipped} skipped)')
+
+    # 1b. Country enrichment — detect GCC countries from title/description/category
+    #     and update countries / primaryCountry / jurisdictions accordingly.
+    multi_country_count = 0
+    for item in relevant:
+        before = item.get('countries', [])
+        enrich_countries(item)
+        after = item.get('countries', [])
+        if len(after) > 1:
+            multi_country_count += 1
+        elif after != before:
+            pass  # single new country assigned
+    logger.info(f'Country enrichment: {multi_country_count} multi-country articles detected')
 
     # 2. Ensure deterministic IDs on existing items (back-fill if missing)
     for item in existing:

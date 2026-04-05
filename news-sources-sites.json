@@ -5,7 +5,7 @@
     "maxAgeHours": 2160,
     "minArticlesToKeep": 5,
     "cleanupEnabled": true,
-    "lastScrapedAt": "2026-04-04T07:38:58.172502+00:00"
+    "lastScrapedAt": "2026-04-04T17:57:41.153088+00:00"
   },
   "sources": [
     {
@@ -189,6 +189,49 @@
         "baseUrl": "https://www.arabianbusiness.com",
         "source": "https://www.arabianbusiness.com/",
         "apiBase": "https://www.arabianbusiness.com/wp-json/wp/v2",
+        "country": "United Arab Emirates",
+        "countries": [
+          "United Arab Emirates",
+          "Middle East"
+        ],
+        "primaryCountry": "United Arab Emirates",
+        "jurisdictions": [
+          "AE"
+        ]
+      }
+    },
+    {
+      "id": "gulfnews",
+      "name": "Gulf News",
+      "sourceType": "media",
+      "sourceCountry": "AE",
+      "enabled": true,
+      "spider": "gulfnews_news",
+      "config": {
+        "baseUrl": "https://gulfnews.com",
+        "source": "https://gulfnews.com/",
+        "apiBase": "https://gulfnews.com/api/v1/search",
+        "country": "United Arab Emirates",
+        "countries": [
+          "United Arab Emirates",
+          "Middle East"
+        ],
+        "primaryCountry": "United Arab Emirates",
+        "jurisdictions": [
+          "AE"
+        ]
+      }
+    },
+    {
+      "id": "middleeastbriefing",
+      "name": "Middle East Briefing",
+      "sourceType": "media",
+      "sourceCountry": "AE",
+      "enabled": true,
+      "spider": "middleeastbriefing_news",
+      "config": {
+        "baseUrl": "https://www.middleeastbriefing.com",
+        "source": "https://www.middleeastbriefing.com/news/",
         "country": "United Arab Emirates",
         "countries": [
           "United Arab Emirates",
