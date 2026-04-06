@@ -21,8 +21,11 @@ import json
 import logging
 import os
 import pkgutil
+import shutil
 import sys
+import tempfile
 import traceback
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime, timezone
 
 # --------------------------------------------------------------------------- #
@@ -113,6 +116,106 @@ def _save_config(config: dict) -> None:
 
 
 # --------------------------------------------------------------------------- #
+# Parallel batch worker (runs in a separate process per batch)                 #
+# --------------------------------------------------------------------------- #
+
+def _run_batch(
+    batch_sources: list,
+    settings_cfg: dict,
+    batch_id: int,
+    tmp_dir: str,
+) -> tuple[str, int]:
+    """
+    Executed in a child process by ProcessPoolExecutor.
+
+    Builds its own CrawlerProcess for the given batch of sources, runs all
+    spiders in that batch concurrently (via Scrapy's async reactor), then
+    writes the collected items to a JSON temp file.
+
+    Returns (tmp_file_path, item_count).
+
+    NOTE: Twisted's reactor is process-global, so each batch must run in its
+    own OS process — hence ProcessPoolExecutor rather than ThreadPoolExecutor.
+    """
+    import importlib
+    import json
+    import os
+    import pkgutil
+    import sys
+    import traceback
+
+    _ROOT = os.path.dirname(os.path.abspath(__file__))
+    sys.path.insert(0, _ROOT)
+    os.environ.setdefault('SCRAPY_SETTINGS_MODULE', 'project.settings')
+
+    # Fresh collector for this process
+    import project.pipelines as pipes
+    pipes.COLLECTED_ITEMS = []
+
+    import scrapy
+    from scrapy.crawler import CrawlerProcess
+    from scrapy.utils.project import get_project_settings
+    from project.spiders.base_news_spider import BaseNewsSpider
+    import project.spiders as spiders_pkg
+
+    # Rebuild spider registry inside this worker process
+    registry: dict = {}
+    for _, module_name, _ in pkgutil.iter_modules(spiders_pkg.__path__):
+        if module_name.startswith('_'):
+            continue
+        try:
+            mod = importlib.import_module(f'project.spiders.{module_name}')
+            for attr_name in dir(mod):
+                cls = getattr(mod, attr_name)
+                if (
+                    isinstance(cls, type)
+                    and issubclass(cls, scrapy.Spider)
+                    and cls not in (scrapy.Spider, BaseNewsSpider)
+                    and getattr(cls, 'name', None) is not None
+                ):
+                    registry[cls.name] = cls
+        except Exception:
+            pass  # silently skip broken modules; main process already validated
+
+    scrapy_settings = get_project_settings()
+    scrapy_settings.set(
+        'ITEM_PIPELINES',
+        {'project.pipelines.CollectorPipeline': 300},
+        priority='spider',
+    )
+    scrapy_settings.set('FEEDS', {}, priority='spider')
+    scrapy_settings.set('LOG_LEVEL', 'WARNING', priority='spider')
+
+    process = CrawlerProcess(scrapy_settings)
+    crawled = 0
+    for source in batch_sources:
+        spider_name = source.get('spider', '')
+        spider_cls = registry.get(spider_name)
+        if spider_cls:
+            try:
+                process.crawl(
+                    spider_cls,
+                    source_config=source,
+                    global_config=settings_cfg,
+                )
+                crawled += 1
+            except Exception:
+                pass
+
+    if crawled:
+        try:
+            process.start()
+        except Exception:
+            pass
+
+    items = list(pipes.COLLECTED_ITEMS)
+    out_file = os.path.join(tmp_dir, f'batch_{batch_id}.json')
+    with open(out_file, 'w', encoding='utf-8') as f:
+        json.dump(items, f, ensure_ascii=False)
+    return out_file, len(items)
+
+
+# --------------------------------------------------------------------------- #
 # Main                                                                         #
 # --------------------------------------------------------------------------- #
 
@@ -137,74 +240,71 @@ def main() -> None:
         logger.warning('No enabled sources found. Exiting.')
         return
 
+    # Validate spiders exist before dispatching (fast check in main process)
     spider_registry = _build_spider_registry(logger)
-
-    # ------------------------------------------------------------------ #
-    # Reset collector and configure Scrapy                                 #
-    # ------------------------------------------------------------------ #
-    import project.pipelines as pipes
-    pipes.COLLECTED_ITEMS = []  # fresh slate for this run
-
-    from scrapy.crawler import CrawlerProcess
-    from scrapy.utils.project import get_project_settings
-
-    scrapy_settings = get_project_settings()
-    # Enable collector pipeline (higher priority so it isn't overridden by spider custom_settings)
-    scrapy_settings.set(
-        'ITEM_PIPELINES',
-        {'project.pipelines.CollectorPipeline': 300},
-        priority='spider',
-    )
-    scrapy_settings.set('FEEDS', {}, priority='spider')      # disable per-spider file output
-    scrapy_settings.set('LOG_LEVEL', 'WARNING', priority='spider')  # suppress Scrapy noise
-
-    process = CrawlerProcess(scrapy_settings)
-
-    # ------------------------------------------------------------------ #
-    # Queue each enabled source (safely)                                   #
-    # ------------------------------------------------------------------ #
-    queued = 0
+    valid_sources = []
     for source in sources:
-        spider_name: str = source.get('spider', '')
-        spider_cls = spider_registry.get(spider_name)
-
-        if not spider_cls:
+        spider_name = source.get('spider', '')
+        if spider_registry.get(spider_name):
+            valid_sources.append(source)
+        else:
             logger.warning(
                 f"No spider registered for '{spider_name}' "
-                f"(source: {source.get('id')}). "
-                "Create project/spiders/{spider_name}.py to add it."
-            )
-            continue
-
-        try:
-            process.crawl(
-                spider_cls,
-                source_config=source,
-                global_config=settings_cfg,
-            )
-            logger.info(f"Queued: [{source.get('id')}] via spider '{spider_name}'")
-            queued += 1
-        except Exception:
-            logger.error(
-                f"Failed to queue spider '{spider_name}' for source '{source.get('id')}':\n"
-                + traceback.format_exc()
+                f"(source: {source.get('id')}). Skipping."
             )
 
-    if queued == 0:
-        logger.warning('No spiders were queued. Nothing to run.')
+    if not valid_sources:
+        logger.warning('No valid spiders found. Nothing to run.')
         return
 
     # ------------------------------------------------------------------ #
-    # Run all spiders (blocking; errors per-spider are logged internally)  #
+    # Split sources into batches and run in parallel worker processes      #
     # ------------------------------------------------------------------ #
-    logger.info(f'Starting Scrapy crawl ({queued} spider(s))…')
-    try:
-        process.start()
-    except Exception:
-        logger.error(f'CrawlerProcess error:\n{traceback.format_exc()}')
+    max_workers: int = max(1, int(settings_cfg.get('maxParallelBatches', 4)))
+    max_workers = min(max_workers, len(valid_sources))  # never more workers than sources
 
-    collected: list[dict] = list(pipes.COLLECTED_ITEMS)
-    logger.info(f'Spiders finished. Raw items collected: {len(collected)}')
+    # Round-robin distribution so each batch gets a balanced mix of sources
+    batches: list[list[dict]] = [[] for _ in range(max_workers)]
+    for i, source in enumerate(valid_sources):
+        batches[i % max_workers].append(source)
+
+    logger.info(
+        f'Dispatching {len(valid_sources)} spider(s) across '
+        f'{max_workers} parallel batch(es)…'
+    )
+    for idx, batch in enumerate(batches):
+        names = [s.get('id') for s in batch]
+        logger.info(f'  Batch {idx}: {names}')
+
+    collected: list[dict] = []
+    tmp_dir = tempfile.mkdtemp(prefix='scrapy_run_')
+    try:
+        args_list = [
+            (batch, settings_cfg, idx, tmp_dir)
+            for idx, batch in enumerate(batches)
+            if batch
+        ]
+        with ProcessPoolExecutor(max_workers=max_workers) as executor:
+            future_to_batch = {
+                executor.submit(_run_batch, *args): args[2]  # batch_id
+                for args in args_list
+            }
+            for future in as_completed(future_to_batch):
+                batch_id = future_to_batch[future]
+                try:
+                    tmp_file, count = future.result()
+                    with open(tmp_file, encoding='utf-8') as f:
+                        batch_items: list = json.load(f)
+                    collected.extend(batch_items)
+                    logger.info(f'Batch {batch_id} finished: {count} item(s) collected')
+                except Exception:
+                    logger.error(
+                        f'Batch {batch_id} failed:\n{traceback.format_exc()}'
+                    )
+    finally:
+        shutil.rmtree(tmp_dir, ignore_errors=True)
+
+    logger.info(f'All batches finished. Raw items collected: {len(collected)}')
 
     # ------------------------------------------------------------------ #
     # Post-processing                                                       #

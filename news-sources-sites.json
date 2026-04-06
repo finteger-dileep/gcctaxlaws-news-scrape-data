@@ -5,7 +5,7 @@
     "maxAgeHours": 2160,
     "minArticlesToKeep": 5,
     "cleanupEnabled": true,
-    "lastScrapedAt": "2026-04-06T10:08:10.849721+00:00"
+    "lastScrapedAt": "2026-04-06T11:13:09.323742+00:00"
   },
   "sources": [
     {
@@ -183,7 +183,7 @@
       "name": "Arabian Business",
       "sourceType": "media",
       "sourceCountry": "AE",
-      "enabled": true,
+      "enabled": false,
       "spider": "arabianbusiness_news",
       "config": {
         "baseUrl": "https://www.arabianbusiness.com",
@@ -311,7 +311,7 @@
       "spider": "wam_uae_news",
       "config": {
         "baseUrl": "https://www.wam.ae",
-        "source": "https://www.wam.ae/en/economy",
+        "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
         "country": "United Arab Emirates",
         "countries": [
           "United Arab Emirates"

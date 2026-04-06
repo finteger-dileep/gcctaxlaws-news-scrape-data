@@ -30,7 +30,7 @@ from project.utils.date_utils import parse_date
 
 BASE_URL = "https://www.wam.ae"
 _RSS_URL = (
-    f"{BASE_URL}/en/rss/feed/g4ylploo0n"
+    f"{BASE_URL}/en/rss/feed/g50l4i8lmg"
     "?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss"
 )
 
@@ -105,11 +105,11 @@ class WamUaeNewsSpider(BaseNewsSpider):
     # ------------------------------------------------------------------ #
 
     def parse_rss(self, response):
-        if "<item>" not in response.text:
+        if "<item" not in response.text:
             self.logger.warning("[wam_uae] No <item> elements found in RSS feed")
             return
 
-        items_xml = re.findall(r"<item>(.*?)</item>", response.text, re.DOTALL)
+        items_xml = re.findall(r"<item[^>]*>(.*?)</item>", response.text, re.DOTALL)
         self.logger.debug(f"[wam_uae] RSS feed returned {len(items_xml)} items")
 
         for item_xml in items_xml:
