@@ -66,7 +66,7 @@ class ZatcaNewsSpider(BaseNewsSpider):
     # Single AJAX request — returns all items in one response              #
     # ------------------------------------------------------------------ #
 
-    def start_requests(self):
+    async def start(self):
         yield scrapy.Request(
             url=self._api_url,
             callback=self.parse,

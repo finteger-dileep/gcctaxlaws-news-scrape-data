@@ -66,7 +66,7 @@ class MecouncilNewsSpider(BaseNewsSpider):
         },
     }
 
-    def start_requests(self):
+    async def start(self):
         # ISO 8601 date that the WP API `after` param accepts: YYYY-MM-DDTHH:MM:SS
         after = self.cutoff.strftime("%Y-%m-%dT%H:%M:%S")
 

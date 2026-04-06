@@ -60,7 +60,7 @@ class PeninsulaQatarSpider(BaseNewsSpider):
         super().__init__(*args, **kwargs)
         self._seen_urls: set = set()
 
-    def start_requests(self):
+    async def start(self):
         for kw in TAX_KEYWORDS:
             params = {
                 "q": kw,

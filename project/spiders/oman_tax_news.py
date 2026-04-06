@@ -52,7 +52,7 @@ class OmanTaxNewsSpider(BaseNewsSpider):
     # Step 1: scrape the listing page                                      #
     # ------------------------------------------------------------------ #
 
-    def start_requests(self):
+    async def start(self):
         yield scrapy.Request(
             url=self._listing_url,
             callback=self.parse_listing,

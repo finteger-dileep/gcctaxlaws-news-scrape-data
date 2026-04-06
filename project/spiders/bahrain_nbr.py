@@ -72,7 +72,7 @@ class BahrainNbrSpider(BaseNewsSpider):
     # Step 1: switch language to English                                   #
     # ------------------------------------------------------------------ #
 
-    def start_requests(self):
+    async def start(self):
         yield scrapy.Request(
             url=self._lang_url,
             callback=self._start_listing,

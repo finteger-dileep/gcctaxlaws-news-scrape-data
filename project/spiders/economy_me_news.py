@@ -77,7 +77,7 @@ class EconomyMENewsSpider(BaseNewsSpider):
         },
     }
 
-    def start_requests(self):
+    async def start(self):
         yield scrapy.Request(FEED_URL, callback=self.parse_feed, meta={"page": 1})
 
     def parse_feed(self, response):

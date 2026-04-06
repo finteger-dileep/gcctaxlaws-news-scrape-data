@@ -45,7 +45,7 @@ class GtaNewsSpider(BaseNewsSpider):
         self._ajax_url = meta.get("ajaxUrl", "https://gta.gov.qa/en/ajax/media-center.page")
         self._referrer = meta.get("source", "https://gta.gov.qa/en/media-center/news")
 
-    def start_requests(self):
+    async def start(self):
         yield scrapy.Request(
             url=f"{self._ajax_url}?dct=Content%2FNews&start=0&rows=10",
             callback=self.parse,

@@ -152,7 +152,7 @@ class ZawyaNewsSpider(BaseNewsSpider):
     # Entry points                                                         #
     # ------------------------------------------------------------------ #
 
-    def start_requests(self):
+    async def start(self):
         for kw in TAX_KEYWORDS:
             yield self._make_gql_request(kw, offset=0)
 
