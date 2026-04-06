@@ -14,6 +14,7 @@ _FORMATS = [
     '%Y-%m-%dT%H:%M:%S',          # 2026-04-01T12:00:00
     '%a, %d %b %Y %H:%M:%S %z',   # RFC 2822 with tz
     '%a, %d %b %Y %H:%M:%S GMT',  # RFC 2822 GMT
+    '%a, %d %b %Y',               # RFC 2822 date-only (e.g. Sun, 08 Mar 2026)
     '%d-%b-%Y',                   # 1-Apr-2026  (GTA format)
     '%d %b %Y',                   # 1 Apr 2026
     '%B %d, %Y',                  # April 1, 2026

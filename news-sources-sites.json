@@ -2,7 +2,7 @@
   "settings": {
     "outputFile": "news-data.json",
     "logsDir": "logs",
-    "maxAgeHours": 2160,
+    "maxAgeHours": 2160, 
     "minArticlesToKeep": 5,
     "cleanupEnabled": true,
     "lastScrapedAt": "2026-04-06T06:56:16.579239+00:00"
@@ -280,6 +280,126 @@
         ],
         "primaryCountry": "International",
         "jurisdictions": []
+      }
+    },
+    {
+      "id": "uae_fta",
+      "name": "UAE Federal Tax Authority",
+      "sourceType": "government",
+      "sourceCountry": "AE",
+      "enabled": true,
+      "spider": "uae_fta_news",
+      "config": {
+        "baseUrl": "https://tax.gov.ae",
+        "source": "https://tax.gov.ae/en/media.centre/news.aspx",
+        "country": "United Arab Emirates",
+        "countries": [
+          "United Arab Emirates"
+        ],
+        "primaryCountry": "United Arab Emirates",
+        "jurisdictions": [
+          "AE"
+        ]
+      }
+    },
+    {
+      "id": "wam_uae",
+      "name": "WAM - Emirates News Agency",
+      "sourceType": "media",
+      "sourceCountry": "AE",
+      "enabled": true,
+      "spider": "wam_uae_news",
+      "config": {
+        "baseUrl": "https://www.wam.ae",
+        "source": "https://www.wam.ae/en/economy",
+        "country": "United Arab Emirates",
+        "countries": [
+          "United Arab Emirates"
+        ],
+        "primaryCountry": "United Arab Emirates",
+        "jurisdictions": [
+          "AE"
+        ]
+      }
+    },
+    {
+      "id": "kuwait_egov",
+      "name": "Kuwait e-Government Portal",
+      "sourceType": "government",
+      "sourceCountry": "KW",
+      "enabled": true,
+      "spider": "kuwait_news",
+      "config": {
+        "baseUrl": "https://e.gov.kw",
+        "source": "https://e.gov.kw/sites/kgoenglish/Pages/KGOAnnouncements.aspx",
+        "country": "Kuwait",
+        "countries": [
+          "Kuwait"
+        ],
+        "primaryCountry": "Kuwait",
+        "jurisdictions": [
+          "KW"
+        ]
+      }
+    },
+    {
+      "id": "qatar_gta",
+      "name": "Qatar General Tax Authority",
+      "sourceType": "government",
+      "sourceCountry": "QA",
+      "enabled": true,
+      "spider": "qatar_gta_news",
+      "config": {
+        "baseUrl": "https://gta.gov.qa",
+        "source": "https://gta.gov.qa/en/media-center/notifications",
+        "country": "Qatar",
+        "countries": [
+          "Qatar"
+        ],
+        "primaryCountry": "Qatar",
+        "jurisdictions": [
+          "QA"
+        ]
+      }
+    },
+    {
+      "id": "oman_tax_portal",
+      "name": "Oman Tax Authority - News Portal",
+      "sourceType": "government",
+      "sourceCountry": "OM",
+      "enabled": true,
+      "spider": "oman_tax_portal_news",
+      "config": {
+        "baseUrl": "https://taxoman.gov.om",
+        "source": "https://taxoman.gov.om/portal/web/taxportal/news",
+        "country": "Oman",
+        "countries": [
+          "Oman"
+        ],
+        "primaryCountry": "Oman",
+        "jurisdictions": [
+          "OM"
+        ]
+      }
+    },
+    {
+      "id": "bahrain_bna",
+      "name": "Bahrain News Agency",
+      "sourceType": "media",
+      "sourceCountry": "BH",
+      "enabled": true,
+      "spider": "bahrain_bna_news",
+      "config": {
+        "baseUrl": "https://www.bna.bh",
+        "source": "https://www.bna.bh/en/economy",
+        "country": "Bahrain",
+        "countries": [
+          "Bahrain"
+        ],
+        "primaryCountry": "Bahrain",
+        "jurisdictions": [
+          "BH"
+        ]
       }
     }
   ]
