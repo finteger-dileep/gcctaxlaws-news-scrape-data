@@ -1,0 +1,67 @@
+name: News Scraper
+
+on:
+  schedule:
+    # 12:00 AM UTC  (= 4:00 AM GST / Gulf Standard Time, UTC+4)
+    - cron: "0 0 * * *"
+    # 06:00 PM UTC  (= 10:00 PM GST / Gulf Standard Time, UTC+4)
+    - cron: "0 18 * * *"
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write # needed to git-push the updated news-data.json
+
+jobs:
+  scrape:
+    name: Run news scrapers
+    runs-on: ubuntu-latest
+
+    steps:
+      # ------------------------------------------------------------------ #
+      # 1. Check out the repository                                          #
+      # ------------------------------------------------------------------ #
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      # ------------------------------------------------------------------ #
+      # 2. Set up Python 3.13                                                #
+      # ------------------------------------------------------------------ #
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: "pip"
+
+      # ------------------------------------------------------------------ #
+      # 3. Install dependencies                                              #
+      # ------------------------------------------------------------------ #
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ------------------------------------------------------------------ #
+      # 4. Run the scraper                                                   #
+      # ------------------------------------------------------------------ #
+      - name: Run scraper
+        run: python run_scrapers.py
+
+      # ------------------------------------------------------------------ #
+      # 5. Commit and push updated output back to the repo                  #
+      # ------------------------------------------------------------------ #
+      - name: Commit updated news data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage output file and logs (logs are optional — comment out if unwanted)
+          git add news-data.json news-sources-sites.json
+          git add logs/ || true   # logs/ may not exist if no new articles
+
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: auto-update news data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push origin main
+          fi
