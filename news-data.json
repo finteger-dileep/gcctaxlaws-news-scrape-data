@@ -7956,5 +7956,31 @@
     "matchedKeywords": [
       "pillar two"
     ]
+  },
+  {
+    "id": "6f8ff2b75776dce0",
+    "title": "SIM Global Education’s guide to navigating the first 30 days of university life",
+    "description": "",
+    "thumbnail": "",
+    "link": "https://www.zawya.com/en/economy/global/sim-global-educations-guide-to-navigating-the-first-30-days-of-university-life-ll2e5iyu",
+    "pubDate": "2026-04-15T01:01:49.028Z",
+    "scrapedAt": "2026-04-15T02:02:59.260170+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Global",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
