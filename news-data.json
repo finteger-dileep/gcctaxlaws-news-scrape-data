@@ -5166,32 +5166,6 @@
     ]
   },
   {
-    "id": "56ed7e079374233a",
-    "title": "Complete guide to Ramadan dos and don’ts in Dubai: what to know, what to respect, and how to enjoy the month",
-    "description": "One of the most common questions is whether people can eat or drink in public",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-19/uczr7huw/gulfnews2024-11-18vgkgo4tdAtraditionalcrescentmoondecoratesastreetinfrontoftheFutureMuseuminDubaionApril220.avif",
-    "link": "https://gulfnews.com/uae/ramadan/complete-guide-to-ramadan-dos-and-donts-in-dubai-what-to-know-what-to-respect-and-how-to-enjoy-the-month-1.500413638",
-    "pubDate": "2026-01-19T14:48:30.088000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Ramadan",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "5b3dea402b37fa34",
     "title": "Flying with Emirates in April from Dubai? Here’s how to rebook or get a refund",
     "description": "Emirates guides passengers flying to and from Dubai between February 28 and April 30",
@@ -8290,6 +8264,31 @@
       "corporate tax",
       "vat",
       "value added tax"
+    ]
+  },
+  {
+    "id": "61a8f94cd3578f0c",
+    "title": "NCSA aims to empower public with data privacy rights guide",
+    "description": "Doha, Qatar: The National Cyber Security Agency (NCSA) announced yesterday a digital privacy initiative designed to clarify the specific rights individuals hold under...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260217_1771306337-184-thumb_small_190.jpeg?1771306337",
+    "link": "https://thepeninsulaqatar.com/article/19/04/2026/ncsa-aims-to-empower-public-with-data-privacy-rights-guide",
+    "pubDate": "2026-04-19T00:00:00+00:00",
+    "scrapedAt": "2026-04-19T18:56:23.530003+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
