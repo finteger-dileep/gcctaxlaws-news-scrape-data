@@ -2006,58 +2006,6 @@
     ]
   },
   {
-    "id": "ea86fa08e6967c90",
-    "title": "Emirates Red Crescent's Ramadan programmes benefits 1.5mln",
-    "description": "The programmes include the Ramadan food basket, Iftar for fasting persons, breaking of the fast, Zakat Al Fitr, and Eid clothing.",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/8413631f-6cd6-4451-8277-a5c9d418acd3/0/6jq00mrs1ka17lapn-jpg.webp",
-    "link": "https://www.zawya.com/en/business/retail-and-consumer/emirates-red-crescents-ramadan-programmes-benefits-15mln-td28s48c",
-    "pubDate": "2026-01-22T12:39:42.443Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Retail & Consumer",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "zakat"
-    ]
-  },
-  {
-    "id": "0304f253b60a4076",
-    "title": "Oman: The importance of taxes in financing public services",
-    "description": "The foreign investors are usually more concerned with corporate tax laws, which remain at around 15%",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/70273fc5-fd17-4fc3-8a86-7f2b28aafa93/155/1469771802.webp",
-    "link": "https://www.zawya.com/en/economy/gcc/oman-the-importance-of-taxes-in-financing-public-services-j33iieeu",
-    "pubDate": "2026-01-22T08:43:19.628Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "GCC",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "corporate tax"
-    ]
-  },
-  {
     "id": "60b786eeab4d0f3a",
     "title": "Qatar: Cabinet approves amending National Committee for Customs Clearance System",
     "description": "The Cabinet also approved several draft international agreements, including an arrangement with the United Nations concerning the organisation of the World Investment Forum 2026 in Doha",
@@ -5001,32 +4949,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "Lifestyle",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "8069101791f39926",
-    "title": "Dubai Desert Classic fashion guide: How to look stylish without swinging a club",
-    "description": "Whether you’re aiming for casual chic or subtle Hollywood glam, this guide will help you",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-22/sgvfi5ly/Priyanka-Chopra-golf",
-    "link": "https://gulfnews.com/sport/golf-in-uae/dubai-desert-classic-fashion-guide-how-to-look-stylish-without-swinging-a-club-1.500416851",
-    "pubDate": "2026-01-22T08:51:04.985000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Golf in UAE",
     "jurisdictions": [
       "AE"
     ],
@@ -8433,6 +8355,133 @@
     "category": "Education",
     "jurisdictions": [
       "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "c9f54916d1041c0e",
+    "title": "Türkiye IP Rights and Art Law: A Guide for Cross-Border Transactions",
+    "description": "Türkiye has a fast‑growing art market and a distinctive IP framework granting strong moral and a resale rights.",
+    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/04/IP-rights-in-Turkiye-art-market.jpg",
+    "link": "https://www.middleeastbriefing.com/news/turkiye-ip-rights-art-law-cross-border-transactions/",
+    "pubDate": "2026-04-22T09:35:45+00:00",
+    "scrapedAt": "2026-04-22T19:18:51.958712+00:00",
+    "source": "https://www.middleeastbriefing.com/news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Legal & Regulatory, Business Intelligence, market-entry",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "0ed586c46ddfb877",
+    "title": "Saudi: ZATCA calls on establishments to file VAT returns for March and Q1 2026",
+    "description": "ZATCA encouraged establishments to promptly submit their tax returns through its official website or smartphone application to avoid late-filing penalties",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/e98e8292-fbd0-4ba4-b875-1aad4e7d4098/3/1360521172.webp",
+    "link": "https://www.zawya.com/en/economy/gcc/saudi-zatca-calls-on-establishments-to-file-vat-returns-for-march-and-q1-2026-q6ylpf07",
+    "pubDate": "2026-04-22T06:37:16.782Z",
+    "scrapedAt": "2026-04-22T19:18:51.951319+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Kingdom of Saudi Arabia",
+    "countries": [
+      "Kingdom of Saudi Arabia"
+    ],
+    "primaryCountry": "Kingdom of Saudi Arabia",
+    "isMultiCountry": false,
+    "category": "GCC",
+    "jurisdictions": [
+      "SA"
+    ],
+    "matchedKeywords": [
+      "vat"
+    ]
+  },
+  {
+    "id": "5ef3fd0ca423e7ed",
+    "title": "CIS, Astrix, and Cequence release new AI security companion guides",
+    "description": "Partnership delivers practical guidance for securing LLMs, agents, and MCP environments",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/d93e1c22-1ed5-45e5-bebd-d9ab61b24f08/0/shreyansmehta_cequencesecurity-jpg.webp",
+    "link": "https://www.zawya.com/en/press-release/companies-news/cis-astrix-and-cequence-release-new-ai-security-companion-guides-hi7huhv9",
+    "pubDate": "2026-04-22T08:03:32.907Z",
+    "scrapedAt": "2026-04-22T19:18:51.951319+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Companies News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "be54031bca3758ff",
+    "title": "HIA updates FAQs on airline partners, airport operations in Qatar",
+    "description": "The list compiled on April 21, 2026, gives information on flight operations and on airport services and more",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/83fce557-6129-4d1b-b28a-1a6dd9806b4c/2/hia_aerialshot-jpg.webp",
+    "link": "https://www.zawya.com/en/business/aviation/hia-updates-faqs-on-airline-partners-airport-operations-in-qatar-lg6nzpjp",
+    "pubDate": "2026-04-22T09:39:58.689Z",
+    "scrapedAt": "2026-04-22T19:18:51.951319+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "Aviation",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "faq"
+    ]
+  },
+  {
+    "id": "f61f3647fd161f33",
+    "title": "Adding the procedures guide for requesting and approving services and products under Kuwait’s framework agreement with Google Cloud to the Open Data page",
+    "description": "​Adding the procedures guide for requesting and approving services and products under Kuwait’s framework agreement with Google Cloud to the Open Data page as follows:  \n               Open Data",
+    "thumbnail": "",
+    "link": "https://e.gov.kw/sites/kgoenglish/Lists/KGOAnnouncements/DispForm.aspx?ID=323",
+    "pubDate": "2026-04-22T10:02:38+00:00",
+    "scrapedAt": "2026-04-22T19:18:51.965667+00:00",
+    "source": "https://e.gov.kw/sites/kgoenglish/Pages/KGOAnnouncements.aspx",
+    "sourceType": "government",
+    "sourceCountry": "KW",
+    "country": "Kuwait",
+    "countries": [
+      "Kuwait"
+    ],
+    "primaryCountry": "Kuwait",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "KW"
     ],
     "matchedKeywords": [
       "guide"
