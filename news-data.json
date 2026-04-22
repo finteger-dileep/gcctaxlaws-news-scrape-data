@@ -8412,5 +8412,30 @@
     "matchedKeywords": [
       "einvoicing"
     ]
+  },
+  {
+    "id": "4a82ed54c6caef47",
+    "title": "Prepared, not panicked: Abu Dhabi’s school safety guide sets a new standard for emergency readiness",
+    "description": "From home to classroom to bus, a unified plan to keep every student safe",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-22/u6y94rad/IMG4741.jpeg",
+    "link": "https://gulfnews.com/uae/education/prepared-not-panicked-abu-dhabis-school-safety-guide-sets-a-new-standard-for-emergency-readiness-1.500514916",
+    "pubDate": "2026-04-22T02:03:46.455000+00:00",
+    "scrapedAt": "2026-04-22T02:05:54.819928+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Education",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
