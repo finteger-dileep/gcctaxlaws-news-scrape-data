@@ -2924,32 +2924,6 @@
     ]
   },
   {
-    "id": "c93a9a3e40488fed",
-    "title": "Davos 2026: UAE advances water diplomacy, finance through MoU for the 2026 UN Water Conference",
-    "description": "At the World Economic Forum (WEF) Annual Meetings 2026, the United Arab Emirates highlighted its position as a leader in water diplomacy. Abdulla Balalaa, Assistant Minister of Foreign Affairs for Energy and Sustainability, conducted a series of high-level engagements to attract investments, strengthen public-private partnerships, and guide multilateral efforts in preparation for the 2026 United […]",
-    "thumbnail": "https://economymiddleeast.com/wp-content/uploads/2026/01/uae-davos-global-water-action-1-1-1.jpeg",
-    "link": "https://economymiddleeast.com/news/davos-2026-uae-advances-water-diplomacy-finance-through-mou-for-the-2026-un-water-conference/",
-    "pubDate": "2026-01-23T11:32:37+00:00",
-    "scrapedAt": "2026-04-04T07:15:34.915542+00:00",
-    "source": "https://economymiddleeast.com/latest-news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "GCC, World Economic Forum",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "d471b80128bddb8c",
     "title": "UAE designates Dubai’s VARA as competent authority for corporate tax",
     "description": "Decision brings virtual asset regulation into scope for qualifying fund, wealth management",
@@ -4923,32 +4897,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "GN Focus",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "587256114a26596d",
-    "title": "Your guide to Marsa Boulevard: Dubai's popular waterfront destination",
-    "description": "Head over for Dubai Creek charm and some of the city's most popular cafés",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-21/vrhk8ji3/Marsa-Boulevard",
-    "link": "https://gulfnews.com/lifestyle/your-guide-to-marsa-boulevard-dubais-popular-waterfront-destination-1.500415838",
-    "pubDate": "2026-01-23T11:11:50.469000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Lifestyle",
     "jurisdictions": [
       "AE"
     ],
@@ -8509,6 +8457,187 @@
     "jurisdictions": [],
     "matchedKeywords": [
       "guide"
+    ]
+  },
+  {
+    "id": "3bc7a2c95a17045d",
+    "title": "Top UAE accounting & tax firms offer compliance, e-invoicing & SME deals",
+    "description": "Top accounting, audit & tax firms help businesses streamline operation, improve efficiency",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-23/hv9acmin/Digital-Computing.jpg",
+    "link": "https://gulfnews.com/gn-focus/top-uae-accounting-tax-firms-offer-compliance-e-invoicing-sme-deals-1.500516454",
+    "pubDate": "2026-04-23T08:20:16.829000+00:00",
+    "scrapedAt": "2026-04-23T19:16:04.389152+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "GN Focus",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "4cf79c5e71a970f6",
+    "title": "Alserkal Art Month: Your step-by-step guide to Weekend 2",
+    "description": "Saturday’s big opening at Concrete, Sunday’s performances, and everything in between.",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-07/6a53sd9v/STAFFNAT_260406_Alserkal_Avenue_VSAKLANI_51775537172443.jpg",
+    "link": "https://gulfnews.com/lifestyle/alserkal-art-month-your-step-by-step-guide-to-weekend-2-1.500516466",
+    "pubDate": "2026-04-23T10:08:48.029000+00:00",
+    "scrapedAt": "2026-04-23T19:16:04.389152+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Lifestyle",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "d123286145130f5c",
+    "title": "Awareness to Action: How UAE businesses can prepare for e‑invoicing",
+    "description": "KGRN developed eBook to help UAE firms assess e-invoicing readiness and next steps",
+    "thumbnail": "https://media.assettype.com/gulfnews/import/2022/10/09/Stock-Digital-Bank-Account4_183bc9e238a_large.jpg",
+    "link": "https://gulfnews.com/gn-focus/awareness-to-action-how-uae-businesses-can-prepare-for-einvoicing-1.500516535",
+    "pubDate": "2026-04-23T09:01:57.399000+00:00",
+    "scrapedAt": "2026-04-23T19:16:04.389152+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "GN Focus",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "743dc0725839a90b",
+    "title": "FAME Advisory: Bridge the e-invoicing gap before compliance kicks in",
+    "description": "Gap analysis is a practical & necessary step to prepare the business in a structured way",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-23/3997o6ox/Nirav-Shah.jpg",
+    "link": "https://gulfnews.com/gn-focus/fame-advisory-bridge-the-e-invoicing-gap-before-compliance-kicks-in-1.500516407",
+    "pubDate": "2026-04-23T07:17:21.052000+00:00",
+    "scrapedAt": "2026-04-23T19:16:04.389152+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "GN Focus",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "45f4462881470c97",
+    "title": "MCA Gulf: Choosing the right ASP for UAE e-invoicing",
+    "description": "Data storage and archival should be one of the first considerations",
+    "thumbnail": "https://media.assettype.com/gulfnews/import/2023/10/04/MCA-_18afad5d544_large.jpg",
+    "link": "https://gulfnews.com/gn-focus/mca-gulf-choosing-the-right-asp-for-uae-e-invoicing-1.500516363",
+    "pubDate": "2026-04-23T06:47:32.216000+00:00",
+    "scrapedAt": "2026-04-23T19:16:04.389152+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "GN Focus",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "36384121e400bc57",
+    "title": "Customs and Qatar Aviation Services sign MoU to facilitate customs clearance for personal imports",
+    "description": "Doha: The General Authority of Customs and Qatar Aviation Services signed a Memorandum of Understanding (MoU) aimed at strengthening cooperation between the two...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260423_1776965656-494-thumb_small_190.jpg?1776965656",
+    "link": "https://thepeninsulaqatar.com/article/23/04/2026/customs-and-qatar-aviation-services-sign-mou-to-facilitate-customs-clearance-for-personal-imports",
+    "pubDate": "2026-04-23T00:00:00+00:00",
+    "scrapedAt": "2026-04-23T19:16:04.381593+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "7ebde0b67ded7c39",
+    "title": "Qatar Customs, Aviation Services sign MoU to facilitate customs clearance for personal imports",
+    "description": "Doha, Qatar: The General Authority of Customs and Qatar Aviation Services signed a Memorandum of Understanding (MoU) aimed at strengthening cooperation between the...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260423_1776951089-761-thumb_small_190.jpeg?1776951089",
+    "link": "https://thepeninsulaqatar.com/article/23/04/2026/qatar-customs-aviation-services-sign-mou-to-facilitate-customs-clearance-for-personal-imports",
+    "pubDate": "2026-04-23T00:00:00+00:00",
+    "scrapedAt": "2026-04-23T19:16:04.381593+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
     ]
   }
 ]
