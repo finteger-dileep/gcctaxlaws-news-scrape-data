@@ -8639,5 +8639,81 @@
     "matchedKeywords": [
       "customs"
     ]
+  },
+  {
+    "id": "bddd497f62cc9fc4",
+    "title": "Saudi: ZATCA calls on businesses to submit 2025 zakat and income tax returns by April 30",
+    "description": "The authority encouraged businesses to expedite their submissions through the e-services portal on the official ZATCA website to ensure compliance and avoid late-filing penalties",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/ZmE1N2Q4MWMtYmM5NC00/49/1340844659.webp",
+    "link": "https://www.zawya.com/en/economy/gcc/saudi-zatca-calls-on-businesses-to-submit-2025-zakat-and-income-tax-returns-by-april-30-czgzg8g9",
+    "pubDate": "2026-04-24T05:27:20.349Z",
+    "scrapedAt": "2026-04-24T18:57:36.512792+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Kingdom of Saudi Arabia",
+    "countries": [
+      "Kingdom of Saudi Arabia"
+    ],
+    "primaryCountry": "Kingdom of Saudi Arabia",
+    "isMultiCountry": false,
+    "category": "GCC",
+    "jurisdictions": [
+      "SA"
+    ],
+    "matchedKeywords": [
+      "zakat"
+    ]
+  },
+  {
+    "id": "0b71afeb5c8238b4",
+    "title": "Federal Tax Authority Announces Entry into Force of the Decision Amending Administrative Penalties Imposed for Violations of Tax Legislation and Calls on Registrants to Benefit from the Advantages of the New Decision",
+    "description": "United Arab Emirates, 15 April 2026: The Federal Tax Authority (FTA) has announced the entry into force of Cabinet Decision No. (129) of 2025 amending certain provisions of Cabinet Decision No. (40) of 2017 on administrative penalties imposed for violations of tax laws in the UAE, following its effective date on Tuesday, 14 April 2026.",
+    "thumbnail": "https://tax.gov.ae//Images/2026/DG/FTA Portaits 1-9-F-2.jpg",
+    "link": "https://tax.gov.ae/en/media.centre/news/federal.tax.authority.announces.entry.into.force.of.the.decision.amending.administrative.penalties.imposed.for.violations.of.tax.legislation.and.calls.on.registrants.to.benefit.from.the.advantages.of.the.new.decision.aspx",
+    "pubDate": "2026-04-15T00:00:00+00:00",
+    "scrapedAt": "2026-04-24T18:57:36.528121+00:00",
+    "source": "https://tax.gov.ae/en/media.centre/news.aspx",
+    "sourceType": "government",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "cabinet decision"
+    ]
+  },
+  {
+    "id": "ea4e55268a029689",
+    "title": "Run BTS is back: A guide to the series filled with pure joy, food and rules (if any)",
+    "description": "If you're confused about the rules in Run BTS, that's alright, J-Hope doesn't know too",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-24/nsk3ajrh/tannies.jpeg",
+    "link": "https://gulfnews.com/entertainment/run-bts-is-back-a-guide-to-the-series-filled-with-pure-joy-food-and-rules-if-any-1.500517416",
+    "pubDate": "2026-04-24T03:30:00+00:00",
+    "scrapedAt": "2026-04-24T18:57:36.520729+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Entertainment",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
