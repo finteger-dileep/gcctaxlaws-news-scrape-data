@@ -1902,32 +1902,6 @@
     ]
   },
   {
-    "id": "5961f5a9a0ff13d2",
-    "title": "$175.9mln in tax refunds issued to UAE citizens for construction of new homes in 2025",
-    "description": "Al Bustani reaffirmed the FTA’s commitment to providing clear, transparent standards, procedures and mechanisms to facilitate citizens’ refund of VAT paid on the construction of homes",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/e98e8292-fbd0-4ba4-b875-1aad4e7d4098/2/1360521172.webp",
-    "link": "https://www.zawya.com/en/economy/gcc/1759mln-in-tax-refunds-issued-to-uae-citizens-for-construction-of-new-homes-in-2025-s0jp0o89",
-    "pubDate": "2026-01-26T14:54:00.263Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "GCC",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "vat"
-    ]
-  },
-  {
     "id": "f5b6f8ff9272374f",
     "title": "India amends tax treaty with France, cuts dividend tax for major investors",
     "description": "Bilateral trade between India and France stood at $15 billion last year",
@@ -8687,6 +8661,85 @@
     ],
     "matchedKeywords": [
       "guide"
+    ]
+  },
+  {
+    "id": "b8d2825fef196cec",
+    "title": "The Tax Authority Organizes a Workshop on Tax Services for Sanad Offices",
+    "description": "In line with ongoing efforts to enhance the efficiency of The workshop axes were presented by specialists from the Ministry of Commerce, Industry, and Investment Promotion (MoCIIP). They highlighted joint coordination mechanisms between relevant authorities to facilitate and streamline tax procedures and enhance the efficiency of digital commercial transactions. The workshop sought to strengthen the operational efficiency of Sanad Offices by focusing on digital transformation. Therefore, the electronic services available through the Tax Authority portal and the mechanisms for filing income tax returns were showed. Furthermore, the workshop reviewed Excise Tax, including its core concepts, tax rates, and the list of excise goods. The workshop also highlighted the Digital Tax Stamps (DTS) project and its significant role in consumer protection.",
+    "thumbnail": "https://tms.taxoman.gov.om/portal/documents/20126/29d74672-1a9e-0161-e767-649439144fbc",
+    "link": "https://tms.taxoman.gov.om/portal/web/taxportal/-/the-tax-authority-organizes-a-workshop-on-tax-services-for-sanad-offices",
+    "pubDate": "2026-04-26T00:00:00+00:00",
+    "scrapedAt": "2026-04-26T19:00:05.977013+00:00",
+    "source": "https://tms.taxoman.gov.om/portal/news",
+    "sourceType": "official",
+    "sourceCountry": "OM",
+    "country": "Oman",
+    "countries": [
+      "Oman"
+    ],
+    "primaryCountry": "Oman",
+    "isMultiCountry": false,
+    "category": "News",
+    "jurisdictions": [
+      "OM"
+    ],
+    "matchedKeywords": [
+      "excise tax",
+      "excise"
+    ]
+  },
+  {
+    "id": "14962390b0dede83",
+    "title": "ZATCA Urges Establishments to Submit Zakat and CIT Returns for the Financial Year 2025",
+    "description": "The Zakat, Tax and Customs Authority (ZATCA) urges all establishments to submit their Zakat returns and Corporate Income Tax (CIT) returns for the financial year ending 31 December 2025.",
+    "thumbnail": "https://zatca.gov.sa/ar/MediaCenter/News/PublishingImages/Press.webp",
+    "link": "https://zatca.gov.sa/en/MediaCenter/News/Pages/Submit-CIT-Return-for-2025.aspx",
+    "pubDate": "2026-04-23T00:00:00+00:00",
+    "scrapedAt": "2026-04-26T19:00:05.976985+00:00",
+    "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/default.aspx",
+    "sourceType": "official",
+    "sourceCountry": "SA",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Kingdom of Saudi Arabia"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "",
+    "jurisdictions": [
+      "AE",
+      "SA"
+    ],
+    "matchedKeywords": [
+      "customs",
+      "zakat"
+    ]
+  },
+  {
+    "id": "21177399e018f50e",
+    "title": "Qatar Customs adopts Agentic AI for smarter, efficient operations",
+    "description": "Doha, Qatar: The General Authority of Customs has announced the adoption of Agentic AI within the Al Nadeeb system, marking a significant step...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260426_1777189231-69-thumb_small_190.JPG?1777189231",
+    "link": "https://thepeninsulaqatar.com/article/26/04/2026/qatar-customs-adopts-agentic-ai-for-smarter-efficient-operations",
+    "pubDate": "2026-04-26T00:00:00+00:00",
+    "scrapedAt": "2026-04-26T19:00:06.505860+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
     ]
   }
 ]
