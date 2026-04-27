@@ -2137,32 +2137,6 @@
     ]
   },
   {
-    "id": "baf92d3c9383235e",
-    "title": "East Africa: Beyond revenue, the strategic role of customs",
-    "description": "Within the East African Community (EAC), it reached about $125 billion, reflecting the region’s growing integration into continent",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/53935220-bd71-40cd-9e27-9f9cc107ffd3/5/1491452808.webp",
-    "link": "https://www.zawya.com/en/economy/africa/east-africa-beyond-revenue-the-strategic-role-of-customs-efkp16ck",
-    "pubDate": "2026-01-27T08:13:24.871Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Africa",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "595c7e068ed790c7",
     "title": "US exporters protest new clearing checks, costs in Kenya",
     "description": "Kebs has set inspection fees at 0.6 percent of customs value, subject to a minimum of $300 and a maximum of $3,500",
@@ -8740,6 +8714,161 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "8da15f2d99f19d7a",
+    "title": "Egypt extends VAT registration certificate validity to June 30th",
+    "description": "The move aims to support the business community and facilitate compliance for taxpayers",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/25d667a1-f5f8-4a45-9557-b017e677e42c/20/egypt-economy.webp",
+    "link": "https://www.zawya.com/en/economy/north-africa/egypt-extends-vat-registration-certificate-validity-to-june-30th-f24n44x2",
+    "pubDate": "2026-04-27T12:11:18.125Z",
+    "scrapedAt": "2026-04-27T19:27:44.773258+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "North Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat"
+    ]
+  },
+  {
+    "id": "144c6603b6e8457a",
+    "title": "CPX and SpendConsole join forces to deliver first AI-driven, mandate-ready e-invoicing across the UAE",
+    "description": "Strategic alliance offers end-to-end compliance, cybersecurity assurance and finance automation ahead of the UAE Ministry of Finance’s 2026 e-invoicing mandate",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/efe7aa3b-7a12-4946-a794-de4469454af1/0/untitled-1-recovered-jpg.webp",
+    "link": "https://www.zawya.com/en/press-release/companies-news/cpx-and-spendconsole-join-forces-to-deliver-first-ai-driven-mandate-ready-e-invoicing-across-the-uae-jj5y6879",
+    "pubDate": "2026-04-27T07:23:27.714Z",
+    "scrapedAt": "2026-04-27T19:27:44.773258+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Companies News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "0a4489d53c1bae6f",
+    "title": "Egyptian Tax Authority extends VAT certificate validity to June 30",
+    "description": "Taxpayers whose VAT registration certificates expired on 31 March 2026 and 18 April 2026 must act promptly",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/MzRiZGFiOGUtMDc4My00/5/910893120.webp",
+    "link": "https://www.zawya.com/en/economy/north-africa/egyptian-tax-authority-extends-vat-certificate-validity-to-june-30-oy60i4oc",
+    "pubDate": "2026-04-27T05:17:24.630Z",
+    "scrapedAt": "2026-04-27T19:27:44.773258+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "North Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat"
+    ]
+  },
+  {
+    "id": "b7c5588b166c4918",
+    "title": "Saudi investment firm Merak Capital identifies where AI value is being built as Kingdom accelerates toward global leadership",
+    "description": "New report provides investors with a guide to Artificial Intelligence",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/94762377-9acb-47c2-90b9-43b309eb4f29/0/merakcapital-jpg.webp",
+    "link": "https://www.zawya.com/en/press-release/research-and-studies/saudi-investment-firm-merak-capital-identifies-where-ai-value-is-being-built-as-kingdom-accelerates-toward-global-leadership-aw1xezue",
+    "pubDate": "2026-04-27T10:50:51.300Z",
+    "scrapedAt": "2026-04-27T19:27:44.773258+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Kingdom of Saudi Arabia",
+    "countries": [
+      "Kingdom of Saudi Arabia"
+    ],
+    "primaryCountry": "Kingdom of Saudi Arabia",
+    "isMultiCountry": false,
+    "category": "Research & Studies",
+    "jurisdictions": [
+      "SA"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "1135a2a2515eb76d",
+    "title": "Galaxy Macau’s Quintet of Fine-Dining Restaurants Recognised in SCMP’s \"100 Top Tables 2026\" Restaurant Guide",
+    "description": "",
+    "thumbnail": "",
+    "link": "https://www.zawya.com/en/economy/global/galaxy-macaus-quintet-of-fine-dining-restaurants-recognised-in-scmps-100-top-tables-2026-restaurant-guide-bnhakk73",
+    "pubDate": "2026-04-27T14:01:58.037Z",
+    "scrapedAt": "2026-04-27T19:27:44.773258+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Global",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "a2d9069b1d80763e",
+    "title": "Enoc Group, Emarat partner to enhance aviation fuel continuity",
+    "description": "The Business Continuity Plan will provide documented procedures to guide the response, recovery, resumption, and restoration of operations of the two organisations",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/5083e6a0-bb0e-4aeb-a95d-782bc9179ac6/0/enoc-preevent-airshow-4-jpg.webp",
+    "link": "https://www.zawya.com/en/business/energy/enoc-group-emarat-partner-to-enhance-aviation-fuel-continuity-ri7vzavc",
+    "pubDate": "2026-04-27T03:38:55.482Z",
+    "scrapedAt": "2026-04-27T19:27:44.773258+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Energy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
