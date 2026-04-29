@@ -2743,32 +2743,6 @@
     ]
   },
   {
-    "id": "d798226323dec4f7",
-    "title": "103 self-service kiosks for tourist VAT refunds in UAE",
-    "description": "19,000 retailers linked to the system by end of 2025",
-    "thumbnail": "https://media.assettype.com/gulfnews/2025-11-25/yupsjafk/VAT-refund",
-    "link": "https://gulfnews.com/business/tax-news/103-self-service-kiosks-for-tourist-vat-refunds-in-uae-1.500424947",
-    "pubDate": "2026-01-29T13:48:32.076000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Tax News",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "vat"
-    ]
-  },
-  {
     "id": "8293b60490556c44",
     "title": "Philippines: President seeks emergency powers to cut oil excise taxes as prices spike amid Middle East war",
     "description": "Marcos seeks emergency powers to slash fuel taxes amid oil price surge",
@@ -4612,58 +4586,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "Friday",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "a351956ef1428e33",
-    "title": "Navigating UAE's Top schools and Nurseries: A comprehensive guide for parents",
-    "description": "Guide to top UAE schools and nurseries, helping parents make smarter admission choices",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-29/kc8xj64m/Su_260129_Schools_Listing_LISTICLE___Blossom_Picture.jpg",
-    "link": "https://gulfnews.com/gn-focus/navigating-uaes-top-schools-and-nurseries-a-comprehensive-guide-for-parents-1.500424752",
-    "pubDate": "2026-01-29T12:11:53.485000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "GN Focus",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "c0d2eb0ebbedd17b",
-    "title": "How to avoid costly mistakes: A guide for UAE property buyers in 2026",
-    "description": "The UAE’s real estate market in 2026 is not about rushing. It is about understanding",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-29/hjwvnrmy/Clint-Khan.jpg",
-    "link": "https://gulfnews.com/gn-focus/how-to-avoid-costly-mistakes-a-guide-for-uae-property-buyers-in-2026-1.500424526",
-    "pubDate": "2026-01-29T08:44:27.103000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "GN Focus",
     "jurisdictions": [
       "AE"
     ],
@@ -8889,6 +8811,57 @@
     "category": "",
     "jurisdictions": [
       "QA"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "eb0900aef88e9914",
+    "title": "Infinite IT Solutions receives pre-approval as accredited service provider for UAE e-invoicing mandate",
+    "description": "GCC-based e-invoicing leader with global reach across 30 countries to deliver enterprise-grade Peppol connectivity for UAE's landmark digital tax transformation",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/19c40070-b53e-4cd7-8fc7-d8f6c52f59b7/0/da1c5d61-b6ed-4c76-b724-3b3c9b78fd67-jfif.webp",
+    "link": "https://www.zawya.com/en/press-release/companies-news/infinite-it-solutions-receives-pre-approval-as-accredited-service-provider-for-uae-e-invoicing-mandate-qrgqsa42",
+    "pubDate": "2026-04-29T11:11:48.635Z",
+    "scrapedAt": "2026-04-29T19:41:28.106075+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Companies News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "e40a0a4b4b098f2d",
+    "title": "Dubai property visa guide 2026: 2-year, 5-year, and 10-year residency options, explained",
+    "description": "Dubai residency by real estate Investment: Everything from Dh400k to Dh2m Golden Visas",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-06/ynsawsff/Dubaiskyline2026",
+    "link": "https://gulfnews.com/living-in-uae/visa-immigration/dubai-residency-by-investment-guide-1.500523250",
+    "pubDate": "2026-04-29T11:46:19.536000+00:00",
+    "scrapedAt": "2026-04-29T19:41:28.113962+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Visa+Immigration",
+    "jurisdictions": [
+      "AE"
     ],
     "matchedKeywords": [
       "guide"
