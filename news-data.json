@@ -2220,34 +2220,6 @@
     ]
   },
   {
-    "id": "b0849de52f0977a6",
-    "title": "KPMG in Kuwait concludes Talking Tax 2026; launches the bilingual Kuwait Tax Guide 2026",
-    "description": "Event brings together senior leaders to unpack year‑two DMTT readiness, transfer pricing, and tax technology\n\tNew English & Arabic guide builds on KPMG’s previous Kuwait tax publications",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/2a23b806-72d5-42a4-b715-6013ac69877b/0/talking-tax-2026-prl-3-jpg.webp",
-    "link": "https://www.zawya.com/en/press-release/events-and-conferences/kpmg-in-kuwait-concludes-talking-tax-2026-launches-the-bilingual-kuwait-tax-guide-2026-s1zcwahh",
-    "pubDate": "2026-02-01T05:25:58.176Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Events and Conferences",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "transfer pricing",
-      "guide",
-      "dmtt"
-    ]
-  },
-  {
     "id": "3cf5ec5bb424c57e",
     "title": "Oman Customs eases transit procedures amid current regional situation",
     "description": "",
@@ -2945,33 +2917,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "People",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs",
-      "customs duty"
-    ]
-  },
-  {
-    "id": "8fa5aec72c92a650",
-    "title": "India Budget 2026: New customs duty cuts and export incentives, explained",
-    "description": "Duty exemptions and export support aim to make Indian goods more competitive globally",
-    "thumbnail": "https://media.assettype.com/gulfnews/import/2024/07/24/20240724-customs-money_190e578108b_large.jpg",
-    "link": "https://gulfnews.com/world/asia/india/india-budget-2026-new-customs-duty-cuts-and-export-incentives-explained-1.500427798",
-    "pubDate": "2026-02-01T07:57:50.418000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "India",
     "jurisdictions": [
       "AE"
     ],
@@ -9115,6 +9060,31 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "30e7058ac42f51a4",
+    "title": "Indonesia to maintain coal use amid energy security concerns",
+    "description": "JAKARTA, 2nd May, 2026 (WAM) - Indonesia will continue to rely on coal‑fired power plants (PLTU) to ensure energy efficiency and keep electricity prices affordable, Energy and Mineral Resources Minister Bahlil Lahadalia said on Saturday.Speaking at an event organised by the IPB Alumni Association in Jakarta, Bahlil noted that Indonesia’s large coal reserves make the resource essential, particularly amid global energy disruptions linked to rising tensions in the Middle East.He argued that Indonesia cannot abruptly abandon coal, pointing out that several developed countries—including the United States and parts of Europe—are returning to coal to safeguard domestic energy security.“Now America is considering coal as an option. Europe too, with some countries asking us to supply 20 million tons per year,” he said as quoted by Indonesian News Agency (ANTARA).Bahlil emphasised that efficiency and national interests must guide Indonesia’s energy transition.“I have decided, let’s go with coal. This is survival mode. We are talking about efficiency, and we must not burden our people with high electricity prices,” he stated.According to ministry data, Indonesia’s coal production in 2025 reached 790 million tonnes—a 5.5% decline from the 2024 target of 836 million tonnes, but still above this year’s target of 739.6 million tonnes.Of the total, 514 million tonnes (65.1%) were allocated for exports, while domestic market obligations (DMO) for electricity and non‑electricity sectors accounted for 254 million tonnes (32%).The remaining 22 million tonnes (2.8%) were reserved as stockpiles.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c00dlcr-indonesia-maintain-coal-use-amid-energy-security",
+    "pubDate": "2026-05-02T22:20:55+04:00",
+    "scrapedAt": "2026-05-02T19:04:26.263032+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
