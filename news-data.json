@@ -346,32 +346,6 @@
     ]
   },
   {
-    "id": "6f5f76fae4feec69",
-    "title": "NBR announces the launch of 2026 awareness workshops and opens registration",
-    "description": "The National Bureau for Revenue (NBR) announces its 2026 annual calendar of awareness workshops, as part of its ongoing efforts to raise awareness on the fundamentals of VAT and Excise and to enhance compliance, targeting key legislative and procedural aspects. The NBR stated that the upcoming series of workshops will cover a range of VAT and Excise topics, including an overview of general principles, registration procedures, VAT refund and payment mechanisms as well as compliance with VAT invoicing requirements. Specialized workshops will also highlight the implementation of VAT in specific sectors, such as construction and healthcare. These workshops will be held throughout the year, ensuring broad participation and maximum benefit while achieving the highest levels of efficiency and effectiveness. The launch of these workshops is part of the NBR’s strategy to enhance compliance by providing an interactive educational platform that offers a detailed explanation of regulatory requirements and procedures, while also providing an opportunity for participants to address their inquiries and receive immediate responses from NBR specialists during the sessions. All interested parties are invited to register for the workshops in advance through NBR’s website ( ), which will enable NBR specialists to provide workshop-related information. In addition, more information and updates will be available on NBR’s social media platforms (@Bahrainnbr), or by contacting NBR’s call center at 80008001 for any inquiries.",
-    "thumbnail": "https://nbrproduserdata-ir.s3.eu-west-1.amazonaws.com/releases/zO4zqYQ52RQvyhAEbhxNzUywgmqBL5s54unbhxeB.jpeg",
-    "link": "https://www.nbr.gov.bh/releases/232",
-    "pubDate": "2026-02-03T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T13:26:47.020441+00:00",
-    "source": "https://www.nbr.gov.bh/releases",
-    "sourceType": "official",
-    "sourceCountry": "BH",
-    "country": "Bahrain",
-    "countries": [
-      "Bahrain"
-    ],
-    "primaryCountry": "Bahrain",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "BH"
-    ],
-    "matchedKeywords": [
-      "vat",
-      "excise"
-    ]
-  },
-  {
     "id": "a1cd4597788608db",
     "title": "NBR: Over 27,000 entities registered for VAT by the end of 2025",
     "description": "The National Bureau for Revenue (NBR) commends the positive response from entities in complying with registration for VAT purposes. The NBR announced that the number of VAT registrants by the end of 2025 exceeded 27,070 entities. This commitment reflects the constructive collaboration of economic activity practitioners in ensuring the effective implementation of VAT in the Kingdom of Bahrain. The NBR stated that those required to register for VAT purposes are any entities with economic activities whose annual VATable sales exceeded within any of the previous twelve-months or are expected to exceed within any of the next twelve-months the mandatory registration threshold of BHD 37,500. The NBR urges all concerned to complete the VAT registration process in order to avoid administrative penalties or criminal punishments, as failure to register for VAT may be considered a case of VAT evasion as per article (63) of the VAT law, which punishments may reach imprisonment for a period of five years and a fine up to six times the amount of VAT evaded in accordance with article (64) of the VAT Law. The NBR highlights that economic activity includes any activity that is conducted in an ongoing and regular manner for the purpose of generating income, and includes commercial, industrial, agricultural, professional, services, or any use of tangible or intangible assets, and any other similar activity, for example, legal practices, licensed real estate professionals including brokers, valuers, sales agents and property managers, as well as fashion design, beauty services, events planning, auto repair, manpower suppliers and others. The NBR invites those interested in understanding the VAT registration criteria, its implementation mechanisms and ensuring compliance to join the workshop that will be conducted on Tuesday, 10 February 2026,  by filling out the available registration form on NBR website ( ). In addition, more information and updates will be available on NBR’s social media platforms (@Bahrainnbr) or by contacting NBR’s call center at 80008001 for any inquiries.",
@@ -2838,32 +2812,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "India",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
-    "id": "9b17e46b881f344e",
-    "title": "India eases gold customs rule: Indian expats in UAE welcome update in Budget 2026",
-    "description": "Move to bring clarity, compliance and ease travel stress: Community and business leaders",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-02-02/ktlfn0lb/WhatsApp-Image-2026-02-02-at-11.39.26-PM.jpeg",
-    "link": "https://gulfnews.com/uae/people/india-eases-gold-customs-rule-indian-expats-in-uae-welcome-update-in-budget-2026-1.500429410",
-    "pubDate": "2026-02-03T01:00:00+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "People",
     "jurisdictions": [
       "AE"
     ],
@@ -9053,6 +9001,32 @@
     ],
     "matchedKeywords": [
       "zakat"
+    ]
+  },
+  {
+    "id": "cf1b66bc03b7bee6",
+    "title": "UAE e-invoicing deadline looms: What businesses must do before July 1",
+    "description": "Businesses must pick service providers and upgrade systems before looming rollout",
+    "thumbnail": "https://media.assettype.com/gulfnews/import/2011/4/16/1_16a08152845.794175_2144502950_16a08152845_large.jpg",
+    "link": "https://gulfnews.com/business/tax-news/uae-e-invoicing-deadline-looms-what-businesses-must-do-before-july-1-1.500527689",
+    "pubDate": "2026-05-03T20:01:00+00:00",
+    "scrapedAt": "2026-05-04T02:29:09.793187+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
     ]
   }
 ]
