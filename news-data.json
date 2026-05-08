@@ -2608,32 +2608,6 @@
     ]
   },
   {
-    "id": "ce45c6c684098a14",
-    "title": "Top trending: Ramadan timings, e-visa scam, India’s customs rules, UAE speed limits and more",
-    "description": "Here’s your roundup of the top trending stories making headlines this weekend",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-02-07/ok3euqcv/FotoJet-2.jpg",
-    "link": "https://gulfnews.com/uae/top-trending-ramadan-timings-e-visa-scam-indias-customs-rules-uae-speed-limits-and-more-1.500435024",
-    "pubDate": "2026-02-07T06:33:20.219000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "UAE",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "18b8de87dd9e9b70",
     "title": "When management moves, tax follows",
     "description": "Understanding Place of Effective Management under UAE Corporate Tax",
@@ -9374,6 +9348,32 @@
     ],
     "matchedKeywords": [
       "guide"
+    ]
+  },
+  {
+    "id": "f8466aad99e3bcf3",
+    "title": "Bestax Chartered Accountants prepares UAE businesses for e-invoicing rollout",
+    "description": "Once implemented, covered transactions will need to be processed in an electronic format",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-08/ptrhz910/Gulf-news-Bestax-Chartered-Accountants-Team-winning-Ifza-Impact-partner-award-at-circle-award.png",
+    "link": "https://gulfnews.com/business/corporate-news/bestax-chartered-accountants-prepares-uae-businesses-for-e-invoicing-rollout-1.500533658",
+    "pubDate": "2026-05-08T10:19:21.064000+00:00",
+    "scrapedAt": "2026-05-08T19:23:04.110004+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Corporate News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
     ]
   }
 ]
