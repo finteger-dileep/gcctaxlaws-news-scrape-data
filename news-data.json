@@ -9350,5 +9350,30 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "6dc1c6d90eac49bc",
+    "title": "The City Buzz: Your guide to UAE's best events",
+    "description": "Discover Dubai and beyond with curated picks for art, dining, fitness and fun",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-17/fbcnq64x/Jazzy-Monday-Nights.jpg",
+    "link": "https://gulfnews.com/friday/the-city-buzz-your-guide-to-uaes-best-events-3-1.500509917",
+    "pubDate": "2026-04-17T07:37:14.381000+00:00",
+    "scrapedAt": "2026-05-08T02:36:45.001084+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Friday",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
