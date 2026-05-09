@@ -1770,32 +1770,6 @@
     ]
   },
   {
-    "id": "ed99ecb0deb5646f",
-    "title": "KPMG in Kuwait concludes Talking Tax 2026",
-    "description": "Launches the bilingual Kuwait Tax Guide 2026.",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/d429f0c3-0d49-4480-9091-a6badc9dd8c7/0/talking-tax-2026-prl-3-jpg.webp",
-    "link": "https://www.zawya.com/en/press-release/events-and-conferences/kpmg-in-kuwait-concludes-talking-tax-2026-rqkd76ep",
-    "pubDate": "2026-02-08T04:35:23.534Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Events and Conferences",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "595c7e068ed790c7",
     "title": "US exporters protest new clearing checks, costs in Kenya",
     "description": "Kebs has set inspection fees at 0.6 percent of customs value, subject to a minimum of $300 and a maximum of $3,500",
@@ -2834,32 +2808,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "Ask Us",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "zakat"
-    ]
-  },
-  {
-    "id": "d2c0fb92d7b20b59",
-    "title": "UAE Fatwa Council sets Ramadan 2026 Zakat Al Fitr and Fidyah values",
-    "description": "Dh25 per person Zakat Al Fitr rate announced",
-    "thumbnail": "https://media.assettype.com/gulfnews/import/2023/03/21/20230321-ramadan-2023_18705b7c198_large.jpg",
-    "link": "https://gulfnews.com/uae/uae-fatwa-council-sets-ramadan-2026-zakat-al-fitr-and-fidyah-values-1.500436380",
-    "pubDate": "2026-02-08T18:59:38.028000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "UAE",
     "jurisdictions": [
       "AE"
     ],
@@ -9348,6 +9296,31 @@
     "matchedKeywords": [
       "e-invoicing",
       "e invoicing"
+    ]
+  },
+  {
+    "id": "1fff4abd839a91d6",
+    "title": "China's foreign trade expands 14.2% in April",
+    "description": "BEIJING, 9th May, 2026 (WAM) -- China's foreign trade in yuan-denominated terms grew 14.2 percent year on year in April, data from the General Administration of Customs showed on Saturday.The total value of goods imports and exports reached 4.38 trillion yuan ($639.4 billion) last month, the data showed.Exports rose 9.8 percent from the same period last year to 2.48 trillion yuan, while imports went up 20.6 percent to 1.9 trillion yuan, according to the data.In the first four months, total foreign trade reached 16.23 trillion yuan, up 14.9 percent year on year.",
+    "thumbnail": "https://assets.wam.ae/resource/fxi03l6b1ka10w2po.jpg",
+    "link": "https://www.wam.ae/en/article/c04jlkp-chinas-foreign-trade-expands-142-april",
+    "pubDate": "2026-05-09T09:56:35+04:00",
+    "scrapedAt": "2026-05-09T19:06:27.345076+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
     ]
   }
 ]
