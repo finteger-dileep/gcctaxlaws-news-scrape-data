@@ -162,31 +162,6 @@
     ]
   },
   {
-    "id": "60d539cbf73bb734",
-    "title": "Finance, Tax, and Customs Authorities Celebrate National Sports Day at Old Doha Port",
-    "description": "On the occasion of National Sports Day, the Ministry of Finance, the General Tax Authority and the General Authority of Customs, organized a joint sports event at Old Doha Port. The initiative reflects the participation of government institutions in this national event, which aims to promote a culture of physical activity and encourage healthy lifestyles. The event was attended by H.E. Mr. Ali bin Ahmed Al-Kuwari, Minister of Finance; H.E. Mr. Khalifa bin Jassim Al-Jaham Al-Kuwari, President of the General Tax Authority and leaders from the General Authority of Customs, alongside a number of employees from the three authorities. Their presence underscores the importance of institutional participation in supporting national initiatives with health and community-oriented objectives. The program included a variety of sports activities, such as walking, fitness exercises, and competitive games, which allowed for broad participation and fostered interaction and communication among attendees, transforming the occasion from a symbolic celebration into active engagement in physical activity. The event’s significance lies in its contribution to a broader national approach linking health and quality of life. It highlights the role of government institutions in actively raising awareness about the importance of sports, particularly in light of modern lifestyle challenges characterized by reduced physical activity. National Sports Day is an annual occasion to renew community commitment to sports, promote positive health behaviors, and encourage individuals to adopt regular physical activity as a sustainable lifestyle, in line with the country’s vision of building a healthy, productive, and balanced society. This event was organized in implementation of the Amiri Decree issued in 2011, which designates the second Tuesday of February each year as National Sports Day, aiming to encourage sports participation and promote a healthy lifestyle.",
-    "thumbnail": "https://gta.gov.qa/assets/images/SPD MEDIA 1.jpg",
-    "link": "https://gta.gov.qa/en/media-center/news/finance-tax-and-customs-authorities-celebrate-national-sports-day-at-old",
-    "pubDate": "2026-02-10T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T13:26:46.303588+00:00",
-    "source": "https://gta.gov.qa/en/media-center/news",
-    "sourceType": "official",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "News",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "65a3a773cac5e945",
     "title": "ZATCA Urges Establishments to Submit VAT Returns for February 2026",
     "description": "The Zakat, Tax and Customs Authority (ZATCA) has urged business sector establishments subject to VAT",
@@ -9179,6 +9154,32 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": false,
     "category": "Business",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "322c6f85b3dbf37c",
+    "title": "UAE e-invoicing deadline extended: What this means for businesses now",
+    "description": "UAE pushed back deadline for companies to appoint approved e-invoicing providers",
+    "thumbnail": "https://media.assettype.com/gulfnews/2024-11-18/8dhfgcht/UAEECONOMY2019_resources1_16a3106b387_original_ratio.jpg",
+    "link": "https://gulfnews.com/business/tax-news/uae-e-invoicing-deadline-extended-what-this-means-for-businesses-now-1.500535992",
+    "pubDate": "2026-05-11T00:04:00+00:00",
+    "scrapedAt": "2026-05-11T02:42:25.905068+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax News",
     "jurisdictions": [
       "AE"
     ],
