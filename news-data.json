@@ -134,34 +134,6 @@
     ]
   },
   {
-    "id": "af3113083185a42d",
-    "title": "The General Tax Authority Announces the Implementation of the Global and Domestic\n                                    Minimum Tax in Line with the Latest International Standards",
-    "description": "As part of its ongoing efforts to align the national tax system with international best practices, the General Tax Authority announces the commencement of the implementation of Chapter Seven (Repealed and Re-enacted) of the Income Tax Law issued under Law No. (24) of 2018 and its amendments, which sets out the rules for applying the global and domestic minimum tax, thereby enhancing the principles of transparency and fairness in the tax system. This decision comes within the context of implementing Pillar Two of the global initiative led by the Organization for Economic Co-operation and Development (OECD) and the Group of Twenty (G20) to address the tax challenges arising from the digitalization of the economy, known as the Global Minimum Tax Agreement. This initiative aims to impose an effective minimum tax rate of 15% on the profits of multinational enterprises with foreign operations, provided that their revenues exceed EUR 750 million. It also represents the implementation of the latest amendment to the Income Tax Law and introduces two fundamental rules in modern tax policy: the Global Minimum Tax (Qualified Income Inclusion Rule) and the Domestic Minimum Tax (Qualified Domestic Minimum Top-up Tax). This step reflects the State of Qatar’s efforts to keep pace with international initiatives to ensure that multinational companies contribute their fair share of taxes worldwide. This decision also underscores the State’s leading role in strengthening the Inclusive Framework of the OECD and the G20 on Base Erosion and Profit Shifting (BEPS), as well as in protecting the national tax base from the unlawful shifting of profits to low-tax jurisdictions or the loss of national tax revenues to other countries. In this regard, the General Tax Authority affirmed that this approach reflects the State of Qatar’s commitment to complying with international best practices in the tax field and enhances its position as a reliable and transparent economic and financial hub on the global stage. The GTA will issue the necessary guidance manuals and executive decisions in the coming phase to clarify the implementation mechanisms, in accordance with the standards set under Pillar Two, including the Global Minimum Tax (GloBE) rules. It is noteworthy that this decision represents a strategic step in supporting the balance between attracting foreign direct investment, safeguarding tax sovereignty, and upholding financial fairness within the country.",
-    "thumbnail": "https://gta.gov.qa/assets/images/gta logo.jpg",
-    "link": "https://gta.gov.qa/en/media-center/news/the-general-tax-authority-announces-the-implementation-of-the-global-and-do",
-    "pubDate": "2026-02-12T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T13:26:46.303588+00:00",
-    "source": "https://gta.gov.qa/en/media-center/news",
-    "sourceType": "official",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "News",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "top-up tax",
-      "top up tax",
-      "tax agreement",
-      "pillar two"
-    ]
-  },
-  {
     "id": "65a3a773cac5e945",
     "title": "ZATCA Urges Establishments to Submit VAT Returns for February 2026",
     "description": "The Zakat, Tax and Customs Authority (ZATCA) has urged business sector establishments subject to VAT",
@@ -2364,32 +2336,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "Saving and Investment",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "zakat"
-    ]
-  },
-  {
-    "id": "2e378c2373699dae",
-    "title": "UAE launches National Zakat Platform to unify donations",
-    "description": "Official digital system ensures transparent, Sharia-compliant zakat nationwide",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-02-12/jg2ivm48/066A6502.jpg",
-    "link": "https://gulfnews.com/uae/ramadan/uae-launches-national-zakat-platform-to-unify-donations-1.500440351",
-    "pubDate": "2026-02-12T02:42:18.859000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Ramadan",
     "jurisdictions": [
       "AE"
     ],
