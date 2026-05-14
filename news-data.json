@@ -3306,32 +3306,6 @@
     ]
   },
   {
-    "id": "28fda6bee26880a1",
-    "title": "OFFLIMITS Abu Dhabi 2026: Jonas Brothers, Shakira and Ne-Yo lead full lineup — ticket prices and travel guide",
-    "description": "Prepare for a crowd that knows every lyric, whether they admit it or not.",
-    "thumbnail": "https://media.assettype.com/gulfnews/2024-11-17/0i56bsan/Jonas_Brothers_in_Chasing_Happiness_172b814f09f_original_ratio.jpg",
-    "link": "https://gulfnews.com/lifestyle/offlimits-abu-dhabi-2026-jonas-brothers-shakira-and-ne-yo-lead-full-lineup-ticket-prices-and-travel-guide-1.500441768",
-    "pubDate": "2026-02-13T02:47:36.249000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Lifestyle",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "e62e61cc57c9a9a3",
     "title": "Travelling on Emirates? Delays, routes affected, FAQs answered",
     "description": "Flying from Dubai? All you need to know about Emirates flights amid airspace disruptions",
@@ -3381,32 +3355,6 @@
     ],
     "matchedKeywords": [
       "faq"
-    ]
-  },
-  {
-    "id": "cbf2a11739b4247d",
-    "title": "UAE shopping guide for Ramadan 2026: 10,000 price cuts, up to 65% discounts",
-    "description": "Retailers cut prices as bulk deals, apps hike savings — What to know before you stock up",
-    "thumbnail": "https://media.assettype.com/gulfnews/import/2011/8/8/1_16a07ffcd06.849140_332062596_16a07ffcd06_large.jpg",
-    "link": "https://gulfnews.com/your-money/saving-investment/uae-shopping-guide-for-ramadan-2026-10000-price-cuts-up-to-65-discounts-1.500441585",
-    "pubDate": "2026-02-12T23:03:00+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Saving and Investment",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
     ]
   },
   {
@@ -9023,6 +8971,31 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "57bba4648f292204",
+    "title": "Shares of emissions priced",
+    "description": "The share of emissions priced indicator shows the share of greenhouse gas (GHG) emissions within a country or sector with a carbon price that exceeds a certain level. The carbon price signal stems from the Net Effective Carbon Rate (ECR) - the sum of fuel excise taxes, carbon taxes and tradable emission permits that effectively put a price on...",
+    "thumbnail": "",
+    "link": "https://data-explorer.oecd.org/vis?lc=en&df%5Bds%5D=dsDisseminateFinalDMZ&df%5Bid%5D=DSD_NECR%40DF_NECRSHARES&df%5Bag%5D=OECD.CTP.TPS",
+    "pubDate": "2026-05-05T11:00:27.297Z",
+    "scrapedAt": "2026-05-14T02:42:30.897584+00:00",
+    "source": "https://www.oecd.org/en/topics/taxation.html",
+    "sourceType": "media",
+    "sourceCountry": "FR",
+    "country": "International",
+    "countries": [
+      "Middle East",
+      "International"
+    ],
+    "primaryCountry": "International",
+    "isMultiCountry": true,
+    "category": "Dataset",
+    "jurisdictions": [],
+    "matchedKeywords": [
+      "excise tax",
+      "excise"
     ]
   }
 ]
