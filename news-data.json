@@ -1348,33 +1348,6 @@
     ]
   },
   {
-    "id": "05edef95483fa131",
-    "title": "Marmin UAE achieves MOF–FTA Pre-approval, supporting the UAE’s mandatory E-invoicing rollout",
-    "description": "Reinforcing its role in the UAE’s transition to a mandatory nationwide e-Invoicing system",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/f4cb0164-6908-4872-9d6c-f5af7e12e777/0/press-release-einvoicning-1-png.webp",
-    "link": "https://www.zawya.com/en/press-release/companies-news/marmin-uae-achieves-moffta-pre-approval-supporting-the-uaes-mandatory-e-invoicing-rollout-f8hd599o",
-    "pubDate": "2026-02-15T04:48:30.294Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Companies News",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "e-invoicing",
-      "e invoicing"
-    ]
-  },
-  {
     "id": "f5b6f8ff9272374f",
     "title": "India amends tax treaty with France, cuts dividend tax for major investors",
     "description": "Bilateral trade between India and France stood at $15 billion last year",
@@ -9115,6 +9088,57 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "7d63f0005d24fb4f",
+    "title": "ISNR 2026 launches five major new features",
+    "description": "ABU DHABI, 16th May, 2026 (WAM) -- The International Exhibition for National Security and Resilience (ISNR) 2026, the leading biennial event dedicated to the national security and civil defence sectors, has announced five new features for its ninth and largest edition, taking place from 19th to 21st May at ADNEC Centre Abu Dhabi.The new additions mark a significant expansion in the exhibition’s scope across advanced security technologies, emergency response services, cybersecurity, and artificial intelligence (AI)-powered solutions.ISNR 2026 provides a platform for international collaboration and knowledge exchange, bringing together government organisations, law enforcement agencies, and industry experts to address emerging security challenges and strengthen national security capabilities.This year’s edition will host the inaugural AI Security Forum, a high-level, three-day strategic platform convening industry leaders, policymakers, technology providers, and AI experts.The forum will explore the transformative role of AI in enhancing national security, cyber defence, law enforcement, and critical infrastructure protection, offering a dynamic space for cross-sector collaboration as AI continues to reshape the global security landscape.The event will also introduce the Code Breaker Hackathon, a live competition where participants will engage in real-world cybersecurity scenarios, highlighting the role of digital defences as the first line of protection for modern infrastructure, and delivering practical insights into the evolving threats and breakthrough innovations across the cybersecurity domain.ISNR 2026 will also feature the Fire Hub, a dedicated platform spotlighting the latest vehicles, technologies, and equipment from leading manufacturers and suppliers in the fire safety sector.This year’s event will also present the K9 Agility Display, a dynamic showcase demonstrating the agility, precision, and operational readiness of specialised canine units, while offering visitors a first-hand understanding of the critical role these highly skilled units play in policing, customs, and national security operations.The display will bring together specialised teams from the Ministry of Interior, Abu Dhabi Police, Worldwide K9 Academy, and Jordan National K9, highlighting the latest advancements in K9 capabilities and training methodologies.Rounding out the new features, the ISNR Fitness Competition, an interactive experience organised by ADNEC Group and OXYGEN, in collaboration with the Ministry of Interior, will highlight the rigorous physical standards required of frontline emergency service professionals.The competition will challenge participants to complete demanding CrossFit-based obstacle courses designed to test strength, endurance, coordination, and collaboration in high-pressure, real-world operational scenarios, underscoring the importance of physical and mental readiness in enhancing the operational effectiveness of security and emergency response teams.ISNR 2026 will also present two of its flagship offerings. The Cybersecurity Hub, held in collaboration with the UAE Cybersecurity Council, will provide a specialised platform to spotlight the latest technologies and solutions in cybersecurity and digital protection.The hub will highlight the role of advanced technology in enhancing cyber resilience across government entities and critical sectors, as well as the UAE’s commitment to developing a robust and secure cybersecurity infrastructure.Additionally, the 2026 edition will feature the Delegation Lounge, a high-level forum bringing together government officials, policymakers, and industry leaders to exchange insights, engage in strategic dialogue, and forge impactful partnerships.",
+    "thumbnail": "https://assets.wam.ae/resource/6ex03s2x1ka1329po.jpg",
+    "link": "https://www.wam.ae/en/article/c08pn1a-isnr-2026-launches-five-major-new-features",
+    "pubDate": "2026-05-16T12:23:54+04:00",
+    "scrapedAt": "2026-05-16T19:08:42.299931+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "52ed2608ef045e43",
+    "title": "Sri Lanka raises tax on imported cars as Middle East crisis bites",
+    "description": "Colombo, Sri Lanka: Sri Lanka placed a 50 percent surcharge on customs duties on vehicles Saturday in a bid to discourage imports and...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20250812_1754998735-858-thumb_small_190.jpg?1754998735",
+    "link": "https://thepeninsulaqatar.com/article/16/05/2026/sri-lanka-raises-tax-on-imported-cars-as-middle-east-crisis-bites",
+    "pubDate": "2026-05-16T00:00:00+00:00",
+    "scrapedAt": "2026-05-16T19:08:42.284353+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs",
+      "customs duty"
     ]
   }
 ]
