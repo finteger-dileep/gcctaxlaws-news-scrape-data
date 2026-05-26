@@ -1558,32 +1558,6 @@
     ]
   },
   {
-    "id": "cd96e9ffffaad413",
-    "title": "The Ports, Customs and Free Zone Corporation signs MoU with CIPS to advance procurement excellence",
-    "description": "Nasser Al Neyadi: We strive to establish the Ports, Customs and Free Zone Corporation as a center of excellence in procurement and supply",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/da424a5e-592e-4526-8e76-a81a9a5ac96d/0/pcfcxcips-jpg.webp",
-    "link": "https://www.zawya.com/en/press-release/companies-news/the-ports-customs-and-free-zone-corporation-signs-mou-with-cips-to-advance-procurement-excellence-inr2nt37",
-    "pubDate": "2026-02-25T08:50:53.923Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Companies News",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "462e1f3d79434b43",
     "title": "Royex Technologies establishes inaugural Board of Advisors",
     "description": "Four distinguished industry leaders join to guide the company's strategic growth and innovation",
@@ -1889,32 +1863,6 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": true,
     "category": "Ramadan",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "zakat"
-    ]
-  },
-  {
-    "id": "60176ac119e6302f",
-    "title": "Sharjah Charity introduces six easy ways to pay Zakat Al-Mal",
-    "description": "Digital platforms, bank transfers and doorstep collection aim to simplify donations",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-02-25/hje14dwp/Mohammed-Rashid-bin-Bayat-Vice-Chairman-of-the-association’s-Board-of-Directors",
-    "link": "https://gulfnews.com/uae/sharjah-charity-introduces-six-easy-ways-to-pay-zakat-al-mal-1.500455489",
-    "pubDate": "2026-02-25T19:38:56.601000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "UAE",
     "jurisdictions": [
       "AE"
     ],
@@ -9421,6 +9369,32 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "7f9c2d762f4317b3",
+    "title": "UAE E-Invoicing Update: ASP Appointment Deadline Extended to October 2026",
+    "description": "The UAE has extended the deadline for large businesses with revenue of AED 50 million or more to appoint an Accredited Service Provider for e-invoicing from July 31, 2026, to October 30, 2026.",
+    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/05/UAE-e-invoice.jpg",
+    "link": "https://www.middleeastbriefing.com/news/uae-e-invoicing-update-asp-appointment-deadline-extended/",
+    "pubDate": "2026-05-26T16:11:11+00:00",
+    "scrapedAt": "2026-05-26T20:11:58.010159+00:00",
+    "source": "https://www.middleeastbriefing.com/news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Legal & Regulatory, UAE, UAE business intelligence",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
     ]
   }
 ]
