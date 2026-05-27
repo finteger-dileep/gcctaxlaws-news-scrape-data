@@ -9396,5 +9396,30 @@
       "e-invoicing",
       "e invoicing"
     ]
+  },
+  {
+    "id": "9e9daaa8fcf27f73",
+    "title": "The ultimate UAE Eid Al-Adha dessert guide: 4 spots serving adorable sheep treats",
+    "description": "The bakeries and cafes in Dubai serving up creative, woolly treats this festive season",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-26/g12y8k1k/IMG3828.png",
+    "link": "https://gulfnews.com/lifestyle/the-ultimate-uae-eid-al-adha-dessert-guide-4-spots-serving-adorable-sheep-treats-1.500554300",
+    "pubDate": "2026-05-27T02:30:00+00:00",
+    "scrapedAt": "2026-05-27T02:55:59.471786+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Lifestyle",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
