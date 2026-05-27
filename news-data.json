@@ -1688,32 +1688,6 @@
     ]
   },
   {
-    "id": "6b17ec5d4f9ecd4e",
-    "title": "Cameroon’s 2026 Licensing Round: A Regulatory and Compliance Guide for Prospective Bidders",
-    "description": "",
-    "thumbnail": "",
-    "link": "https://www.zawya.com/en/press-release/africa-press-releases/cameroons-2026-licensing-round-a-regulatory-and-compliance-guide-for-prospective-bidders-kvayke5h",
-    "pubDate": "2026-02-26T08:05:06.109Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Africa Press Releases",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "8293b60490556c44",
     "title": "Philippines: President seeks emergency powers to cut oil excise taxes as prices spike amid Middle East war",
     "description": "Marcos seeks emergency powers to slash fuel taxes amid oil price surge",
@@ -2994,34 +2968,6 @@
     ],
     "matchedKeywords": [
       "vat"
-    ]
-  },
-  {
-    "id": "23caceb4d4a0562b",
-    "title": "Qatar Implements Global and Domestic Minimum Tax: Pillar Two Scope and Next Steps",
-    "description": "Law No. 22 of 2024 amends Qatar’s Income Tax Law to implement the Qatar Domestic Minimum Top-up Tax (DMTT) under OECD Pillar Two, introducing the Income Inclusion Rule and a Domestic Minimum Top-up Tax effective for fiscal years beginning on or after January 1, 2025.",
-    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2025/06/kuwait-qatar-tax-.png",
-    "link": "https://www.middleeastbriefing.com/news/qatar-implements-global-and-domestic-minimum-tax-dmtt/",
-    "pubDate": "2026-02-26T10:28:07+00:00",
-    "scrapedAt": "2026-04-05T18:47:50.960350+00:00",
-    "source": "https://www.middleeastbriefing.com/news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "Qatar, Tax & Accounting, Business Intelligence",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "top-up tax",
-      "top up tax",
-      "pillar two",
-      "dmtt"
     ]
   },
   {
@@ -9415,6 +9361,83 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": false,
     "category": "Lifestyle",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "ca4300499eedca73",
+    "title": "Do Property Owners Pay Tax in the UAE? Key Rules for Real Estate Investors",
+    "description": "The UAE is no longer a tax-free environment for all real estate investors. This article explains how corporate tax, VAT, free zone rules, transfer fees, and ownership structures affect property owners and investors. The UAE is still one of the most tax-efficient real estate markets in the world. But it is no longer accurate to […]",
+    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/05/UAE-real-estate-property-tax-2026.jpg",
+    "link": "https://www.middleeastbriefing.com/news/uae-real-estate-tax-2026-insights-property-owners/",
+    "pubDate": "2026-05-27T10:25:51+00:00",
+    "scrapedAt": "2026-05-27T20:21:53.769588+00:00",
+    "source": "https://www.middleeastbriefing.com/news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax & Accounting, UAE, Business Intelligence",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax",
+      "vat"
+    ]
+  },
+  {
+    "id": "4632ac803c3e4932",
+    "title": "Last-Minute Eid gift guide: Luxury picks to shop now",
+    "description": "Explore luxury Eid gift ideas, from timeless fashion to elegant hosting essentials",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-27/wj13c63t/giftguide.JPG",
+    "link": "https://gulfnews.com/the-kurator/luxury/last-minute-eid-gift-guide-luxury-picks-to-shop-now-1.500554629",
+    "pubDate": "2026-05-27T07:35:32.650000+00:00",
+    "scrapedAt": "2026-05-27T20:21:53.769629+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Luxury",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "5bdef82e9bbdc252",
+    "title": "UAE President, VPs congratulate heads of Arab, Islamic states on Eid al-Adha",
+    "description": "UAE President His Highness Sheikh Mohamed bin Zayed Al Nahyan has sent cables of congratulations to Their Highnesses the Kings, Presidents, and Emirs of Arab and Islamic nations on the occasion of Eid al-Adha. His Highness Sheikh Mohamed wished them and their peoples continued progress, prosperity, and stability. Read more | Ultimate guide to Eid […]",
+    "thumbnail": "https://economymiddleeast.com/wp-content/uploads/2026/05/UAE-leaders-Eid-al-Adha-congratulations-2026-.jpg",
+    "link": "https://economymiddleeast.com/news/uae-president-vps-congratulate-heads-of-arab-islamic-states-on-eid-al-adha/",
+    "pubDate": "2026-05-27T03:00:42+00:00",
+    "scrapedAt": "2026-05-27T20:21:53.761566+00:00",
+    "source": "https://economymiddleeast.com/latest-news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Abu Dhabi, Dubai, Eid al-Adha",
     "jurisdictions": [
       "AE"
     ],
