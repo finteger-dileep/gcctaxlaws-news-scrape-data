@@ -2339,32 +2339,6 @@
     ]
   },
   {
-    "id": "9481e09e513abc42",
-    "title": "UAE flight cancellations: A guide for tourists stranded in the UAE",
-    "description": "Passengers are urged to follow official sources and airline updates.",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-02/sxurb2qg/STOCKGOLD-SOUQVS-1.jpg",
-    "link": "https://gulfnews.com/business/tourism/uae-flight-cancellations-a-guide-for-tourists-stranded-in-the-uae-1.500459892",
-    "pubDate": "2026-03-01T15:43:02.810000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Travel & Tourism",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "e62e61cc57c9a9a3",
     "title": "Travelling on Emirates? Delays, routes affected, FAQs answered",
     "description": "Flying from Dubai? All you need to know about Emirates flights amid airspace disruptions",
@@ -9464,6 +9438,57 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "97c482a8e95bcbd8",
+    "title": "Burjeel Hospital opens ‘VAT Refund Counter’ at Yas Mall for World No Tobacco Day 2026",
+    "description": "Open May 31to June 6, the counter prompts vape users to rethink habits",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-30/iv0wbxeu/3-20.jpg",
+    "link": "https://gulfnews.com/business/corporate-news/burjeel-hospital-opens-vat-refund-counter-at-yas-mall-for-world-no-tobacco-day-2026-1.500557858",
+    "pubDate": "2026-05-30T13:43:20.442000+00:00",
+    "scrapedAt": "2026-05-30T19:20:56.819724+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Corporate News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat"
+    ]
+  },
+  {
+    "id": "a39df10f1d977698",
+    "title": "UAE issues Ebola advisory for residents: Travel warning, health guide explained",
+    "description": "Authorities reaffirm stable situation and highlight strong national preparedness",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-30/4fw9vuip/evboal.PNG",
+    "link": "https://gulfnews.com/uae/health/uae-issues-ebola-advisory-for-residents-travel-warning-health-guide-explained-1.500558251",
+    "pubDate": "2026-05-30T18:41:33.677000+00:00",
+    "scrapedAt": "2026-05-30T19:20:56.819724+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Health",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
