@@ -489,31 +489,6 @@
     ]
   },
   {
-    "id": "00047a76d5e1d127",
-    "title": "Zakat share ratio for 32 listed companies in 2025 updated",
-    "description": "Doha, Qatar: The Zakat Affairs Department at the Ministry of Awqaf and Islamic Affairs has updated the zakat share ratios for 32 companies...",
-    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260303_1772521881-261-thumb_small_190.jpg?1772521881",
-    "link": "https://thepeninsulaqatar.com/article/03/03/2026/zakat-share-ratio-for-32-listed-companies-in-2025-updated",
-    "pubDate": "2026-03-03T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T14:21:46.044299+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "zakat"
-    ]
-  },
-  {
     "id": "3dae63f460fdc4af",
     "title": "FAQ: Qatar GCO explains loud sounds linked to air defence systems",
     "description": "Doha, Qatar: The Government Communications Office (GCO) shared key facts on frequently asked questions regarding the country's air defence systems.\r\nGCO has outlined...",
@@ -9514,6 +9489,31 @@
     "category": "Health",
     "jurisdictions": [
       "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "bee8d2e9ba955970",
+    "title": "Qatar to enter “third hottest month” of the year: QMD",
+    "description": "The Qatar Meteorology Department released a climate guide for the month of June, \"the first month of summer and the third hottest month...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260531_1780256289-67-thumb_small_190.jpeg?1780256289",
+    "link": "https://thepeninsulaqatar.com/article/31/05/2026/qatar-to-enter-third-hottest-month-of-the-year-qmd",
+    "pubDate": "2026-05-31T00:00:00+00:00",
+    "scrapedAt": "2026-06-01T03:33:41.677873+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
     ],
     "matchedKeywords": [
       "guide"
