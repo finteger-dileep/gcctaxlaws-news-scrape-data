@@ -701,32 +701,6 @@
     ]
   },
   {
-    "id": "21800bdc935c17eb",
-    "title": "UAE waives overstay penalties for travelers impacted by flight suspensions",
-    "description": "The UAE Federal Authority for Identity, Citizenship, Customs and Ports Security has confirmed that overstay penalties will be waived for individuals impacted by regional flight suspensions and airspace closures. The exemption covers visitors on tourist or entry visas, as well as residents who had already cancelled their permits to depart. Specifically, fines accumulated on or […]",
-    "thumbnail": "https://economymiddleeast.com/wp-content/uploads/2026/03/UAE-overstay-penalties-waived-for-flight-disruptions-1-1-1-1.jpg",
-    "link": "https://economymiddleeast.com/news/uae-overstay-penalties-waived-flight-disruptions/",
-    "pubDate": "2026-03-05T10:57:21+00:00",
-    "scrapedAt": "2026-04-03T15:29:45.923779+00:00",
-    "source": "https://economymiddleeast.com/latest-news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Abu Dhabi, Abu Dhabi International Airport, Dubai",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "d6e06dd53fe6ef0d",
     "title": "SetupHK Launches Free Corporate Tax Diagnosis Service — Limited to 20 Slots — Helping Hong Kong SMEs Navigate Tax Filing Season",
     "description": "",
@@ -9311,6 +9285,136 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "37e8de66ca63205e",
+    "title": "Bahrain Approves GCC Excise Tax Amendment: Implications for Businesses",
+    "description": "Bahrain has approved amendments to the GCC Unified Excise Tax Agreement, introducing changes that could affect pricing, compliance obligations, and business strategy across tobacco, beverages, and other excisable sectors.",
+    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/06/Baharain-GCC-Excise-Tax.jpg",
+    "link": "https://www.middleeastbriefing.com/news/bahrain-gcc-excise-tax-amendment-implications-business/",
+    "pubDate": "2026-06-03T12:38:15+00:00",
+    "scrapedAt": "2026-06-03T20:58:41.859058+00:00",
+    "source": "https://www.middleeastbriefing.com/news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Bahrain",
+    "countries": [
+      "Bahrain"
+    ],
+    "primaryCountry": "Bahrain",
+    "isMultiCountry": false,
+    "category": "Bahrain, Tax & Accounting, Barhain",
+    "jurisdictions": [
+      "BH"
+    ],
+    "matchedKeywords": [
+      "excise tax",
+      "excise",
+      "tax agreement"
+    ]
+  },
+  {
+    "id": "e64691eefd263a02",
+    "title": "Customs officials seize 6kg marijuana at Muscat airport",
+    "description": "Doha, Qatar: Oman customs officials have arrested a passenger and seized 17 packages of marijuana weighing 6.179 kilograms at Muscat International Airport recently....",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260603_1780505673-182-thumb_small_190.jpg?1780505673",
+    "link": "https://thepeninsulaqatar.com/article/03/06/2026/customs-officials-seize-6kg-marijuana-at-muscat-airport",
+    "pubDate": "2026-06-03T00:00:00+00:00",
+    "scrapedAt": "2026-06-03T20:58:41.850976+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Oman",
+    "countries": [
+      "Oman",
+      "Qatar"
+    ],
+    "primaryCountry": "Oman",
+    "isMultiCountry": true,
+    "category": "",
+    "jurisdictions": [
+      "OM",
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "590fc46c46ccd4a9",
+    "title": "Nigeria loses $600mln to empty containers sale by shipping companies",
+    "description": "The Customs CG should also conduct a system-wide audit of all shipping lines/agents from 2006 to date",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/MjRkNDZmNzctYzlhOS00/145/1011877362.webp",
+    "link": "https://www.zawya.com/en/economy/africa/nigeria-loses-600mln-to-empty-containers-sale-by-shipping-companies-glpp6ibx",
+    "pubDate": "2026-06-03T11:06:37.662Z",
+    "scrapedAt": "2026-06-03T20:58:41.850976+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "aac5351b5c34f3b0",
+    "title": "Zimbabwe: Cabinet approves removal of VAT on fish, fish products",
+    "description": "The proposal would repeal the 15.5% VAT on fish and other fish products—excluding kapenta—to improve the competitiveness",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/6ab2b778-71a1-4842-92f1-4f73d2c54c3e/56/1444367008.webp",
+    "link": "https://www.zawya.com/en/economy/africa/zimbabwe-cabinet-approves-removal-of-vat-on-fish-fish-products-mzbhad1m",
+    "pubDate": "2026-06-03T08:38:14.327Z",
+    "scrapedAt": "2026-06-03T20:58:41.850976+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat"
+    ]
+  },
+  {
+    "id": "be258380fca520ad",
+    "title": "2026 World Cup: The New Arab's guide to participating MENA teams",
+    "description": "The New Arab breaks down the MENA teams' participation in the 2026 World Cup, which will see 10 teams from the region compete.",
+    "thumbnail": "https://www.newarab.com/sites/default/files/styles/medium_16_9/public/2250151193.jpeg?h=a5f2f23a&amp;itok=uLJrnzna",
+    "link": "https://www.newarab.com/news/2026-world-cup-new-arabs-guide-participating-mena-teams",
+    "pubDate": "2026-06-03T18:09:33+01:00",
+    "scrapedAt": "2026-06-03T20:58:41.859043+00:00",
+    "source": "https://www.newarab.com/",
+    "sourceType": "media",
+    "sourceCountry": "GB",
+    "country": "Middle East",
+    "countries": [
+      "Middle East",
+      "Arab World"
+    ],
+    "primaryCountry": "Middle East",
+    "isMultiCountry": true,
+    "category": "Sports",
+    "jurisdictions": [],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
