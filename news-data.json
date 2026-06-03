@@ -161,59 +161,6 @@
     ]
   },
   {
-    "id": "110d65ed477f0015",
-    "title": "ZATCA Urges Establishments Subject to Withholding Tax to Submit Returns for February",
-    "description": "The Zakat, Tax and Customs Authority (ZATCA) has called upon establishments subject to withholding tax in the Kingdom to submit their tax returns for February 2026",
-    "thumbnail": "https://zatca.gov.sa/ar/MediaCenter/News/PublishingImages/Press.webp",
-    "link": "https://zatca.gov.sa/en/MediaCenter/News/Pages/Submit-WH-Return-for-Feb-2026.aspx",
-    "pubDate": "2026-03-05T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T13:26:47.027222+00:00",
-    "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/default.aspx",
-    "sourceType": "official",
-    "sourceCountry": "SA",
-    "country": "Saudi Arabia",
-    "countries": [
-      "Saudi Arabia"
-    ],
-    "primaryCountry": "Saudi Arabia",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "SA"
-    ],
-    "matchedKeywords": [
-      "customs",
-      "withholding tax",
-      "zakat"
-    ]
-  },
-  {
-    "id": "418b11f5defe50a5",
-    "title": "ZAKATY Platform Enables Individuals to Calculate and Pay Zakat Securely and Directly to Eligible Beneficiaries",
-    "description": "The Zakat, Tax, and Customs Authority (ZATCA) has urged zakat payers to \"voluntarily\" make their Zakat through the ZAKATY platform or through ZAKATY website",
-    "thumbnail": "https://zatca.gov.sa/ar/MediaCenter/News/PublishingImages/Zakaty%20logo%2022.png",
-    "link": "https://zatca.gov.sa/en/MediaCenter/News/Pages/ZAKATY2026.aspx",
-    "pubDate": "2026-03-05T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T13:26:47.027222+00:00",
-    "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/default.aspx",
-    "sourceType": "official",
-    "sourceCountry": "SA",
-    "country": "Saudi Arabia",
-    "countries": [
-      "Saudi Arabia"
-    ],
-    "primaryCountry": "Saudi Arabia",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "SA"
-    ],
-    "matchedKeywords": [
-      "customs",
-      "zakat"
-    ]
-  },
-  {
     "id": "b55c5459236a2610",
     "title": "Qatar Customs urges shipping firms to register in TIR system",
     "description": "Doha, Qatar: The General Authority of Customs has called on shipping and logistics companies to accelerate their registration in the International Road Transport...",
@@ -420,31 +367,6 @@
     "thumbnail": "https://thepeninsulaqatar.com/get/image/20260311_1773216071-895-thumb_small_190.jpg?1773216071",
     "link": "https://thepeninsulaqatar.com/article/11/03/2026/professional-zakat-collection-and-distribution-system-strengthens-social-solidarity",
     "pubDate": "2026-03-11T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T14:21:46.044299+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "zakat"
-    ]
-  },
-  {
-    "id": "76c02c14c2b86edc",
-    "title": "Zakat disbursements surpass QR300m in 2025 amid revenue growth",
-    "description": "Doha, Qatar: One of the most significant achievements of 2025 was the marked increase in both zakat revenues and expenditures, with total disbursements...",
-    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260305_1772694965-369-thumb_small_190.jpg?1772694965",
-    "link": "https://thepeninsulaqatar.com/article/05/03/2026/zakat-disbursements-surpass-qr300m-in-2025-amid-revenue-growth",
-    "pubDate": "2026-03-05T00:00:00+00:00",
     "scrapedAt": "2026-04-03T14:21:46.044299+00:00",
     "source": "https://thepeninsulaqatar.com/news/search",
     "sourceType": "media",
@@ -2581,32 +2503,6 @@
     "matchedKeywords": [
       "withholding tax",
       "tax treaty"
-    ]
-  },
-  {
-    "id": "a981590620f50ed8",
-    "title": "Türkiye Proposes 10 Percentage Crypto Income Tax and Transaction Levy on Service Providers",
-    "description": "Türkiye has proposed a new crypto taxation framework introducing a 10 percent withholding tax on profits from digital asset transactions and a 0.03 percent levy on crypto service providers. The measure reflects growing regulatory oversight as the country emerges as one of the world’s largest cryptocurrency markets.",
-    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/03/Turkey-financial-crypto-and-assets-regulation.jpg",
-    "link": "https://www.middleeastbriefing.com/news/turkiye-proposes-10-percentage-crypto-income-tax-and-transaction-levy-on-service-providers/",
-    "pubDate": "2026-03-04T22:32:37+00:00",
-    "scrapedAt": "2026-04-05T18:47:50.960350+00:00",
-    "source": "https://www.middleeastbriefing.com/news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Tax & Accounting, Turkey / Turkiye, Business Intelligence",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "withholding tax"
     ]
   },
   {
