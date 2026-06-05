@@ -9566,5 +9566,106 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "50d5eec6680299f5",
+    "title": "World Cup 2026: A guide to the popular team's base camps",
+    "description": "Argentina, France and England settle into elite World Cup base camps",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-06-03/eq6156d0/newsml_afp_com_20260603T163238Z_doc_b4we926.jpeg",
+    "link": "https://gulfnews.com/sport/football/world-cup-2026-a-guide-to-the-popular-teams-base-camps-1.500563175",
+    "pubDate": "2026-06-05T13:01:36.886000+00:00",
+    "scrapedAt": "2026-06-05T19:58:41.274357+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Football",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "6a9f99880758075c",
+    "title": "11 Stars Shine In The Michelin Guide Restaurant Ceremony 2026 Hanoi | Ho Chi Minh City | Da Nang",
+    "description": "",
+    "thumbnail": "",
+    "link": "https://www.zawya.com/en/economy/global/11-stars-shine-in-the-michelin-guide-restaurant-ceremony-2026-hanoi-ho-chi-minh-city-da-nang-rl0svtpd",
+    "pubDate": "2026-06-05T03:33:04.914Z",
+    "scrapedAt": "2026-06-05T19:58:41.266877+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Global",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "c61ef4dd1ec9000d",
+    "title": "US Senate approves $70 billion for Trump immigration crackdown",
+    "description": "The bill would fund Immigration and Customs Enforcement (ICE) and Border Patrol through the rest of Trump's term.",
+    "thumbnail": "https://www.newarab.com/sites/default/files/styles/medium_16_9/public/media/images/C66D6052-406B-4B6D-ADDF-28F1DCE38667.jpg?h=d1cb525d&amp;itok=5k1ozMrH",
+    "link": "https://www.newarab.com/news/us-senate-approves-70-billion-trump-immigration-crackdown",
+    "pubDate": "2026-06-05T10:31:55+01:00",
+    "scrapedAt": "2026-06-05T19:58:41.274253+00:00",
+    "source": "https://www.newarab.com/",
+    "sourceType": "media",
+    "sourceCountry": "GB",
+    "country": "Middle East",
+    "countries": [
+      "Middle East",
+      "Arab World"
+    ],
+    "primaryCountry": "Middle East",
+    "isMultiCountry": true,
+    "category": "World",
+    "jurisdictions": [],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "967c84dfdde516b1",
+    "title": "UAE suspends new visa issuances for three countries to strengthen Ebola preparedness",
+    "description": "The UAE’s National Emergency Crisis and Disaster Management Authority (NCEMA) and the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP) announced on Friday additional precautionary measures for arrivals from the Democratic Republic of the Congo, the Republic of Uganda and the Republic of South Sudan. The measures are part of the UAE’s proactive […]",
+    "thumbnail": "https://economymiddleeast.com/wp-content/uploads/2026/06/UAE-ebola-2.jpg",
+    "link": "https://economymiddleeast.com/news/uae-suspends-new-visa-issuances-three-countries-strengthen-ebola-preparedness/",
+    "pubDate": "2026-06-05T11:35:53+00:00",
+    "scrapedAt": "2026-06-05T19:58:41.266873+00:00",
+    "source": "https://economymiddleeast.com/latest-news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
   }
 ]
