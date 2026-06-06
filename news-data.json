@@ -1926,58 +1926,6 @@
     ]
   },
   {
-    "id": "13891b734cc4c671",
-    "title": "Sheikh Zayed’s values guide UAE in difficult times: Anwar Gargash",
-    "description": "UAE President's diplomatic adviser praises nation’s unity amid current challenges",
-    "thumbnail": "https://media.assettype.com/gulfnews/import/2015/8/18/1_16a081931c2.1569077_1996569349_16a081931c2_large.jpg",
-    "link": "https://gulfnews.com/uae/government/sheikh-zayeds-values-guide-uae-in-difficult-times-anwar-gargash-1.500467450",
-    "pubDate": "2026-03-08T11:10:52.559000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Government",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "455631294a57cb38",
-    "title": "UAE flight status March 8: Latest schedules, rebooking, and refund guide for travellers",
-    "description": "Dubai airports partially resume; Emirates, Etihad, flydubai & Air Arabia update schedules",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-28/cuk7r6bz/Dubai-Airports-Dec-2025",
-    "link": "https://gulfnews.com/business/aviation/uae-flight-status-march-8-latest-schedules-rebooking-and-refund-guide-for-travellers-1.500467184",
-    "pubDate": "2026-03-08T04:41:41.264000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Aviation",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "e62e61cc57c9a9a3",
     "title": "Travelling on Emirates? Delays, routes affected, FAQs answered",
     "description": "Flying from Dubai? All you need to know about Emirates flights amid airspace disruptions",
@@ -9638,6 +9586,32 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "f1a7e65b2e5c8f10",
+    "title": "Trying to get BTS tickets in 2026? ARMY guide to presale and queue wars — keep calm and keep clicking",
+    "description": "BTS’s Arirang tour is in full swing as Asian cities open sales—here’s what to know",
+    "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260526061054.jpg",
+    "link": "https://gulfnews.com/entertainment/trying-to-get-bts-tickets-in-2026-army-guide-to-presale-and-queue-wars-keep-calm-and-keep-clicking-1.500564844",
+    "pubDate": "2026-06-06T03:00:00+00:00",
+    "scrapedAt": "2026-06-06T19:27:00.629441+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Entertainment",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
