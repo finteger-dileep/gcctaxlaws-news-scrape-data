@@ -1094,32 +1094,6 @@
     ]
   },
   {
-    "id": "8a5b3bf91efb2bf4",
-    "title": "Boursa Kuwait issues updated version of its ESG Disclosure Guide for listed companies",
-    "description": "Reflecting the latest developments in ESG reporting at both the local and international levels",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/24a02fc6-9cbb-4cb7-930e-8ee2aea48fe0/0/boursakuwait09-jpg.webp",
-    "link": "https://www.zawya.com/en/press-release/companies-news/boursa-kuwait-issues-updated-version-of-its-esg-disclosure-guide-for-listed-companies-uq1o62o7",
-    "pubDate": "2026-03-14T17:04:02.099Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Companies News",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "d0fc1388c34b82ba",
     "title": "Getlink Customs Services and Agsa-Partida Join Forces to Secure and Simplify Goods Flows Between Morocco, Spain, and the United Kingdom",
     "description": "",
@@ -1646,32 +1620,6 @@
     "thumbnail": "https://media.assettype.com/gulfnews/2024-11-18/md4is424/Stock_Emirates_Airlines_cabin_crew_1826d87f5fd_original_ratio.jpg",
     "link": "https://gulfnews.com/business/aviation/travelling-on-emirates-delays-routes-affected-faqs-answered-1.500480836",
     "pubDate": "2026-03-20T12:09:00.728000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Aviation",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "faq"
-    ]
-  },
-  {
-    "id": "b2506bc9b4e5af30",
-    "title": "Travelling with Etihad: Will my flight be delayed? Which routes are affected? All FAQs explained",
-    "description": "Flying from Abu Dhabi? All you need to know about Etihad flights amid airspace disruptions",
-    "thumbnail": "https://media.assettype.com/gulfnews/import/2019/07/11/1.519774_44259440_16be0b42dd7_large.jpg",
-    "link": "https://gulfnews.com/business/aviation/travelling-with-etihad-will-my-flight-be-delayed-which-routes-are-affected-all-faqs-explained-1.500474120",
-    "pubDate": "2026-03-14T05:26:18.396000+00:00",
     "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
     "source": "https://gulfnews.com/",
     "sourceType": "media",
@@ -9998,6 +9946,161 @@
     "matchedKeywords": [
       "e-invoicing",
       "e invoicing"
+    ]
+  },
+  {
+    "id": "a9d3ce2c994185d4",
+    "title": "Snakes, scorpions, frogs: Dubai Customs uncovers 223 live animals in abandoned suitcase",
+    "description": "Lizards, snakes, scorpions and frogs found in unclaimed suitcase at DXB",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-06-12/ig71o581/HKmyI2OXQAAKqny.jpg",
+    "link": "https://gulfnews.com/world/court-crime/snakes-scorpions-frogs-dubai-customs-uncovers-223-live-animals-in-abandoned-suitcase-1.500572220",
+    "pubDate": "2026-06-12T11:18:37.730000+00:00",
+    "scrapedAt": "2026-06-12T20:13:59.551496+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Court-Crime",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "3ccba152feeba06f",
+    "title": "Daribatech listed as a pre-approved Accredited Service Provider by the UAE Ministry of Finance",
+    "description": "For National E-Invoicing Mandate",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/75390d91-a997-4aa5-add0-5fe313be2c6f/0/daribatech.webp",
+    "link": "https://www.zawya.com/en/press-release/companies-news/daribatech-listed-as-a-pre-approved-accredited-service-provider-by-the-uae-ministry-of-finance-p84kjsug",
+    "pubDate": "2026-06-12T08:06:00.013Z",
+    "scrapedAt": "2026-06-12T20:13:59.543173+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Companies News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
+    ]
+  },
+  {
+    "id": "f85ee3dc949554a7",
+    "title": "South Africa to host SACU summit in Cape Town next week",
+    "description": "Sacu predates modern trade and customs agreements, and it remains the oldest functioning Customs Union",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/a0951991-34b7-4489-9ca6-e881280d550f/145/502037032.webp",
+    "link": "https://www.zawya.com/en/world/africa/south-africa-to-host-sacu-summit-in-cape-town-next-week-jhas3ih4",
+    "pubDate": "2026-06-12T09:20:20.305Z",
+    "scrapedAt": "2026-06-12T20:13:59.543173+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "f3e99d8f72fb0582",
+    "title": "S&P restores Afreximbank's investment-grade rating",
+    "description": "Credit ratings often guide the costs of capital for a borrower",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/NmE5NjEzZDQtZjJmZS00/8/1500244203.webp",
+    "link": "https://www.zawya.com/en/economy/africa/sp-restores-afreximbanks-investment-grade-rating-dvq9qnhh",
+    "pubDate": "2026-06-12T10:52:07.646Z",
+    "scrapedAt": "2026-06-12T20:13:59.543173+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "20c696c18912074c",
+    "title": "Egypt extends customs facilitation measures for transit shipments by 6 months",
+    "description": "The move is intended to facilitate the movement of goods to their final destinations via Egyptian ports",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/25d667a1-f5f8-4a45-9557-b017e677e42c/48/egypt-economy.webp",
+    "link": "https://www.zawya.com/en/economy/north-africa/egypt-extends-customs-facilitation-measures-for-transit-shipments-by-6-months-mcrqysc1",
+    "pubDate": "2026-06-12T06:22:00.953Z",
+    "scrapedAt": "2026-06-12T20:13:59.543173+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "North Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "cfa1035af055f5a4",
+    "title": "12 new companies join GCC Authorized Economic Operator Programme",
+    "description": "This recognition comes as part of the General Authority of Customs' efforts to strengthen its effective partnership with the private sector",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/19bae1c5-0100-4afc-87cf-dabaf2ab14fd/18/520396240.webp",
+    "link": "https://www.zawya.com/en/business/transport-and-logistics/12-new-companies-join-gcc-authorized-economic-operator-programme-bv0bt4e5",
+    "pubDate": "2026-06-12T05:34:20.059Z",
+    "scrapedAt": "2026-06-12T20:13:59.543173+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Transport and Logistics",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
     ]
   }
 ]
