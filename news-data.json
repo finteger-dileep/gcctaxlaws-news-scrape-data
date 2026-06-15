@@ -134,33 +134,6 @@
     ]
   },
   {
-    "id": "65a3a773cac5e945",
-    "title": "ZATCA Urges Establishments to Submit VAT Returns for February 2026",
-    "description": "The Zakat, Tax and Customs Authority (ZATCA) has urged business sector establishments subject to VAT",
-    "thumbnail": "https://zatca.gov.sa/ar/MediaCenter/News/PublishingImages/Press.webp",
-    "link": "https://zatca.gov.sa/en/MediaCenter/News/Pages/Submit-VAT-Return-for-Feb-2026.aspx",
-    "pubDate": "2026-03-17T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T13:26:47.027222+00:00",
-    "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/default.aspx",
-    "sourceType": "official",
-    "sourceCountry": "SA",
-    "country": "Saudi Arabia",
-    "countries": [
-      "Saudi Arabia"
-    ],
-    "primaryCountry": "Saudi Arabia",
-    "isMultiCountry": false,
-    "category": "VAT",
-    "jurisdictions": [
-      "SA"
-    ],
-    "matchedKeywords": [
-      "vat",
-      "customs",
-      "zakat"
-    ]
-  },
-  {
     "id": "b55c5459236a2610",
     "title": "Qatar Customs urges shipping firms to register in TIR system",
     "description": "Doha, Qatar: The General Authority of Customs has called on shipping and logistics companies to accelerate their registration in the International Road Transport...",
@@ -267,31 +240,6 @@
     "thumbnail": "https://thepeninsulaqatar.com/get/image/20260322_1774164841-534-thumb_small_190.jpg?1774164841",
     "link": "https://thepeninsulaqatar.com/article/22/03/2026/zakat-al-fitr-reaches-all-eligible-recipients-awqaf",
     "pubDate": "2026-03-22T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T14:21:46.044299+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "zakat"
-    ]
-  },
-  {
-    "id": "6759ab5195ab409d",
-    "title": "Zakat Affairs Department outlines Zakat Al-Fitr calculation per person",
-    "description": "Doha, Qatar: The Zakat Affairs Department at the Ministry of Awqaf and Islamic Affairs has officially announced the mechanism for calculating Zakat Al-Fitr...",
-    "thumbnail": "https://thepeninsulaqatar.com/get/image/20230408_1680969646-488-thumb_small_190.jpg?1680969646",
-    "link": "https://thepeninsulaqatar.com/article/17/03/2026/zakat-affairs-department-outlines-zakat-al-fitr-calculation-per-person",
-    "pubDate": "2026-03-17T00:00:00+00:00",
     "scrapedAt": "2026-04-03T14:21:46.044299+00:00",
     "source": "https://thepeninsulaqatar.com/news/search",
     "sourceType": "media",
