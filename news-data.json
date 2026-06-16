@@ -9954,5 +9954,30 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "ef71a67b54d0e09a",
+    "title": "Container shipping costs from S. Korea to Middle East rise for 3rd straight month in May",
+    "description": "SEOUL, 16th June, 2026 (WAM) -- Container shipping costs from South Korea to the Middle East extended their gains to the third consecutive month in May, the customs agency said Monday.The average shipping charge for a 40-foot container from South Korea to the Middle East rose 4.9% from a month earlier to 6.81 million won (US$4,520) in May, according to data from the Korea Customs Service, carried by Yonhap News Agency.It marked the third consecutive monthly increase since the figure stood at 3.72 million won in February.The average shipping charge for containers bound for the US west coast rose 10.1% from a month earlier to 5.43 million won, while that for the east coast increased 9.9% to 5.63 million won.Shipping costs to the European Union gained 1.3% to 3.71 million won.The figures include freight rates, commissions and other charges reported by local exporters, according to the agency.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c0r6265-container-shipping-costs-middle-east-rise-for-3rd",
+    "pubDate": "2026-06-16T04:49:24+04:00",
+    "scrapedAt": "2026-06-16T03:36:50.945285+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
   }
 ]
