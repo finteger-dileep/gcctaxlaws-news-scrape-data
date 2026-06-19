@@ -1279,32 +1279,6 @@
     ]
   },
   {
-    "id": "675d88b7e237cf07",
-    "title": "Saudi tax authority warns VAT filers: March 31 deadline or penalties up to 25 per cent",
-    "description": "Saudi ZATCA urges VAT-registered firms with supplies above $10.6m to file returns by March 31 or face penalties of 25 per cent",
-    "thumbnail": "https://www.arabianbusiness.com/wp-content/uploads/sites/3/2025/11/Riyadh.jpg",
-    "link": "https://www.arabianbusiness.com/finance/saudi-tax-authority-warns-vat-filers-march-31-deadline-or-penalties-up-to-25-per-cent",
-    "pubDate": "2026-03-21T18:31:54+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.178877+00:00",
-    "source": "https://www.arabianbusiness.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Finance, Saudi VAT, ZATCA",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "vat"
-    ]
-  },
-  {
     "id": "57e032286f32b6cb",
     "title": "Qatar unveils direct tax treaty service to reduce withholding tax and speed payments",
     "description": "Qatar launches direct application of tax treaties, enabling reduced withholding tax and faster cross-border payments",
@@ -10420,6 +10394,107 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "cc60c9d07200bb89",
+    "title": "UAE Free Zone vs Mainland 2026: Where to Invest?",
+    "description": "UAE free zone vs mainland in 2026: compare ownership, corporate tax, the 0% QFZP rate, costs, new onshore access to decide where to invest.",
+    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/06/IMG_0075.jpg",
+    "link": "https://www.middleeastbriefing.com/news/uae-free-zone-vs-mainland-2026-where-to-invest/",
+    "pubDate": "2026-06-19T16:18:23+00:00",
+    "scrapedAt": "2026-06-19T19:52:12.895561+00:00",
+    "source": "https://www.middleeastbriefing.com/news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy & Trade, UAE, Business Intelligence",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax"
+    ]
+  },
+  {
+    "id": "afa26e3b6de6aa34",
+    "title": "ADIO, GCAA, Abu Dhabi Mobility partner to advance air mobility solutions",
+    "description": "ABU DHABI, 19th June, 2026 (WAM) -- Abu Dhabi Investment Office (ADIO), the General Civil Aviation Authority (GCAA) and the Integrated Transport Centre (Abu Dhabi Mobility) have signed a cooperation agreement to enhance the design, manufacturing and deployment of advanced air mobility solutions.The agreement was signed under the supervision of the Smart and Autonomous Systems Council, and in the presence of Sheikh Hamdan bin Saeed bin Tahnoon Al Nahyan.The agreement aims to advance innovation in the sector, align efforts related to design certification and the efficiency of smart aviation systems, and develop regulatory frameworks for sustainable air transport solutions. The initiative supports the objectives and vision of the Smart and Autonomous Systems Council to shape the future of smart mobility in the emirate and advance autonomous transportation systems across land, sea and air.Under the agreement, the three entities will collaborate to develop State of Design and State of Manufacture documentation, and outline specifications to guide and support the certification and regulation of emerging advanced aircraft technologies, including electric vertical take-off and landing (eVTOL) and electric conventional take-off and landing (eCTOL) systems.Al Ain Region will serve as a global hub for design and regulatory activities in the sector. Supporting infrastructure, technical expertise and international partnerships will be developed to ensure safe and sustainable operations. In addition, the programme’s design and implementation will be tailored to ensure alignment with international standards and best practice.“The UAE has long been a global leader in aviation regulation and safety,\" said Saif Mohammed Al Suwaidi, Director-General of the GCAA. \"Through this collaboration, we are taking meaningful steps towards developing the capabilities associated with a State of Design, reinforcing our readiness to guide and certify the next generation of advanced aircraft technologies. We remain committed to ensuring our regulatory frameworks set benchmarks for excellence and innovation worldwide.”Badr Al-Olama, Director-General of ADIO, stated, “Advanced air mobility is a defining frontier for sustainable innovation, and Abu Dhabi is uniquely positioned to lead in this field. By building capabilities for aircraft design and manufacture, along with certification and testing in Al Ain Region, we are creating a new global centre of excellence to advance the UAE’s vision for a knowledge-based, future-ready economy.”Dr. Abdulla Hamad AlGhfeli, Acting Director-General of Abu Dhabi Mobility, said that the agreement marks a strategic step towards enabling Abu Dhabi to strengthen its position as a hub for the certification, design and manufacturing of advanced air mobility technologies. \"Through this collaboration, Abu Dhabi Mobility is working to build a comprehensive regulatory and operational ecosystem that supports the adoption and integration of these technologies across the emirate’s transport network, contributing to greater innovation and improved mobility efficiency,\" he added. The initiative complements the emirate’s broader efforts under the Smart and Autonomous Vehicle Industries cluster, which brings together global pioneers in next-generation transport to develop, test and commercialise breakthrough technologies across land, sea and air mobility and robotics.",
+    "thumbnail": "https://assets.wam.ae/resource/riy04qsd1ka0yqlpo.jpg",
+    "link": "https://www.wam.ae/en/article/c0sydls-adio-gcaa-abu-dhabi-mobility-partner-advance-air",
+    "pubDate": "2026-06-19T12:10:20+04:00",
+    "scrapedAt": "2026-06-19T19:52:12.903217+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "a572b37cd4d10a1b",
+    "title": "The City Buzz: Your guide to the UAE's best events",
+    "description": "Family fun, food and culture - explore top UAE events to bookmark this June",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-06-19/smgybs1x/Dads-deserve-the-day.jpg",
+    "link": "https://gulfnews.com/friday/the-city-buzz-your-guide-to-the-uaes-best-events-3-1.500580080",
+    "pubDate": "2026-06-19T12:05:57.234000+00:00",
+    "scrapedAt": "2026-06-19T19:52:12.895740+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Friday",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "4877af0dcaa72704",
+    "title": "UAE E-Invoicing Readiness Gains Momentum, ClearTax study finds",
+    "description": "National readiness reaches 57.5% as finance leaders move from awareness to implementation",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-06-19/akpu3v3c/Cleartax.jpg",
+    "link": "https://gulfnews.com/business/corporate-news/uae-e-invoicing-readiness-gains-momentum-cleartax-study-finds-1.500580190",
+    "pubDate": "2026-06-19T13:14:24.775000+00:00",
+    "scrapedAt": "2026-06-19T19:52:12.895740+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Corporate News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
     ]
   }
 ]
