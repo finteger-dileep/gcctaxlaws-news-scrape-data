@@ -108,32 +108,6 @@
     ]
   },
   {
-    "id": "f25fde3cac0391a4",
-    "title": "General Tax Authority Enables the direct application of double taxation avoidance\n                                    agreements",
-    "description": "As part of its ongoing efforts to develop the tax services ecosystem and enhance its effectiveness, the General Tax Authority announced the availability of the direct application of double taxation avoidance agreements service. The service aims to enable eligible entities to directly benefit from the advantages of Double Taxation Avoidance Agreements, through simplified procedures and clear standards that enhance efficiency and transparency. This service allows authorized entities to apply reduced withholding tax rate or exemptions from withholding tax when making payments to non-resident beneficiaries, in line with the provisions of the applicable tax treaties between the State of Qatar and the beneficiaries’ countries of tax residence. This contributes to faster procedures, reduced complexity, and improved tax compliance. Eligible taxpayers may apply for Trusted Entity status through the Dhareeba platform using the approved forms, in accordance with the mechanisms specified by the Authority. Eligible applicants include ministries and government entities, public authorities and institutions, financial institutions, companies listed on the Qatar Stock Exchange. The service focuses on supporting the business environment by enabling the direct application of Double Taxation Avoidance Agreements and improving the efficiency of cross-border transactions, positively impacting cash flows and strengthening investor confidence. The Authority sets the criteria for granting Trusted Entity status, which includes meeting the minimum threshold for the number or value of withholding tax transactions during the previous tax year, while retaining the right to invite government entities or eligible taxpayers to apply in accordance with approved rules and procedures. This service forms part of the Authority’s efforts to simplify tax procedures, enhance transparency and fairness, support economic diversification, and attract foreign investment—thereby contributing to strengthening the competitiveness of Qatar’s tax system and supporting financial sustainability.",
-    "thumbnail": "https://gta.gov.qa/assets/images/gta logo.jpg",
-    "link": "https://gta.gov.qa/en/media-center/news/general-tax-authority-enables-the-direct-application-of-double-taxation-avo",
-    "pubDate": "2026-03-24T00:00:00+00:00",
-    "scrapedAt": "2026-04-03T13:26:46.303588+00:00",
-    "source": "https://gta.gov.qa/en/media-center/news",
-    "sourceType": "official",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "News",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "withholding tax",
-      "tax treaty"
-    ]
-  },
-  {
     "id": "b55c5459236a2610",
     "title": "Qatar Customs urges shipping firms to register in TIR system",
     "description": "Doha, Qatar: The General Authority of Customs has called on shipping and logistics companies to accelerate their registration in the International Road Transport...",
@@ -627,32 +601,6 @@
     ]
   },
   {
-    "id": "f6dce34aaa615833",
-    "title": "Chestertons names new CEO to lead next phase of MENA growth",
-    "description": "Stevens steps into the role of Chestertons CEO to guide the next chapter of the firm’s 220-year global legacy",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/19a37d3e-c55b-49d1-a377-08e49cab22c3/2/48436e11-1f7f-4bb5-ac27-c630007b23fb-1-jpg.webp",
-    "link": "https://www.zawya.com/en/business/real-estate/chestertons-names-new-ceo-to-lead-next-phase-of-mena-growth-qsv8v8d7",
-    "pubDate": "2026-03-24T02:56:19.071Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Real Estate",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "d0fc1388c34b82ba",
     "title": "Getlink Customs Services and Agsa-Partida Join Forces to Secure and Simplify Goods Flows Between Morocco, Spain, and the United Kingdom",
     "description": "",
@@ -991,32 +939,6 @@
       "excise",
       "customs",
       "zakat"
-    ]
-  },
-  {
-    "id": "cc56f53060a24c99",
-    "title": "Dubai Chambers, DP World, Dubai Customs convene private sector to strengthen logistics and supply chains",
-    "description": "Dubai Chambers, DP World and Dubai Customs meet private sector leaders to tackle logistics challenges and boost supply chain",
-    "thumbnail": "https://www.arabianbusiness.com/wp-content/uploads/sites/3/cloud/2023/11/21/Dubai-Chambers.jpg",
-    "link": "https://www.arabianbusiness.com/business/transport/dubai-chambers-dp-world-dubai-customs-convene-private-sector-to-strengthen-logistics-and-supply-chains",
-    "pubDate": "2026-03-23T20:13:07+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.178877+00:00",
-    "source": "https://www.arabianbusiness.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Transport, Dubai Chambers, logistics",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
     ]
   },
   {
