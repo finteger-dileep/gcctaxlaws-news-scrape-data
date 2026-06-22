@@ -314,32 +314,6 @@
     ]
   },
   {
-    "id": "35b25a6df3212c6a",
-    "title": "Early eligibility assessment and pre-approval critical under UAE R&D tax credit rules",
-    "description": "Dhruva, A Ryan Affiliate, said the Ministerial Decision introduces a tiered credit of 15–50%",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/2f894edf-f2a0-47f2-8635-500a598ed8cb/0/nimishgoel-jpg.webp",
-    "link": "https://www.zawya.com/en/press-release/research-and-studies/early-eligibility-assessment-and-pre-approval-critical-under-uae-r-and-d-tax-credit-rules-grg54m1k",
-    "pubDate": "2026-03-24T11:35:43.771Z",
-    "scrapedAt": "2026-04-04T07:15:34.920501+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Research & Studies",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "ministerial decision"
-    ]
-  },
-  {
     "id": "19ae666df1159501",
     "title": "India cuts special excise duties on petrol, diesel",
     "description": "India's finance ministry reduced the ​special excise duty on petrol to 3 rupees ($0.0318) per litre from 13 rupees ​earlier. It also ​cut the duty on diesel to zero from 10 rupees",
@@ -942,33 +916,6 @@
     ]
   },
   {
-    "id": "57e032286f32b6cb",
-    "title": "Qatar unveils direct tax treaty service to reduce withholding tax and speed payments",
-    "description": "Qatar launches direct application of tax treaties, enabling reduced withholding tax and faster cross-border payments",
-    "thumbnail": "https://www.arabianbusiness.com/wp-content/uploads/sites/3/cloud/2024/03/05/qatar-real-estate.jpg",
-    "link": "https://www.arabianbusiness.com/finance/qatar-unveils-direct-tax-treaty-service-to-reduce-withholding-tax-and-speed-payments",
-    "pubDate": "2026-03-24T20:22:15+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.178877+00:00",
-    "source": "https://www.arabianbusiness.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Finance, general tax authority, Qatar",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "withholding tax",
-      "tax treaty"
-    ]
-  },
-  {
     "id": "ee2177b1f0bbeec8",
     "title": "Qatar introduces excise tax warehouse service to ease business operations and cash flow",
     "description": "The Qatar General Tax Authority launches excise warehouse licensing service, enabling tax suspension to support cash flow",
@@ -1020,31 +967,6 @@
       "vat",
       "e-invoicing",
       "e invoicing"
-    ]
-  },
-  {
-    "id": "f3f129b88090c495",
-    "title": "UAE Launches Up to 50% R&D Tax Credit for Businesses",
-    "description": "The UAE has officially launched Phase 1 of its Research and Development (R&D) Tax Incentives Program, introducing a non-refundable corporate tax credit of up to 50 percent on qualifying R&D expenditure capped at AED 5 million per tax period.",
-    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/03/UAE-RD-Business-tax-.jpg",
-    "link": "https://www.middleeastbriefing.com/news/uae-launches-50-rd-tax-credit-for-businesses/",
-    "pubDate": "2026-03-24T14:15:38+00:00",
-    "scrapedAt": "2026-04-05T18:47:50.960350+00:00",
-    "source": "https://www.middleeastbriefing.com/news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Tax & Accounting, UAE, Business Intelligence",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "corporate tax"
     ]
   },
   {
@@ -10262,6 +10184,57 @@
       "vat",
       "customs",
       "zakat"
+    ]
+  },
+  {
+    "id": "7978abeb527bc0a0",
+    "title": "Korea's exports up 60% in first 20 days of June",
+    "description": "SEOUL, 22nd June, 2026 (WAM) -- The Republic of Korea's exports surged by 60.4 percent year-on-year during the first 20 days of June, according to data released on Monday.Outbound shipments reached US$62 billion in the June 1-20 period, compared with $38.6 billion tallied in the same period last year, according to the data from the Korea Customs Service.Imports went up 23.2 percent on-year to $44.5 billion over the cited period, resulting in a trade surplus of $17 billion, Yonhap News Agency reported, citing the latest findings.",
+    "thumbnail": "https://assets.wam.ae/resource/hzd04tkk1ka0pofpo.jpg",
+    "link": "https://www.wam.ae/en/article/17a9v82-koreas-exports-60-first-days-june",
+    "pubDate": "2026-06-22T09:14:05+04:00",
+    "scrapedAt": "2026-06-22T20:51:41.041331+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "1efeb5c8e4120ee3",
+    "title": "Uganda moves to upgrade financial crime investigations",
+    "description": "The training tools include a financial investigators’ course and a trainers’ guide designed to strengthen case handling",
+    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/YjEyY2UxNjYtMmJjZS00/21/220214083115pcqw-jpg.webp",
+    "link": "https://www.zawya.com/en/economy/africa/uganda-moves-to-upgrade-financial-crime-investigations-g59cj0is",
+    "pubDate": "2026-06-22T11:15:30.014Z",
+    "scrapedAt": "2026-06-22T20:51:41.025283+00:00",
+    "source": "https://www.zawya.com/en/search",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Africa",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
