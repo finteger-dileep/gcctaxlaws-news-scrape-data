@@ -10236,5 +10236,32 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "3f62101f636f5cb6",
+    "title": "UAE tax system adopts proactive, smart solutions to serve society",
+    "description": "ABU DHABI, 23rd June, 2026 (WAM) -- The Federal Tax Authority (FTA) is implementing an advanced proactive model for developing the tax system, legislation and customer services, based on harnessing artificial intelligence and advanced technologies to simplify procedures, reduce administrative requirements and accelerate transaction processing.The Authority's approach to employing artificial intelligence in tax administration stems from the objectives and parameters of its AI Strategy, which aligns with the UAE Artificial Intelligence Strategy 2031 and the government's digital transformation agenda, contributing to enhanced efficiency and an improved customer experience.Abdulaziz Mohammed Al Mulla, Director-General of the Federal Tax Authority, affirmed that the Authority employs artificial intelligence applications across various tax-related activities and procedures, most notably data analysis, risk assessment, improved request processing and process automation.Al Mulla explained that the Authority adopts an integrated approach to developing and implementing AI use cases, beginning with identifying opportunities based on international best practices and workshops with business units, followed by assessing data readiness and alignment with strategic priorities, and progressing through phased implementation from proof of concept to full operation, with a focus on high-value and highly feasible use cases.The VAT refund service for UAE nationals building new homes represents one of the most significant milestones in the transition from digitalisation to proactivity. The Authority launched a proactive service through the Maskan smart application, under which a refund request is automatically generated once a building completion certificate or building permit is issued by the relevant municipality, with the citizen notified via text message and email to complete the required procedures electronically.In the latest AI applications within this service, the Authority uses advanced technologies to verify refund amounts and suppliers' tax registration numbers, in addition to automating several procedures related to request processing, supporting operational accuracy and accelerating the disbursement of tax refunds to citizens.Invoice details are automatically populated in the citizen's account once issued by a registered supplier. Invoices are also consolidated into a single file, while banking information fields have been reduced through integration with the Central Bank of the UAE, enhancing ease of use and improving service efficiency.The results of these updates are reflected in the service's performance. The value of VAT refunded to citizens under the new home construction refund scheme reached approximately AED3.72 billion from the launch of the service until the end of March 2026. The increase in the number of beneficiaries also highlights the success of the Authority's continuous development and enhancement efforts, as well as rising tax awareness resulting from ongoing awareness programmes.The digital transformation journey has also extended to the tourism sector through the digital VAT refund system for tourists, which has undergone continuous development, including digital invoices and self-service kiosks deployed at departure points, hotels and shopping centres, providing a faster and more seamless experience for eligible visitors.The self-service kiosks enable fully automated refund processing, while their performance is continuously evaluated using a range of key performance indicators, including the system readiness index, which reached 100 percent during the first quarter of 2026, compared with 99.99 percent in 2025.The average processing time for refund requests reached one minute and 10 seconds during the first quarter of 2026, reflecting the efficiency of the digital systems adopted by the Authority in delivering its services.The EmaraTax platform has become one of the key pillars of the digital transformation journey as a unified platform for managing tax services electronically, facilitating registration, tax return filing and payment of tax obligations.Alongside developing digital services, the Authority has continued to support tax compliance through the issuance of tax clarifications and guidance materials, as well as organising in-person and virtual events and e-learning programmes, in line with the expansion of the tax system.In another aspect of development, the implementation of the tiered volumetric model for excise tax on sweetened beverages demonstrates how the tax system is being utilised to support broader public health objectives.Under this model, tax is calculated based on the sugar and other sweetener content of products, encouraging the expansion of lower-sugar alternatives.In this context, Al Mulla said that the UAE was among the first countries in the region to implement a mechanism for calculating excise tax on sweetened beverages using the tiered volumetric model.He expected the move to encourage beverage manufacturers to reduce sugar levels in their products, helping to lower tax burdens, improve product formulations and increase reliance on healthier alternatives.He added that the product registration system, which relies on the latest artificial intelligence technologies through the EmaraTax platform, has facilitated the registration of sweetened beverages under the new mechanism, combining efficient tax implementation with support for the health objectives associated with this type of tax.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/17ac0bz-uae-tax-system-adopts-proactive-smart-solutions",
+    "pubDate": "2026-06-23T03:11:38+04:00",
+    "scrapedAt": "2026-06-23T02:46:45.709100+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat",
+      "excise tax",
+      "excise"
+    ]
   }
 ]
