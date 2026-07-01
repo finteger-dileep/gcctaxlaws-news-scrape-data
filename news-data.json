@@ -79,32 +79,6 @@
     ]
   },
   {
-    "id": "756e5ffe614df474",
-    "title": "UAE: Sharjah issues mosquito safety guide",
-    "description": "Sharjah Municipality shares key tips to stop mosquito spread after rainfall",
-    "thumbnail": "https://media.assettype.com/gulfnews/import/2023/09/12/mosquito_18a8a42a5d3_large.jpg",
-    "link": "https://gulfnews.com/uae/uae-sharjah-issues-mosquito-safety-guide-1.500494410",
-    "pubDate": "2026-04-02T12:43:46.087000+00:00",
-    "scrapedAt": "2026-04-04T17:43:43.191392+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "UAE",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "933e9eb0d862b5cc",
     "title": "ZATCA Urges Establishments Subject to WHT to Submit Forms for March 2026",
     "description": "(ZATCA) has called on establishments subject to Withholding Tax in the Kingdom of Saudi Arabia to submit their withholding tax forms for last March 2026 by 10 April 2026.",
@@ -10503,6 +10477,56 @@
       "vat",
       "e-invoicing",
       "e invoicing"
+    ]
+  },
+  {
+    "id": "dee06fb55154fc52",
+    "title": "DP World launches Egypt’s first integrated Logistics Distribution Centre at Sokhna Logistics Park",
+    "description": "CAIRO, 1st July, 2026 (WAM) -- DP World today announced the launch of Egypt's first fully integrated Logistics Distribution Centre (LDC) at Sokhna Logistics Park, marking a significant milestone in the country’s logistics sector.The new facility enables international companies to access the Egyptian market while serving regional and global customers through a single distribution hub. The launch ceremony was attended by Dr. Mostafa Madbouly, Prime Minister of Egypt, along with senior Egyptian government officials and representatives of international companies.The launch, which coincided with the first visit to Egypt by Essa Kazim who assumed the Chairmanship of DP World recently, witnessed the signing of agreements with the first three global customers to benefit from the Logistics Distribution Centre’s services. Through the Logistics Distribution Centre, DP World provides an integrated end-to-end supply chain solution encompassing international freight forwarding, port services at Sokhna Port, warehousing, inventory management, order fulfilment, customs facilitation, transportation coordination, and value-added services such as assembly, packaging, repackaging, labelling, and product customisation. This enables companies to serve local, regional, and international markets efficiently from a single location while retaining ownership of inventory until final distribution.Located adjacent to Sokhna Port within the Suez Canal Economic Zone, the LDC sits alongside one of the world's most important trade corridors, providing direct access to regional and international markets.Essa Kazim, Chairman of DP World, said, \"The launch of the project marks a new chapter in our long-standing partnership with this dynamic market. Egypt has been one of our most important investment destinations in the region, and today we reaffirm our confidence in its potential to become a global hub for trade, industry and logistics.” He added, “Egypt's first Logistics Distribution Centre reflects our vision of creating an integrated ecosystem that connects ports, logistics and supply chain solutions, enabling businesses to access local, regional and international markets more efficiently. We look forward to expanding our investments in support of the Egyptian government's vision while strengthening the competitiveness of the Egyptian economy and attracting further investment.\"The agreements underscore growing confidence in Egypt as a regional logistics hub. The LDC has already attracted a diverse portfolio of international customers. Among the first is a leading Kenya-based tea exporter serving markets across Africa, the Middle East and Europe. Handling approximately 1,000 TEUs annually into Egypt, the company will leverage the facility as a regional inventory hub, enabling more efficient distribution to multiple international markets.Another customer, one of the world's leading consumer goods distributors, will utilise the LDC to support operations across eight markets spanning Saudi Arabia, the Levant and the Horn of Africa. Its activities will be supported by a dedicated temperature-controlled facility within Sokhna Logistics Park.A third customer is a German multinational company specialising in fibre-optic cables and digital infrastructure solutions, which will leverage the logistics centre to strengthen its distribution and re-export capabilities across Egypt, North Africa, and the Gulf Cooperation Council countries.Mohammad Shihab, Executive Vice President, Egypt and Levant, DP World, said, \"The launch of the LDC at Sokhna Logistics Park strengthens Egypt's trade and logistics capabilities by enabling businesses to position inventory closer to customers and serve multiple markets from a single regional hub. The integrated model improves efficiency and flexibility while reinforcing Egypt's role as a strategic gateway connecting Asia, Africa and Europe.”He thanked the Egyptian Government for its support in enabling this initiative, which, he said, will attract investment, support industrial growth and enhance Egypt's competitiveness.By bringing inventory and raw materials closer to manufacturing centres and end markets, the Logistics Distribution Centre reduces lead times, enhances supply chain resilience, and supports business continuity. It also strengthens local industries by providing faster and more reliable access to essential inputs and materials, reinforcing Egypt’s position as a regional hub for trade and logistics.DP World has invested more than USD 1.4 billion in integrated logistics infrastructure across Egypt, including the expansion and modernisation of Sokhna Port, the development of Sokhna Logistics Park and a new cold chain facility currently under development.Combined with DP World's freight forwarding, contract logistics and end-to-end supply chain services, this integrated network enables businesses to improve efficiency, reduce costs, strengthen export competitiveness and access regional and global markets through seamless trade and logistics solutions.",
+    "thumbnail": "https://assets.wam.ae/resource/5ao052be1ka1dtmpo.jpeg",
+    "link": "https://www.wam.ae/en/article/c103laa-world-launches-egypt%25E2%2580%2599s-first-integrated-logistics",
+    "pubDate": "2026-07-01T17:52:37+04:00",
+    "scrapedAt": "2026-07-01T19:59:24.872389+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Kingdom of Saudi Arabia",
+    "countries": [
+      "Kingdom of Saudi Arabia"
+    ],
+    "primaryCountry": "Kingdom of Saudi Arabia",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "SA"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "4a32bd5ca5086852",
+    "title": "These top UAE business set-up consultants and tax advisors will guide you to business success",
+    "description": "Helping enterprises launch, grow and navigate change confidently",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-07-01/09vh4aer/SU260626FreeZonesadv-AA-Associate-GN-ARCHIVES.jpg",
+    "link": "https://gulfnews.com/gn-focus/these-top-uae-business-set-up-consultants-and-tax-advisors-will-guide-you-to-business-success-1.500593093",
+    "pubDate": "2026-07-01T09:05:51.039000+00:00",
+    "scrapedAt": "2026-07-01T19:59:24.864901+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "GN Focus",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
