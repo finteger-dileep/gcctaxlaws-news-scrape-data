@@ -1,32 +1,5 @@
 [
   {
-    "id": "7ebc0a36a0d918ee",
-    "title": "Dubai issues new customs rules to route cargo via Oman amid logistics disruptions",
-    "description": "Temporary framework details land transit system linking Dubai shipments to global markets",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-02-05/zv8gi3c7/newsml_afp_com_20260205T162227Z_doc_96az6ke.jpeg",
-    "link": "https://gulfnews.com/business/markets/dubai-issues-new-customs-rules-to-route-cargo-via-oman-amid-logistics-disruptions-1.500496900",
-    "pubDate": "2026-04-05T09:19:53.318000+00:00",
-    "scrapedAt": "2026-04-06T06:37:21.800232+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Oman"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Markets",
-    "jurisdictions": [
-      "AE",
-      "OM"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "8c23aeba18b8cd0c",
     "title": "CGB launches unified national guide to elevate organisational processes in govt entities",
     "description": "Doha, Qatar: In a significant step towards enhancing institutional performance and aligning with Qatar National Vision 2030, the Civil Service and Government Development...",
