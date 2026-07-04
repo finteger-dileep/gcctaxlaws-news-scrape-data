@@ -1,30 +1,5 @@
 [
   {
-    "id": "933e9eb0d862b5cc",
-    "title": "ZATCA Urges Establishments Subject to WHT to Submit Forms for March 2026",
-    "description": "(ZATCA) has called on establishments subject to Withholding Tax in the Kingdom of Saudi Arabia to submit their withholding tax forms for last March 2026 by 10 April 2026.",
-    "thumbnail": "https://zatca.gov.sa/ar/MediaCenter/News/PublishingImages/Press.webp",
-    "link": "https://zatca.gov.sa/en/MediaCenter/News/Pages/Submit-WH-Return-for-Mar-2026.aspx",
-    "pubDate": "2026-04-05T00:00:00+00:00",
-    "scrapedAt": "2026-04-06T06:37:21.750332+00:00",
-    "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/default.aspx",
-    "sourceType": "official",
-    "sourceCountry": "SA",
-    "country": "Kingdom of Saudi Arabia",
-    "countries": [
-      "Kingdom of Saudi Arabia"
-    ],
-    "primaryCountry": "Kingdom of Saudi Arabia",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "SA"
-    ],
-    "matchedKeywords": [
-      "withholding tax"
-    ]
-  },
-  {
     "id": "7ebc0a36a0d918ee",
     "title": "Dubai issues new customs rules to route cargo via Oman amid logistics disruptions",
     "description": "Temporary framework details land transit system linking Dubai shipments to global markets",
@@ -74,31 +49,6 @@
     ],
     "matchedKeywords": [
       "guide"
-    ]
-  },
-  {
-    "id": "166c357c7e53bdf7",
-    "title": "Customs continues to ensure smooth entry of goods into Qatar",
-    "description": "Doha, Qatar: The General Authority of Customs continues to take all necessary regulatory measures to ensure the smooth entry of goods and commodities...",
-    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260405_1775391405-679-thumb_small_190.jpg?1775391405",
-    "link": "https://thepeninsulaqatar.com/article/05/04/2026/customs-continues-to-ensure-smooth-entry-of-goods-into-qatar",
-    "pubDate": "2026-04-05T00:00:00+00:00",
-    "scrapedAt": "2026-04-06T06:37:21.756742+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "customs"
     ]
   },
   {
