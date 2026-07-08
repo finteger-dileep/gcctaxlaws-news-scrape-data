@@ -10526,5 +10526,32 @@
       "excise tax",
       "excise"
     ]
+  },
+  {
+    "id": "de391df3a3259559",
+    "title": "New study provides insights into Arab countries' accession to the WTO",
+    "description": "GENEVA, 7th July, 2026 (WAM) -- A new study on the WTO accession experiences of Arab countries was launched on 6 July 2026, drawing lessons from past and ongoing accession processes of countries in the Arab region.Co-published by the WTO Secretariat, the Islamic Development Bank, the Arab Monetary Fund and the Islamic Centre for Development of Trade, the study is aimed at providing insights to Arab governments in the process of seeking WTO membership, examining the challenges associated with WTO accession for Arab economies and identifying approaches for advancing accession negotiations.Entitled \"Best practices in WTO accession for Arab Countries: Lessons from past and ongoing accessions in the Arab world\", the study finds that deeper integration into the multilateral trading system can expand economic and development prospects for Arab economies.Launched at a time when several Arab economies are grappling with the effects of conflict and instability in the region, the study identifies the legal, economic and political challenges faced by Arab economies at the national and regional level, which have impacted the pace of domestic reform required under their accession processes.In examining the participation of Arab countries in world trade and their economic performance, the study notes disparities across the region in transport infrastructure, particularly in areas such as customs procedures, logistics costs and the quality of the corridors for overland and maritime transport. The study emphasises the importance of investing in infrastructure development, such as transportation networks, ports, airports and energy projects to facilitate trade, expand export opportunities and attract investments.Of the 22 members of the Arab League, 14 are WTO members. Among these, five have negotiated their accession to the WTO since 1995, pursuant to Article XII of the Marrakesh Agreement, namely Jordan, Oman, Saudi Arabia, Yemen and Comoros, the latter joining the WTO in 2024. Seven others are currently negotiating their WTO accession. These are Algeria, Iraq, Lebanon, Libya, Somalia, Sudan and Syria.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/17b85pu-new-study-provides-insights-into-arab-countries",
+    "pubDate": "2026-07-08T00:46:20+04:00",
+    "scrapedAt": "2026-07-08T02:11:45.966738+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Kingdom of Saudi Arabia",
+    "countries": [
+      "Kingdom of Saudi Arabia",
+      "Oman"
+    ],
+    "primaryCountry": "Kingdom of Saudi Arabia",
+    "isMultiCountry": true,
+    "category": "Economy",
+    "jurisdictions": [
+      "SA",
+      "OM"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
   }
 ]
