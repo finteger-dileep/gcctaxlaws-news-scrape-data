@@ -10713,5 +10713,30 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "2ccead702fdd9447",
+    "title": "UAE Corporate Tax: 15 key questions businesses ask — FTA answers them",
+    "description": "From Free Zones to family offices, here's what the latest FTA guidance clarifies",
+    "thumbnail": "https://media.assettype.com/gulfnews/2024-11-18/6flzygfe/Corporate_Tax_Main_new_FOR_WEB_18831cbe093_original_ratio.jpg",
+    "link": "https://gulfnews.com/business/corporate-tax/uae-corporate-tax-15-key-questions-businesses-ask-fta-answers-them-1.500602775",
+    "pubDate": "2026-07-10T01:55:00+00:00",
+    "scrapedAt": "2026-07-10T02:32:29.778335+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Corporate Tax",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax"
+    ]
   }
 ]
