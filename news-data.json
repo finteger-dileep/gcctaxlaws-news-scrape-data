@@ -10376,5 +10376,30 @@
     "matchedKeywords": [
       "customs"
     ]
+  },
+  {
+    "id": "93eb95e53685d92a",
+    "title": "The City Buzz: Your guide to UAE's best events",
+    "description": "Weekend escapes, art, theatre, beach days and nightlife across the UAE",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-08/5jie6xmk/Party-Night.jpg",
+    "link": "https://gulfnews.com/friday/the-city-buzz-your-guide-to-uaes-best-events-4-1.500534188",
+    "pubDate": "2026-05-08T17:07:03.621000+00:00",
+    "scrapedAt": "2026-07-17T02:10:10.787739+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Friday",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
