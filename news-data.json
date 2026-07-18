@@ -10423,5 +10423,30 @@
     "matchedKeywords": [
       "customs"
     ]
+  },
+  {
+    "id": "6fd5f7c2dbc81f5b",
+    "title": "Italy's inflation in 2026 at 3.1%, price expectations rise, says BoI",
+    "description": "ROME, 18th July, 2026 (WAM) -- Italian inflation will hit 3.1% in 2026 amid rising price expectations, the Bank of Italy said.Due to the war in Iran and its impact on energy prices, \"consumer inflation is expected to rise to 3.1% on average this year, mainly reflecting the rise in energy prices; it is expected to return to 2% over the next two years,\" the Bank of Italy wrote in its economic bulletin after inflation reached 3% in the second quarter, despite a \"limited\" impact on utility bills and the temporary reduction in fuel excise duties.\"Households' and businesses' short-term inflation expectations have increased, although they remain below the levels observed in March 2022 following war in Ukraine,\" Italian News Aency (ANSA) reported, citing the official data.The companies \"forecast a 2.4% increase in their price lists over the next twelve months,\" it said.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c1a7ygu-italys-inflation-2026-31-price-expectations-rise",
+    "pubDate": "2026-07-18T16:21:13+04:00",
+    "scrapedAt": "2026-07-18T19:08:33.773672+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "excise"
+    ]
   }
 ]
