@@ -1,30 +1,5 @@
 [
   {
-    "id": "4a82ed54c6caef47",
-    "title": "Prepared, not panicked: Abu Dhabi’s school safety guide sets a new standard for emergency readiness",
-    "description": "From home to classroom to bus, a unified plan to keep every student safe",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-04-22/u6y94rad/IMG4741.jpeg",
-    "link": "https://gulfnews.com/uae/education/prepared-not-panicked-abu-dhabis-school-safety-guide-sets-a-new-standard-for-emergency-readiness-1.500514916",
-    "pubDate": "2026-04-22T02:03:46.455000+00:00",
-    "scrapedAt": "2026-04-22T02:05:54.819928+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Education",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "c9f54916d1041c0e",
     "title": "Türkiye IP Rights and Art Law: A Guide for Cross-Border Transactions",
     "description": "Türkiye has a fast‑growing art market and a distinctive IP framework granting strong moral and a resale rights.",
@@ -10320,6 +10295,31 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "b8e550fc551c749c",
+    "title": "UAE pool and beach safety guide for children: What parents need to know this summer",
+    "description": "Supervision, experts stress, must be direct and undivided",
+    "thumbnail": "https://media.assettype.com/gulfnews/import/2018/11/19/NAT-182011-Kid_Pool_safety-1_16a0851f981_large.jpg",
+    "link": "https://gulfnews.com/uae/uae-pool-and-beach-safety-guide-for-children-what-parents-need-to-know-this-summer-1.500614692",
+    "pubDate": "2026-07-21T02:00:00+00:00",
+    "scrapedAt": "2026-07-21T02:09:48.262412+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "UAE",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
