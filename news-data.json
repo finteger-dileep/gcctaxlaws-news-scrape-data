@@ -9959,5 +9959,30 @@
     "matchedKeywords": [
       "zakat"
     ]
+  },
+  {
+    "id": "ec4cde546c0bddd0",
+    "title": "Montenegro travel guide: Best things to do and what it costs for UAE travellers",
+    "description": "Explore Kotor, Budva and Skadar Lake with this guide to costs, attractions and travel tips",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-07-30/zm7ezznk/kotor.jpg.avif",
+    "link": "https://gulfnews.com/travel/montenegro-travel-guide-best-things-to-do-and-what-it-costs-for-uae-travellers-1.500625620",
+    "pubDate": "2026-07-31T01:00:00+00:00",
+    "scrapedAt": "2026-07-31T02:21:22.111385+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Travel",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
