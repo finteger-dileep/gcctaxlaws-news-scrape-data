@@ -1,30 +1,5 @@
 [
   {
-    "id": "1fff4abd839a91d6",
-    "title": "China's foreign trade expands 14.2% in April",
-    "description": "BEIJING, 9th May, 2026 (WAM) -- China's foreign trade in yuan-denominated terms grew 14.2 percent year on year in April, data from the General Administration of Customs showed on Saturday.The total value of goods imports and exports reached 4.38 trillion yuan ($639.4 billion) last month, the data showed.Exports rose 9.8 percent from the same period last year to 2.48 trillion yuan, while imports went up 20.6 percent to 1.9 trillion yuan, according to the data.In the first four months, total foreign trade reached 16.23 trillion yuan, up 14.9 percent year on year.",
-    "thumbnail": "https://assets.wam.ae/resource/fxi03l6b1ka10w2po.jpg",
-    "link": "https://www.wam.ae/en/article/c04jlkp-chinas-foreign-trade-expands-142-april",
-    "pubDate": "2026-05-09T09:56:35+04:00",
-    "scrapedAt": "2026-05-09T19:06:27.345076+00:00",
-    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Economy",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "b5b8f3ba0057fcce",
     "title": "MoF announces targeted amendments to eInvoicing system decisions",
     "description": "ABU DHABI, 10th May, 2026 (WAM) -- The Ministry of Finance (MoF) has announced targeted amendments to the ministerial decisions governing the eInvoicing system, including an extension of the deadline for the appointment of an Accredited Service Provider (ASP) from 31st July 2026 to 30th October 2026.This decision is introduced through an amendment to Ministerial Decision No. 244 of 2025 and applies to persons subject to the eInvoicing system whose annual revenues exceed AED50 million.The Ministry said the extension follows a comprehensive assessment of market readiness and responds to feedback from the business sector regarding the need for broader technical options and competitive pricing that serves persons subject to the eInvoicing system.The Ministry revealed that 32 Service Providers have already been approved, with a significant number of additional providers currently in the final stages of the accreditation process. It affirmed that this step will contribute to building a more integrated and competitive technical ecosystem.As part of efforts to support and empower local companies, the Ministry introduced amendments to Ministerial Decision No. (64) of 2025 concerning the criteria for acceptance and procedures for accrediting service providers under the eInvoicing system, through a process enabling the provision of technology solutions in collaboration with third-party providers.This process enables national companies to establish partnerships with international service providers to facilitate the transfer of technical know-how and deliver services aligned with local requirements, thereby accelerating the pace of digital transformation in the UAE.The Ministry of Finance stressed that the timeline for the commencement of mandatory implementation will remain unchanged, confirming that entities subject to the eInvoicing system, namely those with annual revenues exceeding AED50 million, are required to fully implement the eInvoicing system by no later than 1st January 2027.The Ministry also reaffirmed its commitment to maintaining a clear and stable regulatory environment that ensures legal certainty, supports a smooth transition to the eInvoicing system, and enhances tax compliance efficiency across the UAE.",
@@ -9748,6 +9723,158 @@
     "matchedKeywords": [
       "excise tax",
       "excise"
+    ]
+  },
+  {
+    "id": "d5ad815e543310ab",
+    "title": "Abu Dhabi Customs records strong growth in digital customs transactions in H1 2026",
+    "description": "ABU DHABI, 7th August, 2026 (WAM) -- The General Administration of Abu Dhabi Customs recorded a 12 % increase in customs transactions conducted through digital platforms during the first half of 2026 compared with the same period in 2025. Customs clearance transactions accounted for 32 % of the total, representing an increase of 3.9 %.Pre-arrival clearance transactions reached 89 %, an increase of 7 % compared with the first half of 2025. Proactive transactions increased by 13.3 %, while the number of transactions completed through direct integration rose by 23.5%.Abu Dhabi Customs achieved a customer satisfaction rating of 95.6 % for its services provided through TAMM, Abu Dhabi’s unified government services platform. It also recorded 95.7 % in the Customer Effort Index and 96 % in the Service Quality Index, representing an increase of 3.3 %.These results demonstrate the efficiency of Abu Dhabi’s customs infrastructure and its role in supporting supply chains and facilitating the smooth flow of trade through smart, integrated customs services. They also reflect Abu Dhabi Customs’ contribution to strengthening the business environment and enhancing the readiness of the customs sector, in line with the leadership’s directives and Abu Dhabi’s vision for a more competitive and sustainable economy.Mubarak Matar Al Mansoori, Executive Director of the Operations Sector, said that Abu Dhabi Customs places customers and the business community at the centre of its priorities by providing smart and integrated customs services aligned with international best practices.He explained that these services are designed to simplify procedures, provide proactive digital services, and improve the speed and efficiency of transaction processing.He also reaffirmed Abu Dhabi Customs’ commitment to developing innovative solutions that empower the business community, facilitate trade flows and support supply chains, thereby strengthening the competitiveness of Abu Dhabi’s business environment and reinforcing its position as a leading destination for investment and trade.",
+    "thumbnail": "https://assets.wam.ae/resource/yi2063h41ka1g64po.jpeg",
+    "link": "https://www.wam.ae/en/article/c1m4mqf-abu-dhabi-customs-records-strong-growth-digital",
+    "pubDate": "2026-08-07T18:59:30+04:00",
+    "scrapedAt": "2026-08-07T18:59:58.900156+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "fa887101165c3eb3",
+    "title": "Ministry of Finance extends Small Business Relief for corporate tax until 31 December 2029",
+    "description": "ABU DHABI, 7th August, 2026 (WAM) -- The Ministry of Finance has announced the issuance of Ministerial Decision No. (131) amending certain provisions of the Ministerial Decision on the Taxation of Corporations and Businesses. The amendment extends the period during which Small Business Relief may be claimed to tax periods ending on or before 31st December 2029.The decision forms part of the ministry's ongoing efforts to support small businesses and start-ups, strengthen the business environment, and enable entrepreneurs to grow and expand their businesses, thereby reinforcing the UAE's position as a leading global destination for investment.It also reaffirms the UAE's commitment to developing a competitive tax system that supports sustainable economic development, promotes compliance, and remains aligned with international best practices.Under the decision, the threshold prescribed under Ministerial Decision No. (73) of 2023 will continue to apply to tax periods commencing on or after 1st June 2023, and shall apply to subsequent tax periods ending on or before 31st December 2029.Small Business Relief enables Taxable Persons with annual revenue not exceeding AED3 million (the threshold) to benefit from simplified Corporate Tax compliance requirements, subject to the conditions and requirements set out in the relevant legislation.",
+    "thumbnail": "https://assets.wam.ae/resource/rtw063fx1ka0ywopo.jpg",
+    "link": "https://www.wam.ae/en/article/c1m4m99-ministry-finance-extends-small-business-relief-for",
+    "pubDate": "2026-08-07T12:41:28+04:00",
+    "scrapedAt": "2026-08-07T18:59:58.900156+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax",
+      "ministerial decision"
+    ]
+  },
+  {
+    "id": "05da154346e9feaf",
+    "title": "China’s exports to Germany surge 17.4% in July",
+    "description": "BEIJING, 7th August, 2026 (WAM) -- Chinese companies' exports to Germany continued to rise sharply in July, while Chinese imports from Germany declined, widening the trade imbalance between the two countries.Data from China's General Administration of Customs showed that China exported goods worth US$12.3 billion to Germany in July, up 17.4 percent compared with the same month last year.By contrast, trade flows in the opposite direction were considerably weaker, with China's imports from Germany falling 2.7 percent to $7.9 billion.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c1m4m67-china%25E2%2580%2599s-exports-germany-surge-174-july",
+    "pubDate": "2026-08-07T11:03:43+04:00",
+    "scrapedAt": "2026-08-07T18:59:58.900156+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "1ce394198a14ae4b",
+    "title": "China's foreign trade expands 19.2% in July",
+    "description": "BEIJING, 7th August, 2026 (WAM) -- China's foreign trade in yuan-denominated terms grew 19.2 percent year-on-year in July, data from the General Administration of Customs showed on Friday. The total value of goods imports and exports reached 4.66 trillion yuan (about US$686.26 billion) last month, remaining above 4 trillion yuan for five consecutive months, the data showed. Exports rose 17.8 percent from the same period last year, while imports increased 21.2 percent.In the first seven months of the year, total foreign trade in goods amounted to 30.13 trillion yuan, up 17.3 percent year-on-year.Exports of high-tech products, including industrial robots and 3D printers, surged by over 50 percent year-on-year in July, outpacing the 39 percent growth recorded in the first half of the year.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c1m4m0h-chinas-foreign-trade-expands-192-july",
+    "pubDate": "2026-08-07T09:13:19+04:00",
+    "scrapedAt": "2026-08-07T18:59:58.900156+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "ace611d520922cef",
+    "title": "UAE extends corporate tax relief for small businesses until end of 2029",
+    "description": "Businesses earning up to Dh3m can claim simplified corporate tax treatment through 2029",
+    "thumbnail": "https://media.assettype.com/gulfnews/import/2023/05/03/STOCK-SME---ecommerce---online---small-business-_187e1e7b16b_large.jpg",
+    "link": "https://gulfnews.com/business/corporate-tax/uae-extends-corporate-tax-relief-for-small-businesses-until-end-of-2029-1.500633548",
+    "pubDate": "2026-08-07T08:17:45.840000+00:00",
+    "scrapedAt": "2026-08-07T18:59:58.896255+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Corporate Tax",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax"
+    ]
+  },
+  {
+    "id": "40e84f6f2abfd454",
+    "title": "UAE extends small business relief for corporate tax purposes until December 31, 2029",
+    "description": "The UAE’s Ministry of Finance announced on Friday the issuance of Ministerial Decision No. (131) amending certain provisions of the Ministerial Decision on the Taxation of Corporations and Businesses. The amendment extends the period during which UAE Small Business Relief may be claimed to tax periods ending on or before December 31, 2029. The decision […]",
+    "thumbnail": "https://economymiddleeast.com/wp-content/uploads/2026/08/UAE-small-business-relief.jpg",
+    "link": "https://economymiddleeast.com/news/uae-extends-small-business-relief-for-corporate-tax-purposes-until-december-31-2029/",
+    "pubDate": "2026-08-07T09:02:32+00:00",
+    "scrapedAt": "2026-08-07T18:59:58.892154+00:00",
+    "source": "https://economymiddleeast.com/latest-news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Abu Dhabi, business, corporate tax",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax",
+      "ministerial decision"
     ]
   }
 ]
