@@ -1,31 +1,5 @@
 [
   {
-    "id": "8524326a44cb02bf",
-    "title": "QatarEnergy acquires interests in new exploration blocks offshore Uruguay",
-    "description": "QatarEnergy has acquired an 18% interest in block “OFF-4”, while Shell held 32%, and APA Corporation (the operator) retained the remaining 50%",
-    "thumbnail": "https://static.zawya.com/view/acePublic/alias/contentid/dafe35e8-7936-45ee-a7f1-efafcccdf015/13/1357748608.webp",
-    "link": "https://www.zawya.com/en/business/energy/qatarenergy-acquires-interests-in-new-exploration-blocks-offshore-uruguay-kprt69mz",
-    "pubDate": "2026-05-20T07:45:33.484Z",
-    "scrapedAt": "2026-05-20T20:21:18.316136+00:00",
-    "source": "https://www.zawya.com/en/search",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Energy",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "apa"
-    ]
-  },
-  {
     "id": "f5378f66a06a0e49",
     "title": "Dubai Customs unveils Centre of Excellence in collaboration with University of Dubai",
     "description": "DUBAI, 21st May, 2026 (WAM) -- In a strategic step that reflects Dubai’s ambitious vision to reinforce its position as a leading global hub for trade and supply chains, Dubai Customs has announced the launch of the Centre of Excellence for Customs and Trade Logistics in collaboration with University of Dubai.The Centre will serve as an advanced knowledge and research hub dedicated to developing a more efficient and innovative customs and logistics ecosystem, while supporting the objectives of Dubai Economic Agenda D33, which aims to double the size of Dubai’s economy and further establish the emirate among the world’s leading economic and commercial cities.The launch marks a significant milestone in Dubai Customs’ ongoing efforts to harness knowledge, research, and innovation to create practical solutions that accelerate trade, strengthen supply chain resilience, and enhance Dubai’s competitiveness on the global economic stage.The Centre is designed to elevate customs and trade logistics standards through the development of policies and procedures, evidence-based assessments, and applied research and international benchmarking studies that contribute to improving operational efficiency and enhancing the customer journey.It will also focus on advancing trade logistics performance, increasing supply chain resilience, and strengthening digitally enabled customs systems powered by modern technologies, in line with the frameworks and methodologies of the World Customs Organisation and international best practices.The Centre will act as a leading hub for knowledge exchange and collaboration in customs governance and logistics. Through its partnership with the University of Dubai, Dubai Customs will build a network of collaborations with distinguished universities and academic institutions around the world to develop policies and solutions addressing emerging challenges in cross-border e-commerce, supply chain security, and sustainable logistics.Academic partners include globally recognized institutions such as Kühne Logistics University, University of Adelaide, Infinite Sum Modelling, Michigan State University, and Henley Business School.Dubai Customs aims to develop the Centre into a regional and international reference point for knowledge and innovation in customs and trade logistics, bringing together academic research and practical application to shape the next generation of digital trade systems.The Centre will also foster new ideas, empower young talent, and attract innovations from both within Dubai Customs and the wider academic community, helping to strengthen a culture of institutional innovation and develop national capabilities capable of leading the future of the customs and logistics sector. Dr. Abdulla Busenad, Director General of Dubai Customs, said:“The establishment of the Centre of Excellence for Customs and Trade Logistics represents a strategic step that reflects Dubai Customs’ commitment to strengthening Dubai’s leadership within the global trade ecosystem and supporting the objectives of the Dubai Economic Agenda D33 through the development of a more efficient and innovative customs and logistics system.”",
@@ -9208,6 +9182,81 @@
     ],
     "matchedKeywords": [
       "customs",
+      "guide"
+    ]
+  },
+  {
+    "id": "037a58e885e632c7",
+    "title": "GAC launches survey via ‘Sharek’ to enhance services",
+    "description": "Doha, Qatar: The General Authority of Customs (GAC), in strategic coordination with the Civil Service and Government Development Bureau (CGB), officially launched a...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260818_1787031106-523-thumb_small_190.jpg?1787031106",
+    "link": "https://thepeninsulaqatar.com/article/18/08/2026/gac-launches-survey-via-sharek-to-enhance-services",
+    "pubDate": "2026-08-18T00:00:00+00:00",
+    "scrapedAt": "2026-08-18T18:40:18.302978+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "77d1bde8a333636c",
+    "title": "Qatar partakes in 18th GCC-level Zakat authorities' specialist committee meeting",
+    "description": "Doha:The State of Qatar, represented by the Ministry of Endowments and Islamic Affairs, participated in the 18th specialist committee meeting of Gulf Cooperation...",
+    "thumbnail": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
+    "link": "https://thepeninsulaqatar.com/article/18/08/2026/qatar-partakes-in-18th-gcc-level-zakat-authorities-specialist-committee-meeting",
+    "pubDate": "2026-08-18T00:00:00+00:00",
+    "scrapedAt": "2026-08-18T18:40:18.302978+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "zakat"
+    ]
+  },
+  {
+    "id": "aaedc2ac2f5e66cb",
+    "title": "Hamad International Airport shares arrival guide as it enters ‘one of its busiest arrival periods’",
+    "description": "Doha, Qatar: Hamad International Airport shared an arrival guide for travelers arriving during what they called one of HIA’s “busiest arrival periods”.\n\n“This...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260818_1787066925-975-thumb_small_190.jpg?1787066925",
+    "link": "https://thepeninsulaqatar.com/article/18/08/2026/hamad-international-airport-shares-arrival-guide-as-it-enters-one-of-its-busiest-arrival-periods",
+    "pubDate": "2026-08-18T00:00:00+00:00",
+    "scrapedAt": "2026-08-18T18:40:18.302978+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
       "guide"
     ]
   }
