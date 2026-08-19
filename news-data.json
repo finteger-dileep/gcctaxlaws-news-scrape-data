@@ -50,32 +50,6 @@
     ]
   },
   {
-    "id": "d5377ec7fc021adf",
-    "title": "ZATCA Urges Establishments Subject to Excise Tax to File Their Returns for March and April 2026",
-    "description": "دعت هيئة الزكاة والضريبة والجمارك \"زاتكا\" المنشآت الخاضعة للضريبة الانتقائية إلى تقديم إقراراتها الضريبية عن شهرَي مارس وأبريل 2026م، وذلك في أو قبل 31 من شهر مايو 2026م.",
-    "thumbnail": "https://zatca.gov.sa/ar/MediaCenter/News/PublishingImages/Press.webp",
-    "link": "https://zatca.gov.sa/en/MediaCenter/News/Pages/Submit-ET-Return-for-Mar-Apr-2026.aspx",
-    "pubDate": "2026-05-21T00:00:00+00:00",
-    "scrapedAt": "2026-05-21T19:56:44.023104+00:00",
-    "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/default.aspx",
-    "sourceType": "official",
-    "sourceCountry": "SA",
-    "country": "Kingdom of Saudi Arabia",
-    "countries": [
-      "Kingdom of Saudi Arabia"
-    ],
-    "primaryCountry": "Kingdom of Saudi Arabia",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "SA"
-    ],
-    "matchedKeywords": [
-      "excise tax",
-      "excise"
-    ]
-  },
-  {
     "id": "071f3869476ad94b",
     "title": "Dubai Customs unveils Center of Excellence in collaboration with University of Dubai",
     "description": "Advanced research and knowledge center to strengthen Dubai’s competitiveness in trade and logistics",
@@ -170,31 +144,6 @@
     "category": "Business",
     "jurisdictions": [
       "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
-    "id": "ad36a230b26fc9dc",
-    "title": "Land Customs foils attempt to smuggle 15,000 cigarettes into Qatar",
-    "description": "Doha, Qatar: The Land Customs Department has foiled an attempt to smuggle tobacco products into Qatar on Thursday, May 21, 2026.\n\nIn a...",
-    "thumbnail": "https://thepeninsulaqatar.com/get/image/20260521_1779360483-462-thumb_small_190.jpg?1779360484",
-    "link": "https://thepeninsulaqatar.com/article/21/05/2026/land-customs-foils-attempt-to-smuggle-15000-cigarettes-into-qatar",
-    "pubDate": "2026-05-21T00:00:00+00:00",
-    "scrapedAt": "2026-05-21T19:56:44.300244+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
     ],
     "matchedKeywords": [
       "customs"
