@@ -1,31 +1,5 @@
 [
   {
-    "id": "7f9c2d762f4317b3",
-    "title": "UAE E-Invoicing Update: ASP Appointment Deadline Extended to October 2026",
-    "description": "The UAE has extended the deadline for large businesses with revenue of AED 50 million or more to appoint an Accredited Service Provider for e-invoicing from July 31, 2026, to October 30, 2026.",
-    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/05/UAE-e-invoice.jpg",
-    "link": "https://www.middleeastbriefing.com/news/uae-e-invoicing-update-asp-appointment-deadline-extended/",
-    "pubDate": "2026-05-26T16:11:11+00:00",
-    "scrapedAt": "2026-05-26T20:11:58.010159+00:00",
-    "source": "https://www.middleeastbriefing.com/news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Legal & Regulatory, UAE, UAE business intelligence",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "e-invoicing",
-      "e invoicing"
-    ]
-  },
-  {
     "id": "9e9daaa8fcf27f73",
     "title": "The ultimate UAE Eid Al-Adha dessert guide: 4 spots serving adorable sheep treats",
     "description": "The bakeries and cafes in Dubai serving up creative, woolly treats this festive season",
@@ -8876,6 +8850,31 @@
     "primaryCountry": "United Arab Emirates",
     "isMultiCountry": false,
     "category": "UAE",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "216a68c18c2a90bc",
+    "title": "Onam 2026 UAE guide: Best places for sadhya and celebration in Dubai, Abu Dhabi and Sharjah",
+    "description": "Thiruvonam falls on 26 August and the UAE has restaurants, events and takeaways ready",
+    "thumbnail": "https://media.assettype.com/gulfnews/import/2021/08/20/onam_17b61e606d8_large.jpg",
+    "link": "https://gulfnews.com/lifestyle/onam-2026-uae-guide-best-places-for-sadhya-and-celebration-in-dubai-abu-dhabi-and-sharjah-1.500650322",
+    "pubDate": "2026-08-24T09:51:54.291000+00:00",
+    "scrapedAt": "2026-08-24T18:42:39.302543+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Lifestyle",
     "jurisdictions": [
       "AE"
     ],
