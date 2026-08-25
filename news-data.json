@@ -1,107 +1,5 @@
 [
   {
-    "id": "9e9daaa8fcf27f73",
-    "title": "The ultimate UAE Eid Al-Adha dessert guide: 4 spots serving adorable sheep treats",
-    "description": "The bakeries and cafes in Dubai serving up creative, woolly treats this festive season",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-26/g12y8k1k/IMG3828.png",
-    "link": "https://gulfnews.com/lifestyle/the-ultimate-uae-eid-al-adha-dessert-guide-4-spots-serving-adorable-sheep-treats-1.500554300",
-    "pubDate": "2026-05-27T02:30:00+00:00",
-    "scrapedAt": "2026-05-27T02:55:59.471786+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Lifestyle",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "ca4300499eedca73",
-    "title": "Do Property Owners Pay Tax in the UAE? Key Rules for Real Estate Investors",
-    "description": "The UAE is no longer a tax-free environment for all real estate investors. This article explains how corporate tax, VAT, free zone rules, transfer fees, and ownership structures affect property owners and investors. The UAE is still one of the most tax-efficient real estate markets in the world. But it is no longer accurate to […]",
-    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/05/UAE-real-estate-property-tax-2026.jpg",
-    "link": "https://www.middleeastbriefing.com/news/uae-real-estate-tax-2026-insights-property-owners/",
-    "pubDate": "2026-05-27T10:25:51+00:00",
-    "scrapedAt": "2026-05-27T20:21:53.769588+00:00",
-    "source": "https://www.middleeastbriefing.com/news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Tax & Accounting, UAE, Business Intelligence",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "corporate tax",
-      "vat"
-    ]
-  },
-  {
-    "id": "4632ac803c3e4932",
-    "title": "Last-Minute Eid gift guide: Luxury picks to shop now",
-    "description": "Explore luxury Eid gift ideas, from timeless fashion to elegant hosting essentials",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-05-27/wj13c63t/giftguide.JPG",
-    "link": "https://gulfnews.com/the-kurator/luxury/last-minute-eid-gift-guide-luxury-picks-to-shop-now-1.500554629",
-    "pubDate": "2026-05-27T07:35:32.650000+00:00",
-    "scrapedAt": "2026-05-27T20:21:53.769629+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Luxury",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "5bdef82e9bbdc252",
-    "title": "UAE President, VPs congratulate heads of Arab, Islamic states on Eid al-Adha",
-    "description": "UAE President His Highness Sheikh Mohamed bin Zayed Al Nahyan has sent cables of congratulations to Their Highnesses the Kings, Presidents, and Emirs of Arab and Islamic nations on the occasion of Eid al-Adha. His Highness Sheikh Mohamed wished them and their peoples continued progress, prosperity, and stability. Read more | Ultimate guide to Eid […]",
-    "thumbnail": "https://economymiddleeast.com/wp-content/uploads/2026/05/UAE-leaders-Eid-al-Adha-congratulations-2026-.jpg",
-    "link": "https://economymiddleeast.com/news/uae-president-vps-congratulate-heads-of-arab-islamic-states-on-eid-al-adha/",
-    "pubDate": "2026-05-27T03:00:42+00:00",
-    "scrapedAt": "2026-05-27T20:21:53.761566+00:00",
-    "source": "https://economymiddleeast.com/latest-news/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Abu Dhabi, Dubai, Eid al-Adha",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "58b3814024ebc408",
     "title": "Saudi Arabia’s New Geographical Indications (GI) Regime: SAIP Implementing Regulation",
     "description": "Saudi Arabia’s new GI framework gives producers a legal tool to protect region-linked products such as dates, Taif roses, and Najran honey, with registration valid for renewable ten-year terms.",
@@ -8880,6 +8778,81 @@
     ],
     "matchedKeywords": [
       "guide"
+    ]
+  },
+  {
+    "id": "f260912351cb5c39",
+    "title": "UAE families draw the line: Let AI guide children, not do their homework",
+    "description": "UAE parents say AI can be useful but children must remain responsible for the thinking",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-08-25/ugijnzps/uae-families.jpg",
+    "link": "https://gulfnews.com/living-in-uae/education/uae-families-draw-the-line-let-ai-guide-children-not-do-their-homework-1.500651700",
+    "pubDate": "2026-08-25T11:19:58.427000+00:00",
+    "scrapedAt": "2026-08-25T18:41:15.732808+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Education",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "faa27309f811234e",
+    "title": "Back-to-school UAE lunchbox guide: What to pack, how much water kids need and what to avoid",
+    "description": "Balanced lunchboxes help UAE kids stay sharp, hydrated and ready to learn",
+    "thumbnail": "https://media.assettype.com/gulfnews/2024-11-17/2jkzvsvt/Brains_boosting_foods_for_your_kids__lunchbox_179f0aef173_original_ratio.jpg",
+    "link": "https://gulfnews.com/lifestyle/back-to-school-uae-lunchbox-guide-what-to-pack-how-much-water-kids-need-and-what-to-avoid-1.500651404",
+    "pubDate": "2026-08-25T06:54:23.384000+00:00",
+    "scrapedAt": "2026-08-25T18:41:15.732808+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Lifestyle",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "4708fcbfe9a514e2",
+    "title": "MoCI reinforces auditing profession standards and requirements through regulations",
+    "description": "Doha, Qatar: Minister of Commerce and Industry HE Sheikh Faisal bin Thani bin Faisal Al-Thani issued on Tuesday Ministerial Decision No. 56 of...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20230611_1686481914-929-thumb_small_190.jpg?1686481914",
+    "link": "https://thepeninsulaqatar.com/article/25/08/2026/moci-reinforces-auditing-profession-standards-and-requirements-through-regulations",
+    "pubDate": "2026-08-25T00:00:00+00:00",
+    "scrapedAt": "2026-08-25T18:41:15.726851+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "ministerial decision"
     ]
   }
 ]
