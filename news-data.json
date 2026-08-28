@@ -8960,5 +8960,30 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "2b3d6669c1229457",
+    "title": "UAE sets textbook packages for every grade in new school-year guide",
+    "description": "Guide sets out books and learning resources for each grade in the 2026-27 academic year",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-08-28/arf8xnne/moe",
+    "link": "https://gulfnews.com/uae/education/uae-sets-textbook-packages-for-every-grade-in-new-school-year-guide-1.500655216",
+    "pubDate": "2026-08-28T08:06:51.727000+00:00",
+    "scrapedAt": "2026-08-28T08:40:28.882638+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Education",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
