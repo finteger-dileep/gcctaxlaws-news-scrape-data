@@ -128,32 +128,6 @@
     ]
   },
   {
-    "id": "cce067a479f489a4",
-    "title": "General Tax Authority Wins First Place in the “Government Services Redesign Challenge\n                                    2026”",
-    "description": "The General Tax Authority was awarded first place in the second edition of the “Government Services Redesign Challenge 2026,” organized by the Civil Service and Government Development Bureau with the participation of several government entities, for its Excise Tax Product Registration service. The provision of this service comes as part of the comprehensive development and transformation plan that the authority is working to achieve, which it continues to advance through the ongoing enhancement of services, simplification of procedures, and strengthening of digitalization. These efforts contribute to improving the taxpayer experience and raising the efficiency of the services provided to them. The service met the approved excellence standards for the design and development of government services by presenting an integrated model focused on improving the clarity and ease of the process for registering products subject to excise tax, reflecting the Authority’s direction toward more efficient and innovative services. This achievement followed the participation of the Authority’s team in the innovation event accompanying the challenge, which included intensive interactive workshops focused on understanding the current state of the service, exploring related challenges, envisioning future solutions, and developing applicable prototypes to be presented before the judging panel. The challenge phases were carried out through a collaborative approach that began with identifying challenges and development opportunities, followed by idea generation and solution design, and concluded with the presentation of an enhanced model that reflects a smoother and more efficient user experience. The Authority’s presentation was distinguished by its clarity and comprehensive approach in addressing challenges and solutions, while highlighting the impact of service development on improving the taxpayer experience and enhancing procedural efficiency. This recognition reflects the General Tax Authority’s commitment to continuing the development of its digital services, promoting innovation in the design of government services, and adopting practical solutions that contribute to raising the quality of services provided to taxpayers and enhancing the efficiency of the tax system.",
-    "thumbnail": "https://gta.gov.qa/assets/images/Trophy Media Pics_18062026.jpg",
-    "link": "https://gta.gov.qa/en/media-center/news/general-tax-authority-wins-first-place-in-the-government-services-redesign",
-    "pubDate": "2026-06-18T00:00:00+00:00",
-    "scrapedAt": "2026-06-18T20:28:41.982862+00:00",
-    "source": "https://gta.gov.qa/en/media-center/news",
-    "sourceType": "official",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "News",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "excise tax",
-      "excise"
-    ]
-  },
-  {
     "id": "71eaced7e0c31a53",
     "title": "Oman: VAT calculation on 1.2% deduction clarified",
     "description": "VAT is first calculated on the full invoice amount, and the 1.2 per cent deduction",
@@ -7870,6 +7844,31 @@
     "jurisdictions": [],
     "matchedKeywords": [
       "pillar two"
+    ]
+  },
+  {
+    "id": "349e20df2abf5c8b",
+    "title": "September 30, 2026 Corporate Tax Deadline: A Checklist",
+    "description": "For businesses with a financial year ending December 31, 2025, the UAE Corporate Tax return and payment deadline is September 30, 2026.",
+    "thumbnail": "https://www.middleeastbriefing.com/news/wp-content/uploads/2026/06/UAE-tax-filing-deadline.jpg",
+    "link": "https://www.middleeastbriefing.com/news/september-30-2026-corporate-tax-deadline-a-checklist/",
+    "pubDate": "2026-06-22T07:01:28+00:00",
+    "scrapedAt": "2026-09-16T02:59:14.648659+00:00",
+    "source": "https://www.middleeastbriefing.com/news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax & Accounting, Business Intelligence, market-entry",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax"
     ]
   }
 ]
