@@ -7819,5 +7819,30 @@
     "matchedKeywords": [
       "customs"
     ]
+  },
+  {
+    "id": "cf9e77c18cb6f7c9",
+    "title": "The city buzz: Your guide to the UAE’s best events",
+    "description": "Make the most of the week with our handpicked events and activities",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-07-13/onghc52h/902.jpg",
+    "link": "https://gulfnews.com/friday/events/the-city-buzz-your-guide-to-the-uaes-best-events-4-1.500603602",
+    "pubDate": "2026-07-10T19:47:44.629000+00:00",
+    "scrapedAt": "2026-09-18T02:50:13.789459+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Events",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
