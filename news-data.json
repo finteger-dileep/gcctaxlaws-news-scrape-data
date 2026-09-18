@@ -7844,5 +7844,31 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "47ed982a456dff3b",
+    "title": "Think before you trust – a digital safety guide from GISEC 2026",
+    "description": "Six red flags, smarter passwords and simple checks to stop scams before they start",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-01-25/ihkpmb6z/Online-scam",
+    "link": "https://gulfnews.com/technology/think-before-you-trust-a-digital-safety-guide-from-gisec-2026-1.500679470",
+    "pubDate": "2026-09-18T10:55:52.224000+00:00",
+    "scrapedAt": "2026-09-18T20:35:27.149570+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates",
+      "Middle East"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": true,
+    "category": "Technology",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
