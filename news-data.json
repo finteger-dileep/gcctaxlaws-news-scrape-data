@@ -7792,5 +7792,31 @@
     "matchedKeywords": [
       "customs"
     ]
+  },
+  {
+    "id": "05e8feccdb00d595",
+    "title": "Germany cuts fuel tax to curb rising prices",
+    "description": "BERLIN, 22nd September, 2026 (WAM) -- Germany's federal and state governments have agreed to reduce taxes on petrol and diesel in a bid to ease the impact of rising fuel prices.Under the relief package, the energy tax on petrol and diesel will be cut by 14 cents per litre from 1st October until the end of 2026.Including the resulting reduction in value-added tax, motorists are expected to benefit from relief of around 17 cents per litre at filling stations.The measure is expected to provide around €2.5 billion in relief to consumers and businesses.Germany's federal states will contribute €1.25 billion towards the cost through a fixed share of VAT revenue.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/17fr1y8-germany-cuts-fuel-tax-curb-rising-prices",
+    "pubDate": "2026-09-22T04:09:50+04:00",
+    "scrapedAt": "2026-09-22T02:58:23.889020+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat",
+      "value added tax"
+    ]
   }
 ]
