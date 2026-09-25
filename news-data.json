@@ -55,31 +55,6 @@
     ]
   },
   {
-    "id": "eff6249dbdae00dc",
-    "title": "Dubai Customs unveils duty instalment plan, 80% cut on eligible fines to boost trade",
-    "description": "New measures ease customs costs and support trade amid economic headwinds",
-    "thumbnail": "https://media.assettype.com/gulfnews/import/2021/08/21/Dubai-Customs-1629545505832_17b687b2444_large.jpg",
-    "link": "https://gulfnews.com/uae/dubai-customs-unveils-duty-instalment-plan-80-cut-on-eligible-fines-to-boost-trade-1.500589166",
-    "pubDate": "2026-06-27T16:14:29.376000+00:00",
-    "scrapedAt": "2026-06-27T19:24:11.284458+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "UAE",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "ff524d746b371a79",
     "title": "Dubai Customs deploys smart K9 fleet to boost anti-drug crackdown",
     "description": "AI-powered vehicles enhance response times, dog welfare and border security",
@@ -7612,6 +7587,31 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "27e2e593f0e476fb",
+    "title": "City Buzz: Your guide to the UAE's best events",
+    "description": "From indie cinema to sky-high dinners, plan your next days out in the UAE",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-09-25/cgyaqwxd/Shop-local-this-Sunday.jpg",
+    "link": "https://gulfnews.com/friday/city-buzz-your-guide-to-the-uaes-best-events-2-1.500687502",
+    "pubDate": "2026-09-25T09:02:03.437000+00:00",
+    "scrapedAt": "2026-09-25T21:14:13.579317+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Friday",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
