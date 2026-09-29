@@ -7379,5 +7379,30 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "2340b50c60ee53dd",
+    "title": "FTA: 30 September 2026 is the deadline for filing Tax Returns and paying Corporate Tax for the financial year ended 31 December 2025",
+    "description": "Abu Dhabi, 26 September 2026: The Federal Tax Authority (FTA) emphasised the need for all Taxable Persons subject to Corporate Tax whose Taxable Period ended on 31 December 2025 to file their Tax Returns and pay the Corporate Tax due no later than 30 September 2026.",
+    "thumbnail": "",
+    "link": "https://tax.gov.ae/en/media.centre/news/pr.2809.aspx",
+    "pubDate": "2026-09-26T00:00:00+00:00",
+    "scrapedAt": "2026-09-29T03:51:00.399006+00:00",
+    "source": "https://tax.gov.ae/en/media.centre/news.aspx",
+    "sourceType": "government",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax"
+    ]
   }
 ]
