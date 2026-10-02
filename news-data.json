@@ -7376,5 +7376,54 @@
     "matchedKeywords": [
       "zakat"
     ]
+  },
+  {
+    "id": "fc4ea0185c12b5e8",
+    "title": "GS1 UAE, UAE Food Cluster unveil National Food Catalogue to strengthen UAE food ecosystem",
+    "description": "DUBAI, 2nd October, 2026 (WAM) -- GS1 UAE and the UAE Food Cluster have unveiled the National Food Catalogue (NFC) at the Future Food Forum 2026, introducing a national platform that establishes a trusted digital foundation for product information, trade, and market connectivity across the UAE food sector.An initiative of the UAE Food Cluster, under the patronage of the Ministry of Economy and Tourism, the NFC brings product data into a single, trusted digital environment. Powered by GS1 Standards and Trusted Data Services, it provides a verified source of information that can be used consistently by government entities, retailers and industry stakeholders. It is designed to support businesses of all sizes, from large enterprises to medium-sized businesses and SMEs, by providing a common product identity and reliable data that can be shared across the food sector.The launch reflects the UAE’s ambition to build a more competitive food sector that supports businesses, facilitates trade and contributes to economic growth. As the first major regulated initiative introduced under the UAE Food Cluster, the NFC establishes a national framework for trusted product data, helping improve market efficiency and strengthen commercial activity across the food and beverage industry.At the heart of the NFC is a simple principle: “register once, accepted everywhere.” Through a single product identity, the platform helps reduce duplicate registrations, inconsistent records, and repetitive processes, while enabling stakeholders to exchange accurate data through a common framework.The NFC also forms part of the UAE’s Zero Government Bureaucracy Programme, supporting more efficient registration and regulatory processes for the food industry. By enabling government entities, retailers, and businesses to work from the same reliable data source, it helps reduce duplication and simplify administrative procedures.For businesses, this means a clearer route for getting products recognised across the market, while supporting alignment with customs requirements, product ownership and end-to-end traceability. The platform also helps improve visibility of parallel imports and strengthen controls around inaccurate or misleading product claims.For retailers and other commercial partners, the NFC provides access to reliable product information through a shared digital foundation. For government stakeholders, it enables more efficient access to product-level data and supports interoperability across multiple government and commercial services.\"The National Food Catalogue gives the UAE food sector a national foundation of trusted product data. With one verified identity for every product, it brings greater transparency from source to shelf and enables government and industry to work from a single, shared source of information,\" said Rami Habbal, CEO of GS1 UAE.\"At GS1 UAE, our commitment is to be the trusted data partner of the UAE ecosystem, and the NFC is an important step in that journey. Together with the UAE Food Cluster and partners, we will continue to build on this foundation so that trusted data becomes a lasting advantage for the UAE food sector,\" added Habbal.During his opening address at the Forum, Saleh Lootah, Chairman of the UAE Food and Beverages Manufacturers Group said, “Recent years have tested every link in our food value chain, and what carried us through was an ecosystem working together as one. The Cluster’s role is to remove obstacles across the value chain so the sector can move faster and grow bigger, and the National Food Catalogue, our first initiative, does exactly that. Food security today depends on connected, trusted data and the agility to act on it. With GS1 UAE and our partners, we are stronger with the data we have, and ready for what comes next.”Designed by the industry, for the industry, the NFC supports businesses of all sizes, retailers, and other stakeholders across the food sector. It has been developed as a shared foundation that can evolve to support new use cases and services over time. Its applications span product registration, customs, retail, traceability, and the promotion of UAE-made products, demonstrating its potential to support a growing range of industry needs.The launch marks the beginning of a broader national effort to streamline information exchange, support trade and strengthen the competitiveness of the UAE food sector.",
+    "thumbnail": "https://assets.wam.ae/resource/vhm07ns91ka16ngpo.jpg",
+    "link": "https://www.wam.ae/en/article/c2jgwde-gs1-uae-uae-food-cluster-unveil-national-food",
+    "pubDate": "2026-10-02T15:42:49+04:00",
+    "scrapedAt": "2026-10-02T21:56:43.267289+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "c3b765ea41e3ffa5",
+    "title": "Romania deposits its instrument of ratification for the Multilateral Convention implementing the Subject to Tax Rule",
+    "description": "Romania has deposited its instrument of ratification for the Multilateral Convention to Facilitate the Implementation of the Pillar Two Subject to Tax Rule (the STTR Convention).",
+    "thumbnail": "https://www.oecd.org/adobe/dynamicmedia/deliver/dm-aid--ef374dfb-bcae-4bdd-8e2a-03a5d9a878ab/Fallback-small-Press-Release.png%3Fpreferwebp=true",
+    "link": "https://www.oecd.org/en/about/news/announcements/2026/10/romania-deposits-its-instrument-of-ratification-for-the-multilateral-convention-implementing-the-subject-to-tax-rule.html",
+    "pubDate": "2026-10-02T12:00:00.000Z",
+    "scrapedAt": "2026-10-02T21:56:43.259688+00:00",
+    "source": "https://www.oecd.org/en/topics/taxation.html",
+    "sourceType": "media",
+    "sourceCountry": "FR",
+    "country": "International",
+    "countries": [
+      "Middle East",
+      "International"
+    ],
+    "primaryCountry": "International",
+    "isMultiCountry": true,
+    "category": "Announcement",
+    "jurisdictions": [],
+    "matchedKeywords": [
+      "pillar two"
+    ]
   }
 ]
