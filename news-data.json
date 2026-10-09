@@ -55,32 +55,6 @@
     ]
   },
   {
-    "id": "208a034466264edf",
-    "title": "India scraps import duty on key smartphone and electronics components",
-    "description": "New customs relief on electronics parts aims to cut costs, spur investments",
-    "thumbnail": "https://iansportalimages.s3.amazonaws.com/thumbnails/202402283125145.jpg",
-    "link": "https://gulfnews.com/business/retail/india-scraps-import-duty-on-key-smartphone-and-electronics-components-1.500604416",
-    "pubDate": "2026-07-11T07:40:30.196000+00:00",
-    "scrapedAt": "2026-07-11T19:07:36.759700+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates",
-      "Middle East"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": true,
-    "category": "Retail",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "customs"
-    ]
-  },
-  {
     "id": "2f297d4703324adc",
     "title": "Qatar Youth Hostels programme prepares qualified tour guides",
     "description": "Doha, Qatar: Qatar Youth Hostels is continuing to strengthen Qatar’s tourism workforce through its “Future Qatar Tour Guides” programme, which has produced a...",
@@ -7087,6 +7061,58 @@
     ],
     "matchedKeywords": [
       "guide"
+    ]
+  },
+  {
+    "id": "c4c59a0083b2e0d2",
+    "title": "Ministry of Finance issues decision on accreditation of invoicing service providers under updated regulatory framework",
+    "description": "ABU DHABI, 9th October, 2026 (WAM) -- The Ministry of Finance has issued Ministerial Decision No. 168 of 2026 on the Eligibility Criteria and Accreditation Procedures for Service Providers under the Electronic Invoicing System, repealing Ministerial Decision No. 64 of 2025 and its amendments, including Ministerial Decision No. 56 of 2026. The new Decision will enter into force on 1st October 2026.The new Decision introduces an updated accreditation framework for eInvoicing Service Providers, reflecting the transition of the UAE eInvoicing programme from ecosystem development and testing to a fully operational and live ecosystem.A key change is the removal of the pre-approval stage under the previous framework. The pre-approval approach supported the establishment and onboarding of Service Providers while the UAE eInvoicing ecosystem, including its technical infrastructure and interoperability arrangements, was being developed and tested. As the UAE eInvoicing Programme progresses into its operational phase, the new framework moves to a direct accreditation process, under which Service Providers will be required to complete the defined accreditation assessment and testing requirements before accreditation is granted.The flexibility introduced through Ministerial Decision No. 56 of 2026 is retained, allowing Service Providers to use third-party Peppol Service Provider Products and to outsource the development, operation or management of such products or elements of their eInvoicing services, while retaining full responsibility for compliance and service delivery.The new framework further sets out defined procedures for accreditation renewal, ongoing evaluation and termination, as well as a formal process for Service Providers to object to a termination decision.Transitional arrangements have also been established for Service Providers that received preliminary approval under Ministerial Decision No. 64 of 2025 before the new Decision takes effect. These Service Providers will have up to 30 days from 1st October 2026 to complete the accreditation requirements under the new framework. A new application will not be required unless otherwise determined by the Ministry. Where the requirements are not satisfied within the prescribed period, the preliminary approval will be terminated.Ministerial Decision No. 168 of 2026 therefore marks the transition from the initial pre-approval model used during the development and testing of the UAE eInvoicing ecosystem to a fully operational accreditation framework, ensuring that Service Providers entering the market demonstrate their technical capability, operational readiness and compliance before being accredited to provide eInvoicing services in the UAE.The Ministry of Finance affirmed that the Decision reflects the UAE’s continued commitment to updating the legislative and regulatory frameworks governing the tax system. It is designed to enhance compliance efficiency and strengthen the regulatory framework for eInvoicing, while also supporting the resilience and sustainability of the business community.",
+    "thumbnail": "https://assets.wam.ae/resource/o5m07udz1ka117jpo.jpeg",
+    "link": "https://www.wam.ae/en/article/c2nmxg3-ministry-finance-issues-decision-accreditation",
+    "pubDate": "2026-10-09T13:16:07+04:00",
+    "scrapedAt": "2026-10-09T22:24:29.639946+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "ministerial decision",
+      "einvoicing"
+    ]
+  },
+  {
+    "id": "bce0ea7c3315ac29",
+    "title": "UAE updates eInvoicing Service Provider accreditation framework under new decision",
+    "description": "The UAE Ministry of Finance issued on Friday Ministerial Decision No. 168 of 2026 on the Eligibility Criteria and Accreditation Procedures for Service Providers under the Electronic Invoicing System, repealing Ministerial Decision No. 64 of 2025 and its amendments, including Ministerial Decision No. 56 of 2026. The new Decision will enter into force on 1st […]",
+    "thumbnail": "https://economymiddleeast.com/wp-content/uploads/2026/10/UAE-eInvoicing-.jpeg",
+    "link": "https://economymiddleeast.com/news/uae-updates-einvoicing-service-provider-accreditation-framework-under-new-decision/",
+    "pubDate": "2026-10-09T11:59:47+00:00",
+    "scrapedAt": "2026-10-09T22:24:29.630515+00:00",
+    "source": "https://economymiddleeast.com/latest-news/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "ministerial decision",
+      "einvoicing"
     ]
   }
 ]
