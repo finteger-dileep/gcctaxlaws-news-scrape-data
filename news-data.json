@@ -6906,5 +6906,55 @@
     "matchedKeywords": [
       "cabinet decision"
     ]
+  },
+  {
+    "id": "b3c3e13048b32b92",
+    "title": "China increases LNG imports from Russia by 44.3% to 7.19 mn tonnes in January-September",
+    "description": "BEIJING, 21st October, 2026 (WAM) -- China’s imports of Russian liquefied natural gas (LNG) increased by 44.3% year over year in January-September, reaching 7.19 million metric tonnes, according to data from China’s General Administration of Customs.The statistics, carried by TASS, showed that the value of LNG supplies from Russia to China rose by 38.5% to $3.92 billion. Russia ranks second among China’s leading LNG suppliers.Australia was China’s largest LNG supplier in January-September, although its exports to China declined by 1.1% compared with the same period in 2025 to 15.01 mn metric tonnes. Malaysia ranked third with 6.2 mn metric tonnes, up 26.1%.Qatar followed with 4.88 mn metric tonnes, down 65.5%, followed by Indonesia with 2.46 mn metric tonnes, a decline of 22.8%. The United States exported 231,180 metric tonens of LNG to China over the nine-month period, down 11%.In September, China doubled its LNG imports from Russia compared with August to 1.85 mn metric tonnes. In value terms, supplies increased 2.2-fold to $1.18 bn.According to official statistics, China increased its LNG imports from Russia by 3.3% in 2024 and by 18.2% in 2025, reaching 9.79 mn metric tonnes.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c2us3x2-china-increases-lng-imports-from-russia-443-719",
+    "pubDate": "2026-10-21T03:41:03+04:00",
+    "scrapedAt": "2026-10-21T03:00:06.476785+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "4a69ad916f3ad6c0",
+    "title": "UAE VAT rules change staff expense claims: What businesses need to review",
+    "description": "Transport, accommodation, meals and phone bills face specific conditions for tax recovery",
+    "thumbnail": "https://media.assettype.com/gulfnews/2024-11-29/jsdvaf8q/taxation__tax__income_tax_resources1_16a45058858_original_ratio.jpg",
+    "link": "https://gulfnews.com/business/tax-news/uae-vat-rules-change-staff-expense-claims-what-businesses-need-to-review-1.500716371",
+    "pubDate": "2026-10-21T02:06:00+00:00",
+    "scrapedAt": "2026-10-21T03:00:06.472224+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat"
+    ]
   }
 ]
