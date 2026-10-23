@@ -7313,5 +7313,55 @@
       "e-invoicing",
       "e invoicing"
     ]
+  },
+  {
+    "id": "ec3149f9365975c8",
+    "title": "Qatar Chamber trains customs officials on e-ATA Carnet",
+    "description": "DOHA: The General Authority of Customs (GAC) and Qatar Chamber (QC) jointly organised a training programme on the Electronic ATA Carnet (e-ATA Carnet)...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20261023_1792742688-721-thumb_small_190.jpeg?1792742688",
+    "link": "https://thepeninsulaqatar.com/article/23/10/2026/qatar-chamber-trains-customs-officials-on-e-ata-carnet",
+    "pubDate": "2026-10-23T00:00:00+00:00",
+    "scrapedAt": "2026-10-23T21:08:34.306450+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "4baaf711779df3e0",
+    "title": "Mazur guides Weissmuller to Sealine Cup title as Al Jehani lands four wins",
+    "description": "DOHA: Weissmuller made a winning start to his new season, capturing the feature Sealine Cup at Al Rayyan Racecourse as Hamad Al Jehani...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20261023_1792744782-351-thumb_small_190.jpg?1792744783",
+    "link": "https://thepeninsulaqatar.com/article/23/10/2026/mazur-guides-weissmuller-to-sealine-cup-title-as-al-jehani-lands-four-wins",
+    "pubDate": "2026-10-23T00:00:00+00:00",
+    "scrapedAt": "2026-10-23T21:08:34.306450+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
