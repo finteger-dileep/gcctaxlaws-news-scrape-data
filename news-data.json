@@ -105,81 +105,6 @@
     ]
   },
   {
-    "id": "177789aa3926a2c4",
-    "title": "General Tax Authority Announces the Start of Registration for the Global and Domestic\n                                    Minimum Tax (Pillar Two) Service on the Dhareeba Platform",
-    "description": "The General Tax Authority has announced the launch of the Global and Domestic Minimum Tax (Pillar Two) Registration Service through the Dhareeba platform, marking another step in Qatar’s ongoing efforts to modernize its tax system in line with the latest international standards and frameworks. The GTA invites multinational enterprise (MNE) groups that fall within the scope of the Global and Domestic Minimum Tax rules to complete their initial registration within three months from the date the service is activated on the Dhareeba platform. Developed by the GTA, the registration service is designed to streamline the registration process for in-scope MNE groups through a centralized, user-friendly platform. The service enables entities to submit their core information, identify the Ultimate Parent Entity (UPE), and designate the local entities subject to the Pillar Two rules. Where more than one entity exists in Qatar, one local entity must be designated as the primary point of contact. This development follows the implementation of Law No. (22) of 2024, which established the legislative framework for the Global and Domestic Minimum Tax (Pillar Two) in Qatar. The law forms part of Qatar’s adoption of the OECD/G20 Inclusive Framework’s Pillar Two rules, which introduce a global minimum effective tax rate of 15% for multinational enterprise groups with consolidated annual revenues of EUR 750 million or more in at least two of the four fiscal years preceding the tested fiscal year. This initiative reaffirms Qatar’s commitment to transparency, fairness, and the protection of its domestic tax base, while further strengthening its position as a trusted and competitive investment destination.",
-    "thumbnail": "https://gta.gov.qa/assets/images/GTA Logo- New1.jpg",
-    "link": "https://gta.gov.qa/en/media-center/news/general-tax-authority-announces-the-start-of-registration-for-the-global-an",
-    "pubDate": "2026-08-02T00:00:00+00:00",
-    "scrapedAt": "2026-08-02T19:13:45.235232+00:00",
-    "source": "https://gta.gov.qa/en/media-center/news",
-    "sourceType": "official",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "News",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "pillar two"
-    ]
-  },
-  {
-    "id": "28acc05770e5f1cc",
-    "title": "Qatar Tourism guides applicants ahead of September deadline for 2026 Awards",
-    "description": "Doha, Qatar: Qatar Tourism has concluded a series of training workshops designed to support applicants for the fourth edition of the Qatar Tourism...",
-    "thumbnail": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
-    "link": "https://thepeninsulaqatar.com/article/02/08/2026/qatar-tourism-guides-applicants-ahead-of-september-deadline-for-2026-awards",
-    "pubDate": "2026-08-02T00:00:00+00:00",
-    "scrapedAt": "2026-08-02T19:13:45.491181+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
-    "id": "1f03322042bc814a",
-    "title": "Registration for Global and Domestic Minimum Tax, Pillar Two, Service through Dhareeba begins",
-    "description": "Doha, Qatar: The General Tax Authority (GTA) has announced the launch of the Global and Domestic Minimum Tax (Pillar Two) Registration Service through...",
-    "thumbnail": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
-    "link": "https://thepeninsulaqatar.com/article/02/08/2026/registration-for-global-and-domestic-minimum-tax-pillar-two-service-through-dhareeba-begins",
-    "pubDate": "2026-08-02T00:00:00+00:00",
-    "scrapedAt": "2026-08-02T19:13:45.491181+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "pillar two"
-    ]
-  },
-  {
     "id": "f48493eef934c47e",
     "title": "Dubai issues 2026 Super Guide for Kids: Over 100 places to play, splash and learn this summer",
     "description": "From VR arenas and cat cafes to pottery studios, here is where to take the kids this year",
@@ -7620,6 +7545,57 @@
     "matchedKeywords": [
       "cabinet decision",
       "einvoicing"
+    ]
+  },
+  {
+    "id": "54100328dcc08ed1",
+    "title": "UAE gratuity guide: How to calculate your final settlement",
+    "description": "Why signing a salary reduction could cost you thousands in your final settlement",
+    "thumbnail": "https://media.assettype.com/gulfnews/import/2023/12/06/STOCK-OFFICE-STAFF-IN-DUBAI---EMPLOYEES---JOBS---UAE_18c3e679cdd_large.jpg",
+    "link": "https://gulfnews.com/living-in-uae/ask-us/uae-gratuity-calculation-guide-2026-1.500532178",
+    "pubDate": "2026-10-31T03:00:00+00:00",
+    "scrapedAt": "2026-10-31T03:46:54.108243+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Ask Us",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "c1977efa3074a359",
+    "title": "UAE limits e-invoicing fines at Dh50,000, removes Dh1,000 daily penalty—how it works now",
+    "description": "Now get relief from mounting fines as revised rules limit penalties, scraps double charges",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-09-09/dx5wj94o/Corporate-tax",
+    "link": "https://gulfnews.com/business/tax-news/uae-limits-e-invoicing-fines-at-dh50000-removes-dh1000-daily-penaltyhow-it-works-now-1.500730246",
+    "pubDate": "2026-10-31T02:06:00+00:00",
+    "scrapedAt": "2026-10-31T03:46:54.108243+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "e-invoicing",
+      "e invoicing"
     ]
   }
 ]
