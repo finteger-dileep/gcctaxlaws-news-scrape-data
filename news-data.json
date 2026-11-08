@@ -7325,5 +7325,56 @@
       "customs",
       "customs duty"
     ]
+  },
+  {
+    "id": "17dc214902180088",
+    "title": "UAE VAT rules: Six employee expenses businesses can now claim tax back on",
+    "description": "Companies can recover VAT paid on qualifying expenses, not the full cost",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-11-08/1d1qfoch/UAE",
+    "link": "https://gulfnews.com/business/tax-news/uae-vat-rules-six-employee-expenses-businesses-can-now-claim-tax-back-on-1.500740209",
+    "pubDate": "2026-11-08T09:40:28.775000+00:00",
+    "scrapedAt": "2026-11-08T21:49:07.116661+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat"
+    ]
+  },
+  {
+    "id": "6d54785f1e5bbc23",
+    "title": "Dubai Airports issues travel guide: Banned items, baggage and customs rules for arrivals and departures",
+    "description": "Travellers urged to check permitted and prohibited items before flying from DXB",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-11-08/lg7qnd7b/HWWnDsUW4AAiWDi.jpg",
+    "link": "https://gulfnews.com/business/aviation/dubai-airports-issues-travel-guide-banned-items-baggage-and-customs-rules-for-arrivals-and-departures-1.500740160",
+    "pubDate": "2026-11-08T08:28:19.452000+00:00",
+    "scrapedAt": "2026-11-08T21:49:07.116661+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Aviation",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs",
+      "guide"
+    ]
   }
 ]
