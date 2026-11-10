@@ -7352,5 +7352,55 @@
     "matchedKeywords": [
       "customs"
     ]
+  },
+  {
+    "id": "02d21ef8309e7245",
+    "title": "China's foreign trade grows 20% in first 10 months",
+    "description": "BEIJING, 10th November, 2026 (WAM) -- China's foreign trade sustained robust growth in the first 10 months of 2026, with total goods imports and exports rising 20 percent year-on-year to 44.81 trillion yuan ($6.67 trillion), the General Administration of Customs said on Tuesday.According to China Daily, exports increased 17.6 percent to 25.99 trillion yuan, while imports expanded 23.6 percent to 18.82 trillion yuan during the period, data from the administration showed.October marked the sixth consecutive month of double-digit year-on-year growth in both exports and imports, the administration said.The country's goods trade rose 31.2 percent year-on-year to 4.87 trillion yuan last month.",
+    "thumbnail": "https://assets.wam.ae/resource/pww08qyc1ka0qp9po.jpg",
+    "link": "https://www.wam.ae/en/article/17io2ue-chinas-foreign-trade-grows-20-first-months",
+    "pubDate": "2026-11-10T08:46:33+04:00",
+    "scrapedAt": "2026-11-10T05:42:25.036498+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "7857af319525ec3e",
+    "title": "Qatar launches regulatory guide for private schools, kindergartens",
+    "description": "Doha, Qatar: The Ministry of Education and Higher Education has launched a new regulatory guide for private schools and kindergartens, outlining unified standards...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20180312_1520859829-192831-thumb_small_190.jpg?1635250003",
+    "link": "https://thepeninsulaqatar.com/article/10/11/2026/qatar-launches-regulatory-guide-for-private-schools-kindergartens",
+    "pubDate": "2026-11-10T00:00:00+00:00",
+    "scrapedAt": "2026-11-10T05:42:25.021233+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
