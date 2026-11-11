@@ -55,31 +55,6 @@
     ]
   },
   {
-    "id": "950eb33771c10aba",
-    "title": "MoJ sets six key research areas for legal, judicial studies through 2030",
-    "description": "Doha, Qatar: The Center for Legal and Judicial Studies at the Ministry of Justice (MoJ) has launched the Ministry’s Research Priorities Guide for...",
-    "thumbnail": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
-    "link": "https://thepeninsulaqatar.com/article/13/08/2026/moj-sets-six-key-research-areas-for-legal-judicial-studies-through-2030",
-    "pubDate": "2026-08-13T00:00:00+00:00",
-    "scrapedAt": "2026-08-13T19:05:19.886171+00:00",
-    "source": "https://thepeninsulaqatar.com/news/search",
-    "sourceType": "media",
-    "sourceCountry": "QA",
-    "country": "Qatar",
-    "countries": [
-      "Qatar"
-    ],
-    "primaryCountry": "Qatar",
-    "isMultiCountry": false,
-    "category": "",
-    "jurisdictions": [
-      "QA"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "07f6648f0d386e00",
     "title": "Leveraging digital technologies and data into Biscay’s tax administration",
     "description": "This case study examines the BATUZ digital system of Biscay, Spain. BATUZ is an integrated digital tax administration system comprising certified e-invoicing (TicketBAI), a real-time ledger of economic operations (LROE), and automatic preparation of draft tax returns. The analysis maps BATUZ throughout the lens the six dimensions of the OECD...",
@@ -7453,6 +7428,31 @@
     ],
     "matchedKeywords": [
       "guide"
+    ]
+  },
+  {
+    "id": "e9468473c70c89e8",
+    "title": "Russian foreign trade surplus gained 13.2% yoy in 9M 2026 — Customs",
+    "description": "MOSCOW, 11th November, 2026 (WAM) -- Russian foreign trade surplus for January-September 2026 increased by 13.2% year-on-year to $116.8 billion, according to the Federal Customs Service.Exports during the reporting period rose by $41.9 bn to reach $346.5 bn, while imports increased by $28.3 bn to $229.7 bn. Accordingly, Russia's foreign trade turnover in January-September 2026 grew by 13.9% annually and amounted to $576.2 bn, TASS reported, citing the official figures.Russian exports to European countries increased by 2.3% to $44.5 bn, while imports gained 8.9% to $56.2 bn. Exports to Asian countries surged by 17.7% to $277.5 bn, and imports increased by 17.6% to $158.1 bn. Exports to African states fell by 0.7% to $15.8 bn, whereas imports edged up by 7.3% to $3.6 bn. Supplies to countries in North and South America plummeted by 7.8% to $8.6 bn, with imports losing 1% to $11.7 bn.Mineral products accounted for the largest share in the structure of Russia’s exports during the reporting period at $194.8 bn (up 14.3%). The second-largest category was metals and metal products, with exports rising by 21.8% to $63.5 bn. Agricultural products ranked third at $31.8 bn (plus 15.6%).The largest category of Russia’s imports was machinery, equipment and transport vehicles. In January - September 2026, this indicator surged by 16.1% to $112.4 bn. It was followed by chemical products (up 11.3% to $44.8 bn) and agricultural products (up 4.3% to $32.6 bn).",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c37a7s8-russian-foreign-trade-surplus-gained-132-yoy-2026",
+    "pubDate": "2026-11-11T05:56:20+04:00",
+    "scrapedAt": "2026-11-11T04:19:45.113238+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
     ]
   }
 ]
