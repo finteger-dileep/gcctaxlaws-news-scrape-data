@@ -7710,5 +7710,56 @@
       "top up tax",
       "zakat"
     ]
+  },
+  {
+    "id": "88d6437fdbdb81d5",
+    "title": "EU, Indonesia sign ambitious trade and investment agreements",
+    "description": "BRUSSELS, 21st November, 2026 (WAM) -- The European Union and Indonesia today signed their Comprehensive Economic Partnership Agreement (CEPA), and Investment Protection Agreement (IPA). These agreements mark a major step forward in advancing the EU's strategy of diversification and partnerships, strengthening ties with Southeast Asia's largest economy and the fourth most populous country in the world. They reinforce rules-based trade and provide a stable, predictable framework for trade and investment, while contributing to more secure and resilient supply chains for energy and raw materials.The agreements will create new opportunities for businesses on both sides and deliver significant economic benefits. EU exports to Indonesia are projected to increase by almost 40% within 15 years, with particularly strong gains in machinery, motor vehicles, and other metals. Indonesian exports of goods and services to the EU are expected to rise by more than 14% over the same period. This will boost economic growth, with the EU's GDP projected to be €16 billion higher and Indonesia's €27 billion higher than they would be without the agreement.The agreements will notably: Remove import duties on 98.5% of tariff lines and simplify procedures on EU goods exports to Indonesia, including agrifood exports and key industrial products, helping EU exporters to save over €600 million a year in customs duties; Open up new opportunities for EU investments into Indonesia, notably in strategic sectors such as electric vehicles, electronics and pharmaceuticals; and Support sustainable growth through a strong Trade and Sustainable Development chapter covering commitments on climate, the environment, workers' rights and enforceability; setting the Paris Agreement as an essential element of the deal; and including mechanisms for cooperation and dialogue on regulatory and sustainability issues, as well as a dedicated Protocol on palm oil.The two agreements will now require the European Parliament's consent. The Indonesian authorities are, in parallel, carrying out their own internal ratification procedures. Once the EU and Indonesia have concluded their internal procedures, the agreements will be provisionally applied, likely in early 2027.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c3d8l3j-eu-indonesia-sign-ambitious-trade-and-investment",
+    "pubDate": "2026-11-21T21:01:24+04:00",
+    "scrapedAt": "2026-11-21T22:53:05.082109+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs",
+      "customs duty"
+    ]
+  },
+  {
+    "id": "d7ba17784a73baf0",
+    "title": "Dubai Run 2026: Your guide to Sunday's Sheikh Zayed Road takeover – Routes, Metro and road closures",
+    "description": "Sheikh Zayed Road becomes a giant running track on Sunday. Here's your complete guide",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-11-21/3jt1xn7p/RUN.PNG",
+    "link": "https://gulfnews.com/uae/dubai/dubai-run-2026-your-guide-to-sundays-sheikh-zayed-road-takeover-routes-metro-and-road-closures-1.500756267",
+    "pubDate": "2026-11-21T14:01:45.727000+00:00",
+    "scrapedAt": "2026-11-21T22:53:05.077369+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Dubai",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
   }
 ]
