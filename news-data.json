@@ -131,35 +131,6 @@
     ]
   },
   {
-    "id": "48ca559f71320e3b",
-    "title": "Ministry of Finance issues Ministerial Decision on requirements for filing Pillar Two Information Return",
-    "description": "ABU DHABI, 26th August, 2026 (WAM) -- The Ministry of Finance has issued Ministerial Decision No. 133 of 2026 on the entities required to file the Pillar Two Information Return for the purposes of Cabinet Decision No. 142 of 2024 on the Imposition of Top-Up Tax on Multinational Enterprises.The Ministerial Decision forms part of the UAE’s continued implementation of the Pillar Two requirements and reaffirms the country’s commitment to enhancing international tax transparency, while providing greater tax certainty and clarity for multinational enterprises regarding their reporting obligations.The Decision sets out the filing obligations relating to the Pillar Two Information Return for multinational enterprises operating in the UAE under the UAE’s Top-up Tax regime, supporting the consistent implementation of the Pillar Two Global Anti-Base Erosion (GloBE) Rules of the OECD/G20 Inclusive Framework.Under the Decision, the following entities are required to file a Pillar Two Information Return with the Federal Tax Authority: each Constituent Entity, excluding any Investment Entity, located in the UAE; each Joint Venture and JV Subsidiary located in the UAE; and each Stateless Constituent Entity that is a Reverse Hybrid Entity created in accordance with the laws of the UAE.The Decision also permits the Pillar Two Information Return to be filed either directly by the Constituent Entity, Joint Venture or JV Subsidiary, or by the Designated Local Entity on its behalf.The Ministerial Decision applies to Fiscal Years starting on or after 1st January 2025.",
-    "thumbnail": "https://assets.wam.ae/resource/k1k06ma11ka0vgypo.jpg",
-    "link": "https://www.wam.ae/en/article/c1xfunv-ministry-finance-issues-ministerial-decision",
-    "pubDate": "2026-08-26T11:19:17+04:00",
-    "scrapedAt": "2026-08-26T19:49:17.207170+00:00",
-    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Economy",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "top-up tax",
-      "top up tax",
-      "cabinet decision",
-      "ministerial decision",
-      "pillar two"
-    ]
-  },
-  {
     "id": "aa3541b5039ab831",
     "title": "UAE sets new tax reporting rules for multinational companies",
     "description": "New rules clarify which UAE entities must file returns under global minimum tax regime",
@@ -7810,6 +7781,59 @@
     ],
     "matchedKeywords": [
       "guide"
+    ]
+  },
+  {
+    "id": "6fe31cea85adb149",
+    "title": "Tax Authority Conducts Over 6,000 Field Visits",
+    "description": "Inspection teams from the Small and Medium Taxpayers Audit Department at the Tax Authority have conducted more than 6,000 field visits to various companies and commercial establishments across the Sultanate of Oman. These visits aimed to carry out inspections, identify and register businesses, collect data, and verify taxpayers’ compliance with the laws and regulations governing Corporate Income Tax, Value Added Tax (VAT), and Excise Tax. The objective is to ensure that the same rules apply to everyone, so that compliant taxpayers do not bear the burden of compliance alone. The field visits covered a wide range of economic and service sectors, including automotive spare parts shops, building materials and related products, gold trading, textile businesses, wholesale trade, medical clinics, petrol stations, car washes, and dry-cleaning services. During these visits, inspection teams focused on verifying that companies submit their tax returns within the prescribed deadlines and settle their outstanding tax liabilities. Establishments that have failed to submit their tax returns are being followed up to ensure submission, while those with overdue payments are subject to the necessary legal procedures for collection. Additionally, establishments that have not updated their information are being followed up to ensure their records are updated in the tax system and to maintain the accuracy of the taxpayer database.",
+    "thumbnail": "https://tms.taxoman.gov.om/portal/documents/20126/eabfe13f-2543-ff35-fec4-ae0d2838e836",
+    "link": "https://tms.taxoman.gov.om/portal/web/taxportal/-/tax-authority-conducts-over-6-000-field-visits-1",
+    "pubDate": "Today",
+    "scrapedAt": "2026-11-24T08:01:21.302689+00:00",
+    "source": "https://tms.taxoman.gov.om/portal/news",
+    "sourceType": "official",
+    "sourceCountry": "OM",
+    "country": "Oman",
+    "countries": [
+      "Oman"
+    ],
+    "primaryCountry": "Oman",
+    "isMultiCountry": false,
+    "category": "News",
+    "jurisdictions": [
+      "OM"
+    ],
+    "matchedKeywords": [
+      "vat",
+      "value added tax",
+      "excise tax",
+      "excise"
+    ]
+  },
+  {
+    "id": "7e7243e6b0a1d072",
+    "title": "Dubai Customs expands to London: Investors can now access UAE customs services from abroad",
+    "description": "UK and international firms can now submit and track Dubai customs requests from overseas",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-09-24/ao1in38i/Dubai-Customs.png",
+    "link": "https://gulfnews.com/business/markets/dubai-customs-expands-to-london-investors-can-now-access-uae-customs-services-from-abroad-1.500758962",
+    "pubDate": "2026-11-24T07:40:39.856000+00:00",
+    "scrapedAt": "2026-11-24T08:01:21.468639+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Markets",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "customs"
     ]
   }
 ]
