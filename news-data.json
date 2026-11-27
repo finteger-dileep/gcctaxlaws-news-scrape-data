@@ -7835,5 +7835,32 @@
     "matchedKeywords": [
       "guide"
     ]
+  },
+  {
+    "id": "587b3422a2190731",
+    "title": "UAE e-invoicing: Does a group TRN replace subsidiaries’ TINs? What rules reveal",
+    "description": "Each VAT-group member needs its own TIN and e-invoicing endpoint. Here’s how rules apply",
+    "thumbnail": "https://media.assettype.com/gulfnews/2025-09-19/u6i23g67/E-invoicing.jpg",
+    "link": "https://gulfnews.com/business/tax-news/uae-e-invoicing-does-a-group-trn-replace-subsidiaries-tins-what-rules-reveal-1.500762240",
+    "pubDate": "2026-11-27T03:07:00+00:00",
+    "scrapedAt": "2026-11-27T06:20:59.364190+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Tax News",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "vat",
+      "e-invoicing",
+      "e invoicing"
+    ]
   }
 ]
