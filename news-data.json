@@ -55,31 +55,6 @@
     ]
   },
   {
-    "id": "2b3d6669c1229457",
-    "title": "UAE sets textbook packages for every grade in new school-year guide",
-    "description": "Guide sets out books and learning resources for each grade in the 2026-27 academic year",
-    "thumbnail": "https://media.assettype.com/gulfnews/2026-08-28/arf8xnne/moe",
-    "link": "https://gulfnews.com/uae/education/uae-sets-textbook-packages-for-every-grade-in-new-school-year-guide-1.500655216",
-    "pubDate": "2026-08-28T08:06:51.727000+00:00",
-    "scrapedAt": "2026-08-28T08:40:28.882638+00:00",
-    "source": "https://gulfnews.com/",
-    "sourceType": "media",
-    "sourceCountry": "AE",
-    "country": "United Arab Emirates",
-    "countries": [
-      "United Arab Emirates"
-    ],
-    "primaryCountry": "United Arab Emirates",
-    "isMultiCountry": false,
-    "category": "Education",
-    "jurisdictions": [
-      "AE"
-    ],
-    "matchedKeywords": [
-      "guide"
-    ]
-  },
-  {
     "id": "33e341809de8512e",
     "title": "118th Arab Economic and Social Council session to convene Thursday",
     "description": "CAIRO, 30th August, 2026 (WAM) -- The Economic and Social Council of the League of Arab States will hold its 118th regular session at the ministerial level on Thursday at the headquarters of the League's General Secretariat.The meeting will discuss the completion of the Greater Arab Free Trade Area, developments related to the Arab Customs Union, food security and a number of issues concerning joint Arab development.The ministerial session will be preceded by a series of preparatory meetings organised by the Secretariat of the Economic and Social Council.The meetings began on Sunday with the Social Committee, while the Economic Committee will convene on Monday.The Council will meet at the senior officials level on Wednesday ahead of the ministerial session on Thursday.",
@@ -7758,6 +7733,107 @@
     ],
     "matchedKeywords": [
       "customs"
+    ]
+  },
+  {
+    "id": "cd610f9104252035",
+    "title": "DWTC Free Zone partners with Mashreq to simplify business banking",
+    "description": "DUBAI, 26th November, 2026 (WAM) -- Dubai World Trade Centre (DWTC) Free Zone has signed a Memorandum of Understanding with Mashreqbank PSC (Mashreq) to provide seamless business banking solutions for companies operating within DWTC Free Zone.By integrating banking solutions into the company formation process, the partnership addresses one of the most critical early steps for any business establishing operations in Dubai.The MoU was signed by Jad Bechara, Vice President of Asset Management at DWTC, and Raj Tatavarty, Head of Products & Digital, Business Banking at Mashreq, in the presence of officials from both organisations.Companies setting up in DWTC Free Zone, as well as those already licensed, will be introduced to Mashreq as part of the setup process. Mashreq will enable eligible companies to apply for a business bank account online, with applications prioritised and a dedicated point of contact available to guide onboarding and respond to queries.",
+    "thumbnail": "",
+    "link": "https://www.wam.ae/en/article/c3g7qhg-dwtc-free-zone-partners-with-mashreq-simplify",
+    "pubDate": "2026-11-26T13:47:04+04:00",
+    "scrapedAt": "2026-11-27T01:33:40.601418+00:00",
+    "source": "https://www.wam.ae/en/rss/feed/g50l4i8lmg?slug=rss-economy&vsCode=avs-002-1jc72emk1y2i&type=rss",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Economy",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
+    ]
+  },
+  {
+    "id": "04077baa760f13b0",
+    "title": "UAE Free Zones: Transfer pricing compliance key to retaining 0% corporate tax rate",
+    "description": "Adhering to arm’s length principle key for UAE Free Zone tax benefits",
+    "thumbnail": "https://media.assettype.com/gulfnews/2026-11-26/3x8zkpn9/Transfer-Pricing.png",
+    "link": "https://gulfnews.com/gn-focus/uae-free-zones-transfer-pricing-compliance-key-to-retaining-0-corporate-tax-rate-1.500761551",
+    "pubDate": "2026-11-26T07:13:48.974000+00:00",
+    "scrapedAt": "2026-11-27T01:33:40.594044+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "GN Focus",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "corporate tax",
+      "transfer pricing"
+    ]
+  },
+  {
+    "id": "4b6a41b36510140a",
+    "title": "Qatar, Turkmenistan sign memorandum of understanding on customs training, expertise exchange",
+    "description": "Doha, Qatar: The State of Qatar, represented by the General Authority of Customs (GAC), and the Republic of Turkmenistan signed a Memorandum of...",
+    "thumbnail": "https://thepeninsulaqatar.com/get/image/20261126_1795706524-423-thumb_small_190.jpg?1795706524",
+    "link": "https://thepeninsulaqatar.com/article/26/11/2026/qatar-turkmenistan-sign-memorandum-of-understanding-on-customs-training-expertise-exchange",
+    "pubDate": "2026-11-26T00:00:00+00:00",
+    "scrapedAt": "2026-11-27T01:33:40.586183+00:00",
+    "source": "https://thepeninsulaqatar.com/news/search",
+    "sourceType": "media",
+    "sourceCountry": "QA",
+    "country": "Qatar",
+    "countries": [
+      "Qatar"
+    ],
+    "primaryCountry": "Qatar",
+    "isMultiCountry": false,
+    "category": "",
+    "jurisdictions": [
+      "QA"
+    ],
+    "matchedKeywords": [
+      "customs"
+    ]
+  },
+  {
+    "id": "1c9ae281b6ae36ff",
+    "title": "UAE launches AI education guide for parents: What families need to know",
+    "description": "Guide covers online safety, privacy, responsible AI use and children's development",
+    "thumbnail": "https://assets.wam.ae/resource/0tj096o91ka1myppo.jpeg",
+    "link": "https://gulfnews.com/uae/education/uae-launches-ai-education-guide-for-parents-what-families-need-to-know-1.500762419",
+    "pubDate": "2026-11-26T18:52:51.871000+00:00",
+    "scrapedAt": "2026-11-27T01:33:40.594044+00:00",
+    "source": "https://gulfnews.com/",
+    "sourceType": "media",
+    "sourceCountry": "AE",
+    "country": "United Arab Emirates",
+    "countries": [
+      "United Arab Emirates"
+    ],
+    "primaryCountry": "United Arab Emirates",
+    "isMultiCountry": false,
+    "category": "Education",
+    "jurisdictions": [
+      "AE"
+    ],
+    "matchedKeywords": [
+      "guide"
     ]
   }
 ]
